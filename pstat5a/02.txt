@@ -31,9 +31,9 @@ Probability Rules
 
     1. Conditional prob. of A given B:
 
-                          P(A n B)
-                 P(B|A) = --------
-                            P(A)
+                          P(A and B)
+                 P(B|A) =  --------
+                             P(A)
 
     2. Multiplication Rule
 
