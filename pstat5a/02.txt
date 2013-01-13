@@ -1,0 +1,97 @@
+2013-01-09 Wed.
+Lecture 2
+---------------------------------
+
+...
+
+***NOTATION:   "<x> | <y>"  means "<x> given <y>"
+
+If you know that a family has _two_ children and _one of them is a Boy_, what
+is the probability that the other child is a Boy as well?
+
+    Sample space = set of possible pairs of children
+
+        [Omega] = {BB, BG, GB, GG}
+
+    The prob. that both children are Boys _given that at least one is a Boy_ is:
+    
+        P(both Boys | at least one Boy) = P(both boys AND at least one boy)
+                                          ---------------------------------
+                                                    P(at least one boy)
+
+                          P(A n B)
+                 P(B|A) = --------
+                            P(A)
+
+
+    P(A|B) != P(B|A)
+
+
+Probability Rules
+
+    1. Conditional prob. of A given B:
+
+                          P(A n B)
+                 P(B|A) = --------
+                            P(A)
+
+    2. Multiplication Rule
+
+        P(A and B) = P(B) * P(A|B)
+
+    3. General addition rule (the general OR rule)
+
+        P(A or B) = P(A) + P(B) - P(A and B)
+
+    4. Total Probability
+    
+        P(A) = P(A and B) + P(A and B^c)
+
+    5. Complement Rule
+    
+        P(A)   = 1 - P(A^c)
+        P(A|B) = 1 - P(A^c|B)
+
+[[ contingency table slide ]]
+
+Tree Diagram:
+    [ see paper ]
+
+--
+Two types of questions:
+    P(A and B)
+        ###
+
+    P(B|A)
+        ###
+
+--
+Example: Drug test
+    1% of students use cocaine
+
+    drug test is 99% accurate
+
+    Pat (a student) tests positive for cocaine
+
+    Question: what is the probability that Pat uses cocaine _given_ she tests positive?
+
+    A = { Pat uses cocaine }
+
+    B = { tests positive }
+
+    P(A)   = 0.01   -> P(A^c) = 0.99
+    P(B|A) = 0.99
+
+    P(B|A^c) = 1-0.99 = 0.01
+
+    but we need to compute:
+        P(A|B)
+
+    P(A|B) = P(A and B)      [ from prob. rules, above ]
+             ----------
+                P(B)
+    
+    P(A and B) = P(A) * P(B|A)  [ mult. rule ]
+               = (0.01)(0.99)
+    
+    P(B)  = P(B and A) + P(B and A^c)

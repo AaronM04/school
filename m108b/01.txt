@@ -1,0 +1,61 @@
+2013-01-07 Mon.
+--------------------------
+
+MCDB 108B - Energy Metabolism
+
+****watch "Cinderella Man"
+
+TAs: Kaplan, Gre???insky
+
+---
+
+*** review: basic thermodynamics
+            basic reactivity of carbonyl compounds
+                carbon electropositive
+                oxygen electronegative
+                nucleophiles react with carbon center
+
+*** he will not test us on today
+
+Energy Requirements for Humans
+    1. Basal Metabolic Rate (BMR)
+        - energy required for basic physiological functions
+
+        - subject is at rest, awake, 12 hr postprandial, non-shivering
+
+        - proportional to lean body weight and surface area
+
+        Males:   ~1.0 kcal/kg body weight/hr
+        Females: ~0.9 kcal/kg body weight/hr
+
+        For a 70kg male: ~1681 kcal/day
+
+        Tissue contributions to BMR:
+            Muscle is 42% of body mass; others on list are all ~2%
+
+            Heart cells have highest BMR of all the cells
+                BMR_rel = 27.5
+
+            "look at the overall picture for reading tables"
+                ("there's a tendency to look at details")
+
+        Process contributing to BMR
+            Highest is protein turnover (23% of BMR), then Na+ pump (7.5%), and
+            then Ca+ pump (6%)
+
+
+    2. Physical Activity
+        Light work - walking, housework, golf
+            ~2.5-5 kcal/min
+
+        Exremely heavy work - marathon running & other intense exercise
+            > 10 kcal/min
+
+    3. Thermogenic Effect of Food
+        - aka "Specific Dynamic Action of Food"
+        - Energy required to digest food
+        - ####?
+
+        Total caloric expenditure = ~2500 kcal/day
+
+        eat 4600 kcal => gain 1 lb of fat

@@ -1,0 +1,129 @@
+2013-01-11 Fri.
+Lecture 3
+---------------------
+
+Probability rules
+    1. cond. prob.
+    2. mult rule
+        P(A and B) = P(B and A) = P(B)*P(A|B) = P(A)*P(B|A)
+
+    3. general addition rule (general OR rule)
+        P(A or B) = P(A) + P(B) - P(A and B)
+
+    4. total probability
+        P(A) = P(A and B) + P(A and B^c)
+
+    5. Complement Rule
+        P(A) = 1 - P(A^c)
+        P(A|B) = 1 - P(A^c|B)
+
+    **** do practice problems!
+
+Example
+    Standard deck of cards:
+    Use the general addition rule:
+        P(King)   =  4/52
+        P(Hearts) = 13/52
+
+        P(King and Hearts) = P(King of Hearts) = 1/52
+
+        ???? or????
+            = 4/52 + 13/52 - 1/52 = 16/52 = 4/13    [ general addition rule ]
+
+    Roll a fair die. What is prob. to roll _even number_ or a 3?
+        P(Roll Even) = 3/6
+        P(Roll 3)    = 1/6
+
+        Mutually exclusive events!
+
+        P(Even or 3) = P(Roll Even) + P(Roll 3)   <--- "and" probability missing because zero!
+            = (1 + 3)/6 = 2/3
+
+Independence:
+    A and B are _independent_ events if:
+        P(B|A) = P(B),  P(B|A^c) = P(B),
+        P(A|B) = P(A),  P(A|B^c) = P(A).
+
+    Joint prob. of two independent events:
+        P(A and B) = P(A) * P(B)
+
+    Is King independent of Hearts?
+        P(King)   =  4/52
+        P(Hearts) = 13/52
+
+        P(King and Hearts) = P(King of Hearts) = 1/52
+
+        P(King) * P(Hearts) = 4/52 * 13/52  = 52/52^2  = 1/52
+
+        therefore: P(King and Hearts) = P(King) * P(Hearts)
+
+            They are independent!
+
+        ---
+        Another way to check for independence:
+            P(King) = 4/52 = 1/13
+
+            P(King|Hearts) = P(King and Hearts)
+                             ------------------
+                                  P(Hearts)
+
+                           = (1/52)/(13/52) = 1/13
+
+        therefore: P(King|Hearts) = P(King)
+
+            They are independent!
+
+    Is Face independent of King?
+        P(King) = 4/52
+        P(Face) = (4*3)/52 = 12/52
+
+        P(King and Face) = P(King) = 4/52
+
+        P(King) * P(Face) = 4/52*12/52  = 48/52^2
+
+            They are NOT independent!
+
+    Mutually Exclusive vs. Independent Events
+        Independent Events          Mutually Exclusive Events
+        ------------------          -------------------------
+        P(A and B) = P(A) * P(B)        P(A and B) = 0
+        P(A|B) = P(A)                     P(A|B) = 0
+   P(A or B) = P(A)+P(B) - P(A)*P(B)    P(A or B) = P(A) + P(B)
+
+
+    Mutually exclusive: when one happens, the other does not happen
+        - highly 
+    Independent events: probability of one does not affect the probability of
+        the other happening
+
+Rules of Thumb:
+    * Not -> 1 - Probability
+
+    * OR & Mutually Exclusive -> Add
+
+    * AND & Independence -> Multiply
+
+Successive Events:
+    P(Heads then Tails) = (1/2)*(1/2) = 1/4
+    P(Roll dice) = (1/6)*(1/6) = 1/36
+    P(Roll 1 and then an even number) = (1/6)*(1/2) = 1/12
+
+    Each toss is independent of the previous one
+
+    P(Heads in Toss 1 AND Tails in Toss 2)
+
+        = P(Heads in Toss 1) * P(Tails in Toss 2)
+        = 1/2 * 1/2
+
+    P(HHT) = P(H) * P(H) * P(T)
+
+Sampling without Replacement:
+    A jar contains 6 blue and 6 red marbles.
+
+    You pull out 3
+
+    P(1st is blue) = 6/12 = 0.5
+
+    P(2nd is blue | 1st is blue) = 5/11 = 0.45
+
+    P(3rd is blue | 1st two were blue) = 4/10 = ???

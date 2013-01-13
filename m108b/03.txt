@@ -1,0 +1,47 @@
+2013-01-11 Fri.
+Lecture 3
+-------------------
+EQUILIBRIUM (continued)
+
+Review: change from 1:1 ratio towards equilibrium: [delta]G^[nought]
+
+
+----
+
+    [delta]G = 2.3RT log (B/A)_init - 2.3RT log (B/A)_eq
+
+    2.3RT = 1.4 kcal/mol
+
+    [delta]G = 1.4 kcal/mol * log ((B/A_init)/(B/A_eq))
+
+Every 10-fold displacement from equilibrium requires 1.4 kcal/mol
+    [delta]G =  1.4 kcal/mol * log (10_init/100_eq)
+
+    [delta]G = -1.4 kcal/mol
+
+What drives chemical reactions?
+    entropy and enthalpy - "jargon: meant to exclude people from your world" lolz
+    entropy:
+        randomness
+    enthalpy:
+        if the pressure and volume remain constant, the energy associated w/ the
+        rxn is the change in enthalpy.
+
+    All processes favor: minimum energy, maximum entropy
+
+[delta]G (or [delta]G^[nought]) is a measure of the extent of the reaction, not
+the rxn rate
+
+All processes are a compromise between:
+    maximizing loss in enthalpy, and
+    maximizing gain in entropy
+
+[delta]H = [delta]G + T*[delta]S
+
+-----------------------------------------------------------------------
+STEADY STATE
+
+In steady-state, the levels of intermediates _appear_ to be the same as their
+levels at equilibrium.
+
+equilibrium is synonymous with death(!)
