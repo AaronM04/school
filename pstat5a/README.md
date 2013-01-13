@@ -11,3 +11,9 @@ Contents:
 ## Testing for Independence
 
 ## Mutually Exclusive vs. Independent Events
+
+## Rules of Thumb
+
+## Successive Events
+
+## Sampling without Replacement
