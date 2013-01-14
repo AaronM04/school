@@ -1,0 +1,85 @@
+2013-01-14 Mon.
+Lecture 4
+-------------
+Random Variables:
+    A _random variable_ is a numerical variable whose value depends on the
+    outcome of a _random phenomenon_.
+
+    Each outcome is a number.
+
+    [Omega] = {1, 2, 3} <-- all possible outcomes
+
+    x = outcome of experiment
+
+    Possible values of x are:
+        x = 1,
+        x = 2,
+        x = 3.
+        
+     Outputs(x):   1    2    3
+              P:  0.2  0.6  0.2
+
+    --
+    Flip a coin 3 times:
+
+    Outcomes:
+        HHH HHT HTH HTT
+        THH THT TTH TTT
+
+    X = number of Heads
+    P(X = 3) = 1/8
+    P(X = 2) = 3/8
+    P(X = 1) = 3/8
+    P(X = 0) = 1/8
+
+    P(flip 3 heads) = P(X = 3) = 1/8
+
+Probability distribution function (pdf)
+       k        X = 0   X = 1   X = 2   X = 3
+    P(X = k)     1/8     3/8     3/8     1/8
+
+    --
+    Event A = {X = k}
+        The events {X = k} and {X = j} are mutually exclusive
+        
+        Simple OR Rule:
+            P(X = k or X = j) = P(X = k) + P(X = j)
+
+    In the pdf table: {X = 0}, {X = 1} are mutually exclusive.
+
+    --
+    P(A or B) = P(A) + P(B) when A,B are mut. excl. [ from last week ]
+
+    P({X=0} OR {X=1}) = P(X=0) + P(X=1)
+                      = 1/8 + 3/8
+                      = 4/8
+                      = 1/2
+
+    Generally:
+        X takes values {x_1, ..., x_k}
+
+        #### (see slides)
+
+Sum of two dice
+    (1, 2) = ([outcome of 1st die], [outcome of 2nd die])
+
+    X = sum of two dice
+
+    create PDF table:
+
+        k    2    3    4     5   6    7   8    9   10   11   12
+    P(X=k)  1/36 1/18 1/12  1/9 5/36 1/6 5/36 1/9 1/12 1/18 1/36
+
+
+Job interview:
+    5 applicants selected for interview
+    X = number of women
+
+    what is prob. that 1 or 2 women are selected for interview?
+        P(X=1 or X=2)
+        = P(X=1) + P(X=2) = 0.1563 + 0.3125  = 0.4688
+
+    What is the prob that at least 2 women are selected?
+        P(X>=2) = P(X=2) + P(X=3) + P(X=4) + P(X=5)
+                = .3125  + .3125  + .1563  + .0312
+                = .8125
