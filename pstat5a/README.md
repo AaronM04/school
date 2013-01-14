@@ -1,10 +1,11 @@
-Contents:
+Contents
+========
 
-# 02.txt - January 9th
+# 02.txt - Wednesday, January 9th
 
 ## Probability rules
 
-# 03.txt - January 11th
+# 03.txt - Friday, January 11th
 
 ## Prob. rules (recap)
 
@@ -17,3 +18,15 @@ Contents:
 ## Successive Events
 
 ## Sampling without Replacement
+
+# 04.txt - Monday, January 14th
+
+## Random Variables
+
+## Probability Distribution Function (pdf)
+
+## Sum of two dice
+
+## Job interview
+
+## Daughters in a family
