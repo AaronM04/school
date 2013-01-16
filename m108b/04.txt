@@ -1,0 +1,58 @@
+2012-01-14 Mon.
+Lecture 4
+------------------
+
+[delta]G = the energy that's available to do work when rxn goes from initial to
+           final/equil.
+
+[delta]G^[nought] tells you the equilibrium constant, because the initial conditions
+        are defined as 1:1
+
+How do you keep something away from equilibrium and hold it there?
+    ANSWER: put it in the steady-state AND introduce a rate-determining step
+                    (reduced-flow in rate-determining step)
+
+        cross out: The rate-det. step determines flow of overall pathway
+
+If you know the equil. const., you know [delta]G^[nought]:
+
+    [delta]G^[nought] = -2.3RT log K_eq
+
+MAR_in = initial Mass Action Ratio
+
+
+    [delta]G = 2.3RT log MAR_in  -  2.3RT log K_eq
+
+    (in the slide, all the [delta]G's are zero except for the rate-limiting step,
+     where it is -1.26; it's the only reaction that can do work -- it's the only
+     rxn displaced far away from equilibrium)
+
+    Only rxns whose [delta]G values are _large_ and _negative_ can proceed in the
+    forward direction and do work.
+
+
+    cross out: A change in "flux" through this step changes...
+          AND: cross out "flux" and replace with "velocity"
+
+How do enzymes work?
+    - steady-state metabolic flow is controlled by enzymes
+
+
+Reaction steps for conversion of Substrate to Product
+    1. substrate binding (not really a step)
+    2. chemical conversion
+    3. product release
+
+        Overall velocity = k_cat * [#S-bound E's]
+
+Dependence of Enzyme Velocity on Substrate Conc.
+    The more substrates that are there, the more prob. that a substrate will get into
+    the active site of an enzyme
+
+    The # of enzymes bound w/ substrate is always less than the # of substrate molecules
+    present.
+
+    follows a "law of diminishing returns" - adding more substrate will increase the
+    number of E-S complexes, but less than proportionately
+
+
