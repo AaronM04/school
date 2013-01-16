@@ -1,0 +1,52 @@
+2013-01-16 Wed.
+Lecture 5
+------------------
+SUB! - I was 10 minutes late, too
+
+Expected value ###
+
+How to compute E(X):
+    weighted average: value*probability
+
+Just because E(X) is in your favor doesn't mean you would want to play the game
+    We are risk-averse individuals
+
+Adding a constant:
+    E(X + [alpha]) = E(X) + [alpha]
+
+Functions of a Random Variable:
+    E(X) = 10(0.4) + 12(0.5) + 15(0.1) = 11.5
+
+    Double the value of X:
+        (works)
+        E(2 X) = 20(0.4) + ... = 23
+        E(2 X) = 2 E(X)             [ commutative property of multiplication ]
+               = 2(11.5) = 23
+
+Multiplying by a Constant (seen above):
+    E(b X) = b E(X)
+
+Properties of E(X)
+    1) E(X + a) = E(X) + a
+    2) E(b X) = b E(X)
+    3) E(X + Y) = E(X) + E(Y)
+    4) if X and Y are independent:
+        E(XY) = E(X)*E(Y)
+
+Measuring the Spread:
+    Variance = how spread out the pdf is.
+
+    Variance = average squared distance from the mean:
+        Mean: E(X)
+
+        Distance from the mean: X - E(X)
+
+        Squared distance from the mean: (X - E(X))^2
+
+        Average squared distance from the mean:
+            Var(X) = E(X - E(X))^2
+
+Another way to compute the Variance:
+    Var(X) = E(X^2) - (E(X))^2
+
+    Remark! E(X^2) is not the same as (E(X))^2
