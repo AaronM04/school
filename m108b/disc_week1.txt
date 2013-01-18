@@ -6,3 +6,13 @@ grant.gucinski@gmail.com
 
 Office hrs: M,R 3-4pm
             LSB 3209
+
+---
+
+[delta]G^[nought] = G_equ - G_STP
+
+           -1.83  = 1.4 * log(MAR_equ) - 1.4 log (1/1) <--- this last term is zero
+
+       -1.83/1.4  = log(MAR)
+
+   10^(-1.83/1.4) = MAR_equ

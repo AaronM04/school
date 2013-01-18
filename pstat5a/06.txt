@@ -1,0 +1,106 @@
+2013-01-18 Fri.
+Lecture 6
+----------------
+
+Quiz on Wed. 1/23
+
+Review:
+    Expected Value:
+        Properties of E(X): ####
+
+Binomial Distribution
+
+Measuring the Spread:
+    Variance = how spread-out the pdf is
+
+    avg squared distance from the mean
+        Var(X) = E(X - E(X))^2
+        Var(X) = E(X^2) - E(X)^2
+
+Properties:
+    Var(a X) = a^2 Var(X)
+    For example:
+        Var(3*X) = 3^2*Var(X) = 9*Var(X)
+
+    Var(a + X) = Var(X)
+    For ex.:
+        Var(3 + X) = Var(X)
+
+    if X & Y indep.:
+        Var(X + Y) = Var(X) + Var(Y)
+
+Ex:
+    Var(X)=1; Var(Y)=2
+    Var(3X - 2Y) = ?
+
+    Assume X,Y are indep.
+
+    Var(3X-2Y) = Var(3X) + Var(-2Y)
+               = 9*1 + 4*2 = 17
+
+Independent Events:
+    If A & B are indep.:
+        P(A and B) = P(A)*P(B)
+
+    If A_1, A_2, ..., A_n are indep.:
+        P(A_1, A_2, ..., AND A_n) = P(A_1)*P(A_2)...P(A_n)
+
+------------ all of the previous is on Wed. Quiz!-----------
+
+Flipping Fair Coins:
+    Each outcome has probability 1/2
+
+    Outcomes are indep.
+
+    If we flip a coin n times:
+        (1/2)^n
+
+    P(16 heads) = 1/2^16 = 1/65536 = 0.00001526
+
+    P(10 Heads then 6 Tails) = 1/2^16
+
+Flip a coin 4 times:
+    X = # heads
+
+    P(X = 4) = 1/16
+    P(X = 0) = P(4 Tails) = 1/16
+    P(X = 1) = ???
+
+    Sample Space:
+        HHHH    HTHH    THHH    TTHH
+        HHHT    HTHT    THHT    TTHT
+        HHTH    HTTH    THTH    TTTH
+        HHTT    HTTT    THTT    TTTT
+
+Choose an order:
+    5*4*3*2*1
+
+Counting sequences:
+               n!
+    n_C_k = --------
+            k!(n-k)!
+
+         52*51*50
+52_C_3 = --------  = 22100
+          3*2*1
+
+
+Other Probabilities:
+    What if
+            P(H) = 0.2 and P(T) = 0.8
+    Then:
+            P(HT) = 0.2*0.8     = 0.16
+
+    P(HTTHT) still equals P(TTTHH), P(THTHT), etc.
+
+    P(2 Heads) = 5_C_2 * 0.2^2 * 0.8^2
+
+Binomial Probability:
+    P(X = k) = n_C_k * p^k (1-p)^(n-k)
+
+    n = total number of trials
+    p = prob. of success
+
+Example:
+    P(2 Heads) = P(X=2)
+    = 5_C_2 * 0.2^2 * (1-0.2)^(5-2)

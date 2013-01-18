@@ -1,0 +1,27 @@
+2013-01-18 Fri.
+Lecture 3
+-----------------
+
+RNA has tremendous structural diversity mostly through nucleotide base pairing
+    stem-loop
+
+There are many types of RNAs
+    coding or non-coding
+
+RNA interference (RNAi) of translation/protein synthesis
+    Andrew Fire & Craig Mello - Nobel Prize 2006
+    Enzymes: Dicer, Argonaute, RISC complex (includes Argo.)
+
+Amino Acids in Protein Synthesis
+    Uncharged
+    Polar Uncharged
+    Charged
+
+Essential & Non-essential AA's
+
+AA is selected by its codon
+
+The Composition of Ribosomes
+    A. Prokaryotic - 16S
+    B. Eukaryotic  - 18S
+
