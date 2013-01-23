@@ -1,0 +1,30 @@
+2013-01-23 Wed.
+-----------------
+Lipids
+
+eight lipid categories
+    fatty acyls
+    glycerolipids
+    glycerophospholipids
+    sphingolipids
+    sterol lipids
+    prenol lipids
+    saccharolipids
+    polyketides
+
+### see slides ###
+
+lipid synthesis (most built w/ ketoacyls or isoprenes):
+    ketoacyls:
+        Acetyl-CoA
+        Malonyl-CoA
+    Isoprene
+
+Functions of lipids:
+    structural:
+        permeability barrier of a cell (plasma membrane)
+        and cellular compartments (internal membranes)
+    signaling:
+        energy storage
+        org. of cell sig. complexes
+        sources of sig. molecules
