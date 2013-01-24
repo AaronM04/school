@@ -1,0 +1,57 @@
+2013-01-23 Wed.
+-----------------
+Lecture 7
+
+glucose is a 6-carbon sugar
+
+alcohol + aldehyde -> hemiacetal
+    anomeric carbon - when the straight-chain closes to form a ring
+
+all sugar assays use straight-chain form
+
+--
+The glycosidic bond does not undergo mutarotation.
+
+Conversion to a full acetal locks the sugar in ring form.
+
+Thus, a non-reducing sugar.
+
+--
+
+****Homework:
+    show mechanism for cyclization of D-fructose
+        products?
+    show mechanism for reaction of [beta]-D-fructose with MeOH
+        products?
+
+    (answer is online)
+
+--
+Disaccharides
+
+[beta1-4] ###
+
+*** need to distinguish btwn. alpha and beta, and D and L
+       D    = H2COH on top in standard orientation
+    [alpha] = anomeric carbon's other-ring or -OH bond is on bottom in standard orient.
+
+Which carbon is the anomeric one? It's the only C with two O's coming off it!
+
+--
+Polysaccharides
+
+All are repeating D-glucose
+    Glycogen  ([beta]1,4)
+    Starch    ([beta]1,4)
+    Cellulose ([alpha]1,4)
+
+Absorption of Glucose
+    need to push glucose up a conc. gradient to get it from small intestine
+    lumen into cell
+
+        Na+ and glucose are coupled with the Na-Glucose Symport mechanism: Na+
+        moves down conc. gradient, helps glucose move up conc. gradient
+
+    Na+ is pumped back out into lumen, using ATP
+
+    Glucose passively diffuses into blood stream through Glut 5
