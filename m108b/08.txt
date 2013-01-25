@@ -1,0 +1,103 @@
+2013-01-25 Fri.
+---------------
+Lecture 8
+
+He will never focus on memorizing names of enzymes.
+
+How to study:
+    stay up to date
+    memorize the concepts
+
+Coupled reactions:
+    Ex:
+        Gluc_out        -> Gluc_in        +3 kcal/mol
+        Na_out          -> Na_in          -5
+        ---------------------------------------
+        Gluc_out+Na_out -> Gluc_in+Na_in  -2 kcal/mol
+
+    You need to eat high-enthalpy compounds.
+
+Brain GLUT 1,3 has much lower K_m than liver GLUT 1,3 - higher affinity
+
+Initial cleavage of glucose into 3-C units:
+    glycolysis
+
+    Glucose -> G3P -> Pyruvate
+
+Proteins are conserved:
+    the same 20 AAs are always used, which are sufficient for life
+
+    there are 20^300 (~10^390) possible diff. proteins (more than the mass of the
+    universe)!
+
+    only 100,000 proteins used in humans
+
+Small molecules are also conserved in biology
+    - most small molecules in biology seem to be <500 Da
+    - >10^60 in chemical space!
+    - simplest organisms use 100; humans a few thousand
+    Selection??:
+        - atoms (C,H,O,N and others) were abundant on Earth
+        - solubility: carboxylic acids, organic amines, phosphate are predominant
+
+How crowded is it inside a cell?
+    70% water
+    30% macromolecules (300 mg/mL!!!)
+
+Glycolysis:
+    Two arms to the glycolytic pathway:
+        1. Conversion of 1 molecule of glucose to 2 molecules of glyceraldehyde-3-P (G3P)
+            - requires energy input
+
+        ###
+
+    first part: phosphorylation & cleavage
+    second part: synthesis of chemical energy: NADH & ATP
+        why is NADH considered energy?
+
+Chemical strategy for C-C cleavage
+    difficult to cleave a carbon-carbon bond
+    either heterolytic or homolytic cleavage
+        homolytic cleavage: two free radicals - extremely unfavorable
+        heterolytic cleavage: generates a carbanion and a carbocation
+            - also reasonably unstable
+            - enter the carbonyl group (C=O) - stabilizes neighboring carbanion
+                when unprotonated, they are resonance structures
+                when protonated, enol/keto tautomer in equilibrium
+
+        *** read about reactivity of carbonyl group in Lehninger
+
+Next intermediate after glucose is fructose
+    reason why: fructose can be cleaved: carbonyl on C2 and hydroxyl on C4
+        (cleave between C3 and C4)
+
+    (really phosphoglucose and phosphofructose, but not important)
+
+Glycolysis:
+    Step 1: Phosphorylation of glucose
+
+    hexokinase puts phosphate on a hexose
+        Km is low to ensure a supply of G6P, even when glucose levels are low
+
+    but in liver, catalyzed by glucokinase: high (>5mM) Km
+        ensures that liver doesn't deplete blood glucose, at low blood glucose conc.
+
+    Step 2: Aldehyde to ketone isomerization (G6P -> F6P)
+        ****Homework: explain why
+
+    Step 3: Phosphorylation at C1
+        ***PFK catalyzes a second phosphorylation
+    
+    Step 4: Cleavage (aldo cleavage)
+        aldolase
+        both products will have phosphate on them!
+        mechanism requires carbonyl group at C2 and hydroxyl group at C4
+        cleavage between C3 and C4
+
+    Base-catalysed aldo cleavage - reverse reaction to aldol condensation
+        *** need to know organic chemistry of how this works - see slide
+        concentration of OH- has to be high: rips a proton off -OH
+            negative charge is stabilized by forming carbonyl group
+        keto of the resulting keto/enol tautomer is protonated
+
+    ------ the above is the first part of glycolysis ------
