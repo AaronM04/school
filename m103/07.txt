@@ -1,0 +1,92 @@
+2013-01-25 Fri.
+--------------
+Lecture 7
+
+[ 10 min. late]
+
+Integral Membrane Proteins
+    single transmembrane domain as an alpha-helix (and modified by a lipid)
+
+    beta barrel ###
+
+Mechanisms of conversion of a single-chain multi-pass protein into a two chain
+multi-pass protein.
+
+    A) a protease cuts it into two pieces
+    B) a separate gene for each of the two fragments
+
+Common features of an integral membrane protein
+    extracellular:
+        disulfide bords
+        oligosaccharides
+    intracellular:
+        -SH (cytosol is reducing environment)
+
+approaches for biochemical and structural of a membrane protein:
+    1988 nobel prize in chemistry - huber, michel, hausenhofer(?) - 3D struct. of a
+    photosynthetic reaction center (of a bacterium)
+
+hydrophobic amino acids are essential in transmembrane proteins
+
+hydropathy plots of integral transmembrane proteins
+
+common properties of a protein alpha-helix
+    It is the most abundant secondary struct. of proteins
+    Generally goes in a circle with a pitch - 3.6 residues per turn (0.54nm)
+    N-H of every peptide bond forms an H-bond w/ the C=O of a neighboring peptde bond 4 away
+    Protein is rarely found in middle - disruptive
+
+Takes about 20-30 AAs to get through a lipid bilayer
+
+Properties of a protein beta-strand/sheet
+    A more extended config. than the protein alpha helix.
+    The N-H of every peptide bind forms an H-bond w/ the C=O of another peptide bond
+    located in the neighboring strand
+
+lipid-anchored membrane proteins
+    saccharolipid
+
+peripheral membrane proteins
+    a protein may become periph. assoc. w/ the membrane by its interaction w/ another
+    membrane protein. The nature of this interaction is usually hydrophilic
+
+detecting lateral movement of proteins in the membrane
+    ex: mouse & human cells are fused -> heterokaryon
+        never gonna survive, but can metabolize normally for a very short time
+        human & mouse membrane proteins diffuse throughout
+        use Ab probes to study
+
+fluorescence recovery after photobleaching (FRAP)
+    cell is transfected to express a fluorescent protein on its membrane
+    a laser beam is used to quench the signal (bleaches it)
+    observe the recovery time (the time it takes to become green again)
+
+multiple ways that lateral mobility of a membrane protein is restricted
+    forming aggregates
+        (increased mass)
+    anchored from inside
+        (e.g.: via cytoskeleton assoc.)
+    anchored from extracellular space
+        (e.g.: via ECM assoc.)
+    anchored from neighboring cells
+        (e.g.: via interacting w/ other cells)
+
+Major types of membrane proteins in terms of function:
+    transporters (carriers, permeases)
+        - mostly large, hydrophilic molecules
+        - may require energy
+    channels
+        - move ions & waters in & out of cell or compartment
+        - never require energy
+    receptors
+        - relay signals btwn. two compartments w/o the actual movement of sig.
+          molecules across the membrane
+    others
+        enzymes, struct. proteins, etc.
+
+Transport of molecules across the membrane is essential to cells
+
+Functions of membrane transport
+    to ingest essential nutrients
+    to excrete metabolic waste or toxic products
+    to regulate intracellular composition (signalling)
