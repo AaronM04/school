@@ -1,0 +1,79 @@
+2013-01-25 Fri.
+-------------------
+Lecture 7
+
+Combinations (where we don't care about the order)
+    n choose k
+        n_c_k = n!
+                --------
+                k! (n - k)!
+
+Ex:
+    We have a pool of 15 t/f and 20 mult-choice questions
+    exam should have 10 questions:
+        exactly 4 are t/f
+        order not important
+    how many?
+        15_C_4 = 15!/(4! 11!) = 1365
+
+        15_C_4 * 20_C_6
+
+Permutations (if order does matter):
+    choose k objects out of n:
+    
+                  n!
+        n_P_k = ------
+                (n-k)!
+
+How many 5-digit zip codes are possible if...
+    a) digits can be repeated:
+        
+        five slots; digits from 0-9
+
+        use basic counting rule:
+            10 * 10 * 10 * 10 * 10 = 10^5
+
+    b) digits cannot be repeated:
+            10_P_5 = 10!/5! = 10*9*8*7*6 = 30240
+
+Binomial experiment:
+    n trials
+    trials are independent
+    two possible outcomes
+
+Binomial probability:
+    P(X = k) = n_C_k * p^k * (1-p)^(n-k)
+
+    What is the probability that 40 Heads come up in the 100 tosses?
+        P(40 Heads) = P(X = 40)
+                    = 100_C_40 * 0.44^40 * 0.56^60
+                    ...
+                   ~= 0.0586
+
+Binomial ex:
+    A drawer contains 6 red and 4 black socks. What is the prob. that you select
+    2 red socks when you pick 5 out of the drawer (with replacement).
+
+        5 trials
+        all draws are indep., since with replacement
+        red = success; black = failure
+
+    let x = number of red socks in the 5 trials
+
+    P(X = 2) = 5_C_2 * (6/10)^2 * (1-6/10)^(5-2)
+             = 10 * 0.6^2 * 0.4^3
+
+    To select _at least 4_ socks:
+
+        P(X>=4) = P(X=4) + P(X=5)
+                = 5_C_4 * ###
+
+Ex 2:
+    I play the pick-3 every day for 300 days. What is prib. that I win at least once?
+
+        P(X>=1) = P(X=1) + P(X=2) + ...
+
+    Trick:
+        P(X>=1) = 1 - P(X=0)
+                = 1 - 3_C_0 * .001^0 * .999^300
+                = .2593
