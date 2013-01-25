@@ -100,4 +100,8 @@ Glycolysis:
             negative charge is stabilized by forming carbonyl group
         keto of the resulting keto/enol tautomer is protonated
 
+    ***substrate is locked into the active site, increasing its activity
+        - by shift base(???) - a quaternary nitrogen that is positively charged
+            even better e- sink than carbonyl oxygen
+
     ------ the above is the first part of glycolysis ------
