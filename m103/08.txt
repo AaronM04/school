@@ -1,0 +1,177 @@
+2013-01-28 Mon.
+-----------------
+Lecture 8 (actually finishing up lecture 7)
+
+Review:
+    Two types of membrane transport
+    Transport across membranes: molecular considerations
+    proteins can form membrane channels
+    control of the opening & closing (gating) of a channel protein
+        gated by:
+            Vm (voltage)
+            ligand-binding
+                - ligand-gated (extracellular ligand)
+                - ligand-gated (intracellular ligand)
+            tension
+                - mechanically gated
+
+Transporters (carriers, permeases)
+    A) carrier protein
+
+    - not as rapid as diffusion through a channel
+
+    types of energy used in active transport:
+        co-transport
+        ATP hydrolysis
+        light
+        electrochemical gradient (question: is voltage the only diff btwn this
+                                    and co-transport?)
+
+
+Active transport driven by co-transport
+    The transport direction of black molecules is energetically unfavorable
+    in both examples at the bottom of the slide. The transport direction of red
+    molecules is energetically favorable. The energy released from the transport
+    of red molecules can be used to drive the transport of ###
+
+        [ see slide ]
+
+An example of coupled co-transport: Na+--Glucose co-transporter
+    usually there is a lot more Na+ outside the cell
+
+Transport across cell membranes creates ionic gradients
+    Table 11-1: A comparison of ion concentrations inside and outside a typical cell
+
+    The origin of membrane potential: charge separation
+
+        A very small amount of ion separation results in a large change of Vm
+        (the overall ionic conc. w/in a cell is almost unaffected)
+
+            - mainly achieved by ion channels
+
+But how can an ion channel be selective for ions of different sizes?
+    K+:   1.33 angstrom
+    Na+:  0.95 angstrom
+    Ca2+: 0.99 angstrom
+
+        The basis for the selectivity of potassium (K+) ###
+
+    The X-ray struct of a bacterial voltage-gated K+ channel provides clues on
+    the specificity of ion channels
+        [ see slide - selectivity filter ]
+
+        how can it let large ions through but not small ions?
+            water complexes with the ions; each has a unique energy of hydration
+
+            in selectivity filter: only K+ but not Na+ is stabilized by the electrical
+            interaction btwn the ion and C=O groups of those amino acids located at
+            the filter.
+
+                the C=O lines up to match the geometry of the K+ water molecules
+
+                    K+ bonds with all 4, but Na+ can't - only two
+
+Many human diseases and syndromes are caused by gene mut's or mis-reg. of membrane protein
+ion channels
+
+    K+ channel defects: hyperinsulinism, long QT syndrome, ataxia
+
+==== end of lecture 7
+("final stretch of cell components")
+("there really isn't anything in your book that is up to date and accurate
+    - there is no reading I can assign to you")
+
+Cells are composed of 4 types of molecular components
+    nucleic acids, proteins, glycans, and lipids
+
+Glycans are monosacch's linked to other molecules by the glycosidic bond
+    people tend not to think about cell structure or signaling when they think about glycans
+
+Glycans cover the surfaces of all cells in a "glycocalyx" (~200nm thick)
+
+    also contribute to ECM (in plants: referred to as the cell wall)
+
+Functions of glycans:
+    Structural:
+        physical barrier
+        tissue struct (porosity & integrity)
+        protein folding & shielding from proteases and Ab's
+        determinants of microbial & viral invasion
+
+    Signaling:
+        Energy storage (glycogen)
+        Ligands of lectin receptors
+        organization of lipid & protein complexes
+        receptor activation
+        storage depot for signaling molecules
+
+Monosaccharides are the basic building blocks of glycans
+    - in equilibrium btwn ring and linear structure
+        Fischer projection for linear
+        Hayworth projection for ring
+        chair conformation for ring
+
+            "still difficult to visualize"
+
+[unpublished!]
+***Monosaccharides used in the enzymatic process of glycosylation among life forms
+    34 that have been identified for all forms of life
+
+    for mammals: only 10 (for all vertebrates: 18)
+        Fuc
+        NeuAc
+        NeuGc
+        Glc
+        Man
+        GlcA
+        GalNAc
+        Gal
+        GlcNAc
+        Xyl
+
+    but there are additional ones not listed in the above (e.g., GlcN)
+        - post-glycosylation: epimerases
+
+    none are essential in human diet - all made de novo
+
+   ***know common classes of vertebr. glycans:
+        glycosaminoglycans (proteoglycans)
+        haluronan
+        glycosylphosphatidylinosital (GPI)-anchored glycoproteins
+        N-glycan
+        O-glycans
+        glycolipids
+        intracellular glycans (glycogen, O-GlcNAc, ...)
+
+    most extracellular via the secretory pathway
+
+anomeric carbon atoms & positions in monosaccharides contribute to glycan
+structure & function
+
+    anomeric C: [alpha] is down, and
+                 [beta] is up
+
+Common types of glycan projections (note anomeric [alpha] or [beta] linkages)
+    [ nothing here to memorize, except... ]
+        in the symbolic representation, only one number of the linkage is shown
+        because the other one is implied (e.g., sialic acid uses C1)
+
+Mammalian glycan linkages produced by the enzymatic process of glycosylation
+    (note: there are 2 forms of sialic acid)
+    Y axis:
+        - donors
+    X axis:
+        - protein & lipid acceptors
+        - saccharide acceptors
+
+AA consensus sequences or glycosylation motifs for formation of glycopeptide bonds
+    - not always perfect consensus sequences
+
+250 genes encode the enzymes of mammalian glycosylation
+    typical glycan modifier domain:
+        cytoplasmic - transmemb. domain - stem region - catalytic dom.
+
+    Require high-energy monosaccharide donor and a monosaccharide ("aglycone") acceptor
+
+incredibly specific reactions
+    strict acceptor substrate specificity of glycosyltransferases
