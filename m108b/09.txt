@@ -1,0 +1,85 @@
+2013-01-28 Mon.
+------------------
+Lecture 9
+
+*** on MT: all [delta]G's will be div by 1.4 (10-fold diff in K_eq and MAR)
+
+base-catalyzed aldo cleavage
+    Review from end of lecture 8:
+        need to have carbonyl on C2 and hydroxyl on C4
+        need a base to rip the proton off the C4 -OH
+        Schiff base covalently locks the substrate in the active site
+            - it's a weak base, but it's there all the time
+            - better e- sink than carbonyl O
+
+(glycolysis continued)
+    Step 5: isomerization of DGAP to G3P (???)
+
+---2nd phase of glycolysis
+
+NAD+ is the e- acceptor in reactions of the type:
+
+    NAD+ and alcohol <-> NADH and carbonyl (and proton)
+
+    NAD+ + CRR'H2OH <-> NADH + CRR'=O + H+
+
+    ***know the mechanism!
+        - alcohol: one H comes off as hydride (H-) and one as a proton (H+)
+        - the hydride ###
+
+Acid/base vs. redox:
+    acid/base: protons transferred
+    redox:     electrons transferred (with or without protons)
+
+Glycolytic pathway
+    phosphorylation
+    C-C cleavage
+    synthesis of chemical energy
+
+***the second part of glycolysis is all about making ATP
+
+Main theme of 2nd part:
+    How you make ATP [see slide]
+        problem: it's so steeply uphill (7.3 kcal/mol)
+        ADP + 1,3BPG <-> ATP is downhill (-4.5 kcal/mol)
+
+    happens in enzyme active site: GA3P <-> a thiohemiacetal <-> GA3PDH <-> 1,3BPG
+    happens in solution:           GA3P <-> a gem-diol <-> -COOH <-> 1,3 BPG
+
+        putting a phosphate on anything is always hard, but it's easier
+        when the leaving group is S
+
+            - the active site excludes water so the thiol pathway prevails
+
+Making the second molecule of ATP:
+    Phosphorylation of ADP via PEP
+        (starting with G3P)
+
+        the trick is dehydration
+
+        end product is pyruvate
+
+    Structural basis for high PO4 transfer potential of PEP
+        PEP ----(-4.8)--> pyruvate (enol) + P_i --(-10)--> pyruvate (keto)
+
+Net reaction of glycolysis:
+    glucose + 2 Pi + 2 ADP ###
+
+during exercise, purpose of glycolysis is to deliver energy (ATP) FAST!!!
+glycolysis generates ATP ###
+
+Reduction of pyruvate to lactate serves to replenish NAD+
+    NAD+ keeps getting depleted
+    NADH keeps building up
+        - we have to replenish these to keep glycolysis running
+            (lactate dehydrogenase can do this)
+
+Fermentation in yeast:
+    glucose -> pyruvate -> acetaldehyde -> ethanol
+                 |
+                 v LDH
+    humans:   lactate
+
+    basically the same enzyme in humans vs yeast
+
+
