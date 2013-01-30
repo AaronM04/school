@@ -1,0 +1,56 @@
+2013-01-30 Wed.
+------------------
+Lecture 9
+
+Example: waiting for the bus; every 30 min
+    X = {time to wait for bus}
+
+    what is prob that wait < 10min?
+
+    X is continuous random var taking values in (0,30)
+
+    X ~ U(0, 30)     <--- the "U" stands for "uniform"
+
+    calculate area of rectangle (height is 1/30, width is 10)
+    P(X <= 10) = 10 * 1/30 = 1/3
+
+The center of gravity balances on the mean (the E(X))
+
+Cumulative distribution function (CDF)
+    another desc. of prob. function
+    F(x) = P(U <= x)
+    F(x) is equal to the area under the curve up to x
+    For U ~ U[a, b]:
+
+        F(x) = P(U <= x) = (x-a)/(b-a)
+
+    X is a continuous random var
+
+        prob        calc using the CDF
+        ------      ------------------
+        P(X<=x)     F(x)
+        P(x<=X<=y)  F(y) - F(x)
+        P(x>=x)     1-F(x)
+
+Probability density function
+    P(interval) = area under density function
+
+Normal distribution
+    Standard normal PDF
+        f(z) = 1/sqrt(2*pi)*e^(-(z^2)/2)
+
+        X ~ N(0, 1)
+        X has mean 0 and variance 1
+
+        P(-1<X<1) = 0.68   <-- 1 s.d.
+        P(-2<X<2) = 0.95   <-- 2 s.d.
+        P(-3<X<3) = 0.997  <-- 3 s.d.
+
+    when Z ~ N(0,1):
+        P(Z<=z) = [Phi](z)
+
+    P(Z<-a) = P(z>a)
+
+    Intervals:
+        P(a<Z<b)
+        P(a<Z<b) = P(Z<b) - P(Z<a) = [Phi](b) - [Phi](a)
