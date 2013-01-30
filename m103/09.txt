@@ -1,0 +1,74 @@
+2013-01-30 Wed.
+-------------------
+(end of lecture 8)
+
+[17 min late!!!!]
+
+schematic ex's of major types of animal lectins
+    galectins; C-type; P-type; I-type
+
+glycans and lectins in protein binding and function
+    lectins are proteins that have domains that bind glycans
+    glycans in lectin-binding interactions
+        promotion/inhibition of intermol; homo/hetero; promotion of intramol. binding
+
+    glycans in steric effects on protein conformation and binding
+        promotion/inhibition of intermol; homo/hetero; alteration of intramol. binding
+
+---------------
+(start of lecture 9)
+
+glycans can contribute extensively to the mass & structure of proteins
+
+*** know the different classes of glycans
+
+saccharides can be modified ###
+
+hyaluronan:
+    hyaluronan consists of a repeating disaccharide composed of N-acetylglucosamine
+    and glucuronic acid
+
+    has extraordinary immunoregulatory properties
+    hydration role
+    part of ECM
+    binds to growth factors (acts like a depot)
+
+    hyaluronan biosynthesis
+        made right at the plasma membrane
+
+    hyaluronan capsule of Strep. zooepidemicus
+        - binds to various extracellular molecules
+
+    Link domain present in many proteins - binds to Hyaluronan
+
+GPI anchors - anchors a protein
+    GPI = glycophosphatidylinositol
+    
+    protein - ethanolamine - glucosamine (GlcN) - phosphate - lipid
+
+    can have different numbers of C and diff # of double bonds in lipid
+    invariant core: glucosamine + 3 mannoses + ###
+
+Glycans: glycosaminoglycans (proteoglycans)
+    proteoglycans consist of a protein core and one or more covalently-attached
+    glycosaminoglycan chains
+
+    glycosaminoglycans consist of repeating & different disaccharides
+        sulfated at different carbons on the rings: -OSO3(-)
+
+    the distinctions btwn heparin and heparan sulfate
+        all cells make heparan sulfate
+        heparin is a very potent anticoagulant - most successful drug of all time (tons/yr)
+
+    the heparan sulfate glycosaminoglycan chain consists of different domains...
+        IdoA - epimer of glucuronic acid - made by an epimerase
+
+    chondroitin sulfate & dermatan sulfate are very similar to each other
+
+    two types of keratan sulfate ###
+        type 1: linked to Asn
+        type 2: linked Ser/Thr
+
+    initiation of protein O-glycosylation ###
+
+    biosynth. of core 1 and core 2 O-glycans ###
