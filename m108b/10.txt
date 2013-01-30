@@ -1,0 +1,53 @@
+2013-01-30 Wed
+-------------------
+Lecture 10
+
+nought -1.4
+       -5.6
+
+    Keq = 100
+    MAR is 0.01
+
+oxidative phosphorylation
+
+how do we keep glycolysis running? got to take away NADH and turn it into NAD+
+
+fermentation in yeast
+    ethanol is decarboxylated lactate
+    difficult to measure lactate in humans, but in yeasts, you can measure CO2 evolved
+    Buchner discovered you can do glycolysis with dead yeast cytosol
+
+regulation of glycolysis
+    names of intermediates and names of enzymes are not important
+
+reg. of metabolic pathways by energy charge
+
+                      [ATP] + 0.5*[ADP]
+    energy charge = ---------------------
+                    [ATP] + [ADP] + [AMP]
+
+if all in ATP form, energy charge would be 1
+energy charge varies between theoretical limits of 0 (all AMP) and 1 (all ADP)
+
+regulation of phosphofructokinase (PFK): cooperativity
+    cooperativity - the concerted model
+
+the fully saturated relaxed form behaves with Michaelis-Menten kinetics 
+[ graph of receptor bound with respect to O2 conc. ]
+
+For cooperativity:
+    1) T0/R0 is large
+    2) Affinity of S for R >> S for T
+
+Hill coeff. (n) approaches # subunits
+
+Sequential model - not as important
+    [mistake in arrows for this slide]
+
+Cooperativity - the concerted model (again)
+
+Phosphofructokinase
+    ATP encourages tense form, shutting the enzyme off
+    AMP encourages the relaxed form, turning it on
+
+    this makes sense
