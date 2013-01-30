@@ -81,5 +81,3 @@ Fermentation in yeast:
     humans:   lactate
 
     basically the same enzyme in humans vs yeast
-
-
