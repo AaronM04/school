@@ -1,0 +1,87 @@
+2013-02-01 Fri
+-------------
+Lecture 10 - SUB
+
+The normal distribution is important because:
+    it appears whenever you add up lots of independent random variables.
+
+              1
+f(x) = --------------- * e^-((x-[mu])^2/(2*[wut])^2)
+       [wut]sqrt(2*pi)
+
+Cumulative Distribution Function (CDF)
+
+When Z ~ N(0,1)
+
+    P(Z<=z) = [phi](z)
+
+We are going to use the letter "[phi]" in the case of the standard normal distrib.
+
+Normal distrib N([mu], [sigma])
+    ###
+    Mult. by the std dev [sigma]: [sigma]*Z
+        The new standard deviation becomes [sigma]
+
+    Add [mu]: X = [mu] + [sigma]*Z
+    ### SEE SLIDE
+
+Different means:
+    the average is [mu]: tells you where the graph is on the independent ("x") axis
+
+The [sigma] tells you how wide/narrow the graph is (the area stays constant)
+
+Useful rules of thumb:
+    if the mean is [mu], centered around [mu]
+    the prob. of being within one std dev of [mu] (i.e., [mu-sigma, mu+sigma]) is 0.68
+
+How to compute normal probabilities for X ~ N([mu], [sigma])
+
+    Standardize!
+
+        Z = (X - mu)/sigma
+
+X ~ N(300, 5)
+    P(X<296) = P((X-mu)/sigma < (296-mu)/sigma)
+             = P(Z < (296-300)/5)
+             = P(Z < -4/5)
+             = P(Z < -0.8)
+             = 0.2119      [ from table ]
+
+    P(X>296) = P(Z>-0.8)
+             = 1-P(Z<-0.8)
+             = 1 - 0.2119 = 0.7881
+
+    P(293<X<305) = P(-7/5 < Z < 5/5)
+                 = P(-1.4 < Z < 1)
+                 = P(Z<1) - P(Z<-1.4)
+                 = 0.8413 - 0.0808 = 0.7605
+
+X ~ N(150, 12), P(X>144) = ??
+    Standardize: Z = (X-mu)/sigma
+    ### SEE SLIDE
+
+The opposite direction: what is the value of z?
+
+Percentiles:
+    [alpha] is the 43rd percentile when
+
+        P(X<=alpha) = 0.43
+
+    This means that 43% of the time X is less than ###
+
+    How high an SAT score do you need, to be in the 60th percentile?
+        P(X<score) = 0.60
+
+Un-Standardize
+
+    Z = (X-mu)/sigma
+
+    Z = mu + sigma*Z
+
+    P(X<SATscore) = 0.60
+
+    0.60 corresponds to a z-score equal to 0.25:
+
+        Z<=0.25 => X<=500 + 100*0.25 = 525
+
+            60th percentile of X is 525
