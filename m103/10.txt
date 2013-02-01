@@ -1,0 +1,96 @@
+2013-02-01 Fri
+----------------
+Lecture 10
+
+**** midterm is next Friday (2/8)
+**** check out the previous exams on gauchospace
+
+O-glycans of different core structures/classifications
+    Core1: Ser/Thr-alpha-GalNAc-beta3-Gal-beta3-<the rest>    <-- invariant
+
+    ###
+
+biosynth. of core 1 and core 2 O-glycans
+
+O-glycans are not linear
+
+----------------------------
+
+synth of the dolichol-pyrophosphateGlcN###
+
+    sugars linked to a lipid tail, but it's an intermediate; gets transferred to a protein
+
+    same on all eukaryotes
+
+    done by oligosaccharyltransferase complex
+        attaches to Asn in Asn-X-Ser/Thr (X != Pro)
+
+initial N-glycan processing in vertebrates
+    N-glycans are trimmed down ("but in vertebrates, it is built back up")
+
+common types of vertebrate N-glycans
+    high-mannose / oligomannose   - only mannoses terminate the chains
+    complex - sialic acid terminates the chains
+    hybrid - mannose terminates some chains, and sialic acid terminates others
+
+    may be useful for treating some diseases
+
+multiple ex ###
+    bi-antennary
+    tri-antennary
+    tetra-antennary
+
+    most of the time in mammals, terminates with sialic acid
+
+    in lower vertebrates (e.g., chickens): GalNAc
+
+sequential processing by glycosyltransferases ###
+
+dominant pathways of N-glycan maturation among different organisms
+
+cell surface & extracellular N-glycans in phylogeny
+    sometimes vertebrates express high-mannose structures - usually yeast, fungi
+
+    the differences in mature N-glycans are detected by the innate immune system of vertebrates
+        => inflammation
+        may be related to auto-immune inflammation
+
+glycolipid/saccharolipid biosynthesis: first steps
+    ### ceramide???
+
+    glycosphingolipids - common in brain tissue
+        can have polysialic acid
+
+the O (H), A and B ###
+    ### blood group antigens
+
+glycans that form the O(H), A and B blood group determinants on glycolipids
+
+    H antigen
+    A antigen
+    B antigen
+        "do not memorize these structures"
+
+Poly-N-acetyllactos###
+
+old world primates (us) all lack [alpha]1,3 galactose linkages in our glycans because of
+null mutations in the genome that inactivate the gene encoding this transferase
+    result: when we come into contact with this, we make Ab's to this
+
+Glycans: the intracellular O-GlcNAc modification
+
+The O-GlcNAc glycan linkage is found in the cytoplasm & nucleus of all multicellular organisms
+    ###
+
+O-GlcNAc is linked to glucose metabolism ###
+    we convert glucose to UDP-GlcNAc (similar purpose to ATP)
+        OGT enzyme
+
+the O-GlcNAc transferase (OGT) is regulated by mult. mechanisms
+    TPR domain - Catalytic domain  ----proteolytic processing---> OGT splice variant
+
+O-GlcNAc is found on many hundreds of proteins (substrates) and appears involved in
+numerous cellular processes
+    "seems to be a relationship btwn phosphorylation and this sugar linkage"
+
+    "changes digital to more analog"
