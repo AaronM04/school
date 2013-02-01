@@ -1,0 +1,112 @@
+2013-02-01 Fri
+----------------
+Lecture 11
+
+*** review session: next wed (Feb 6) at 8:30pm in lsb 1001 (same room as m103)
+
+
+*** Watch Dead Poet's Society
+    "live an extraordinary life"
+
+Michaelis-Menten equation was originally "invariable"
+    then enzymes like PFK came along and overturned this claim of invariability
+
+Picture it this way: M-M vs. cooperativity
+    and even with cooperativity:
+        some models fit better than others: concerted vs. sequential
+
+For a cooperative enzyme:
+    at low conc:  displays concerted cooperative behavior
+    at high conc: displays M-M behavior
+
+Phosphofructokinase:
+    two distinct things:
+        cooperative
+        uses ATP and AMP as allosteric ligands
+
+    ### check out "PFK" slide
+
+    ATP and AMP compete for the allosteric site
+    ATP has a choice of binding for the active site or the allosteric site
+
+    F2,6BP - discovered in last 15 years
+        also made from F6P, but P goes on different carbon than F1,6BP
+        if it's around, it potently drives PFK to active form
+        see enzymes: PFK2 and FBPase 2 (forward and reverse, respectively)
+
+PFK2 & FBPase2are encoded with the same protein!
+    First three important points on this slide:
+        1. if Glu increases after a meal, the amount of F2,6BP will also increase
+        2. because F26BP drives PFK into active form, this drives PFK up
+        3. increased glucose results in increase in glycolysis
+            - if Glu levels are high in the blood, we must store it as fat, and Acetyl CoA
+              is needed for this
+
+        not as important: kinase and phosphatase (PFK2&FBPase2) exist on same polypeptide
+
+<left graph>
+    the first thing when you look at a graph: the X and Y axes
+    Y: catalytic activity of PFK
+    X: conc. of F6P (the substrate)
+    the different curves are 3 different concentrations of F26BP (allosteric activator)
+
+    0 uM F26BP:   typical sigmoidal
+    0.1 uM F26BP: 
+
+    in the absence of F26BP, we get the red curve because maj. of enzyme is in tense state;
+    in the presence of F26BP, the tense state is driven over to the relaxed state
+        - the more relaxed, the more M-M-like it looks
+
+<right graph>
+    Y: catalytic activity of PFK
+    X: conc. of ATP (second substrate)
+
+    goes up and then goes down (as ATP conc. increases)
+        why? more competition at the allosteric site
+            - the active site has higher affinity for ATP than does the allosteric site
+
+    at higher concentrations of ATP, starts to bind the allosteric site, which
+    causes PFK to go into tense state
+
+    in the presence of F26BP, we drive more of the enzyme into the active form
+        => at any ATP conc., there is more activity
+
+    why is the binding of F6P cooperative, but the binding of ATP is not?
+        cooperative behavior always appears when you go from tense state to relaxed state
+
+
+other effectors of PFK activity:
+    ###
+
+inhibition of PFK by H+ and citrate
+    PFK takes a proton from lactic acid dissoc. into lactate
+        gotta be allosteric?!?
+
+Summary:
+    PFK - cooperativity
+    hexokinase - product inhibition
+        - phosphorylates a hexose on C6
+        glucose -> G6P
+
+        G6P is structurally similar to glucose, and competes with glucose for
+        active site of hexokinase
+            - the P does not interfere with the tight binding at the active site
+
+        if products bind to the active site well, they shut off the enzyme
+
+Hexokinase (Glucose -> GFP)
+    In muscle:
+        Km^Glucose ~ 0.1 mM
+        Potentially inhibited by product, G6P
+        ### SEE SLIDE
+        if G6P builds up and it shuts off glucose transporter, does that make sense? yes
+        what mechanism? allosteric regulation (by definition)
+            - gotta bind to some site OTHER THAN the active site
+
+    In liver:
+        the equiv. enzyme in liver is not inhibited by G6P
+            because Km^Glucose is high (5mM)
+
+        at high Glu conc.
+        
+        we want to store G6P as glycogen, so we cannot afford to engineer a high ###
