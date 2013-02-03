@@ -4,10 +4,6 @@ Lecture 11
 
 *** review session: next wed (Feb 6) at 8:30pm in lsb 1001 (same room as m103)
 
-
-*** Watch Dead Poet's Society
-    "live an extraordinary life"
-
 Michaelis-Menten equation was originally "invariable"
     then enzymes like PFK came along and overturned this claim of invariability
 
