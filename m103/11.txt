@@ -1,0 +1,142 @@
+2013-02-04 Mon.
+-----------------
+Lecture 11 - Cell anatomy
+    read Ch 12: 721-3
+         Ch 14: 815-23; 838-9
+
+***MT will cover through this Wed. lectures (lecture 12)
+
+Organelles we will cover today:
+    nucleus - nucleic acid synthesis
+    peroxisomes
+    ER - site of lipid and membrane protein synthesis
+    Golgi ("GOLE-jee")
+
+Various major anatomical features of the cell
+
+polarized cells - cells that have specific surfaces
+
+Nucleus:
+    the eukaryotic cell nuc. contains almost all genetic info
+
+    structure:
+        nuclear envelope: inner & outer membranes
+            outer is contig. w/ ER
+
+        nucleoplasm inside
+        nucleolus
+            - ribosomes are produced
+
+        nuclear lamina:
+            on inside of nuclear inner membrane - composed of lamin
+
+        perinuclear space (btwn. inner & outer membranes - connects to ER)
+
+        Cajal bodies and GEMs - snRNP recycling
+
+        interchromatin granules
+
+        chromatin domains
+
+    nucleus must get all its proteins from cytosol
+    newly synthesized nuclear proteins enter nucleus through nuclear pore complex (NPC)
+
+    NPC:
+        each contains ~100 different proteins
+
+        passive transport of small molecules through NPC: <9nm in diameter ( <60kD )
+
+        transport of a ribosome by the NPC
+            pore size can be altered - active transport
+
+        evidence of active transport by the NPC
+            gold particles coated with nuclear localization signal (a peptide)
+            move from cytoplasm to nucleus - takes ~40min
+
+Mitochondria:
+    two membranes like nucleus
+        intermembrane space
+        matrix space (inside everything)
+
+    structure of mitochondria: a closer look
+    inner membrane has deep invaginations - very high surface:volume ratio
+
+    75% of (inner?) membrane mass is actually protein
+
+    movie: tomogram of mitochondrion
+        ER often close to mitochondria
+
+    function of mitochondria:
+        1) ATP-generating factories required for life
+            O2-dependent energy production
+
+            prokaryotes: plasma membrane
+            plants: chloroplasts
+            other eukaryotes: mitochondria
+            
+            for each glucose metabolized:
+                 2 ATP generated in cytosol (by glycolysis)
+                28 ATP generated in mitochondria
+
+        2) also play roles in signaling that controls cell death (apoptosis),
+           cell div., and other processes
+
+    active transport processes involved in mitochondria
+        voltage gradient drives ADP-ATP exchange
+        pH gradient drives phosphate & pyruvate import
+
+    electron transport chain and ATP synthase generate ATP
+
+    the ETC couples e- transport to the proton (H+) gradient
+
+    the H+-ATPase couples the proton gradient to ATP synth.: general mechanism
+    for oxidative phosphorylation
+        ETC components & ATP synthase are located on inner membrane
+
+    similar mechanisms are used to generate ATP in bacteria, plants, and animals
+
+    ATP production by mitochondria
+
+    proteins in mitochondria not necessarily coming from cytoplasm
+        1% (37 genes in humans) is synthesized inside mitochondrion
+            - 30 of these are linked to disease
+
+    roles of mitochondria in cellular metabolism in addition to ATP production
+        starvation conditions:
+            use AAs to fuel ATP protuction
+
+        cells relying on glycolysis for rapid ATP production:
+            remove excess NADH from cytosol to further speed glycolysis
+
+        conditions of excess:
+            supply cytosol w/ excess citrate for synth of fatty acids & sterols
+
+            supply cytosol w/ reducing power (as NADPH) for biosynth. using
+            excess mitochondrial reducing power
+
+Peroxisomes:
+    single membrane structure
+
+    utilizing O2 or H2O2 for oxidation
+
+    functions of peroxisomes:
+        breakdown of fatty acid molecules
+            fatty acid molecules -> acetyl CoA
+            ADL: adrenoleukodystrophy - disease
+
+        involved in synth. of plasmalogens
+
+        detoxification
+
+    where do they come from?
+        originate in ER (endoplasmic reticulum)
+        
+        proteins come from two different sources:
+            cargo selection mechanism of ER
+            cargo import mechanism of the new peroxisomes
+
+    Zellweger syndrome: empty peroxisomes
+        - kills human infants soon after birth
+        mut. in gene encoding Peroxin 2 (Pex2)
+
+
