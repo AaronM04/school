@@ -1,0 +1,88 @@
+2013-02-04 Mon.
+---------------
+Lecture 11
+
+Quiz #2
+    1) Counting rules
+    2) Binomial distrib.
+    3) Uniform "
+    4) Normal "
+
+standardization
+
+Ex.:
+    X = SAT score
+
+    X ~ N(500, 100)
+
+    P(550<x<650)
+    = P(0.5<Z<1.5)              ( Z ~ N(0,1) )
+    = .9332-.6195 = .2413
+
+Ex: heights
+    The height of Amer males (X) is norm. distrib. w/ mean 69 in.
+    and std. dev. 3in.
+
+    P(X<60) = ?
+    P(72<X<84) = ?
+
+        X ~ N(69,3)
+
+        P(X<=60) = P((X-69)/3 < (60-69)/3) = P(Z<-2) = .0228
+
+Rule of thumb
+    if M is not in table:
+        P(Z<=-M) ~ 0
+        P(Z<= M) ~ 1
+        P(Z>=-M) ~ 1
+        P(Z>= M) ~ 0
+    I can just reason this out...
+
+Percentiles
+    [alpha] is the 43rd percentile when
+    
+        P(X<=[alpha]) = 0.43
+
+    This means that 43% of the time X is less than [alpha].
+
+Ex: SAT scores
+    how high an SAT score do you need to be in the 60th percentile?
+        P(X<score) = 0.60
+
+    "work the whole problem backward"
+
+    Z<=0.25 (from table)    ->    X <= [(500 + 100*0.25) = 525]
+
+Un-standardize
+    X = mu + sigma*Z    (from Z = (X-mu)/sigma)
+
+Ex: top 3% of SAT scores
+    what is min. SAT score needed?
+
+    look for 97th percentile:
+        P(Z<=1.88) = 0.9699
+
+    Unstandardize:
+        X = sigma*Z + mu
+        X = 500 + 100(1.88) = 688
+        P(X<=688) = 0.9699
+
+    the min score needed is 688
+
+Ex: LSAT scores
+    what is the prob. that a randomly selected student scores < 166?
+
+    one student was 0.5 sd's above the avg on LSAT. About what percentage of students had
+    lower scores than he did?
+
+        P(X<166)
+        z = (166-160)/10 = .6
+        P(X<166) = .7257
+        ###
+
+        N(160,10)
+        0.5 sd's above average: .5*(10 score points) = 5 score points above average
+        160+5 = 165
+        P(X<165)
+        z = (165-160)/10 = .5
+        P(X<165) = .6915        [ from table ]
