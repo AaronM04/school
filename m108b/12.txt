@@ -1,0 +1,45 @@
+2013-02-04 Mon.
+----------------
+Lecture 12
+
+Pyruvate kinase (PK)
+    PEP -> Pyruvate (ATP is made)
+
+    enol->keto conversion is what makes this downhill enough - > 10kcal/mol
+        This is more than the ADP->ATP [delta]G
+        (keto is far more stable than enol)
+
+rate-determining steps of glycolysis:
+    hexokinase,PFK,pyruvate kinase
+
+in many of these reactions, the product looks very similar to the substrate:
+    they may have very similar affinities - the product must not bind tightly!
+
+regulation of pyruvate kinase
+    (+): F1,6BP (one upstream of PEP)
+    (-): glucagon (only in liver), ATP, alanine (one downstream of pyruvate)
+        NOTE: glucagon is high when glucose is low
+
+F1,6BP binds PK allosterically - causes conform. change; pushes enzyme to R state
+
+How do we know ATP is also binding allosterically?
+    the [PEP]-vs.-PK activity curve becomes more sigmoidal as [ATP] inc.
+    when ATP is low, non-cooperative/MM binding of [PEP]
+
+***slide is important: this is all physiology
+    Pancreas secretes glucagon when blood sugar is low
+
+    Glucagon targets only the liver in terms of its ability to target carbohydrate
+    metabolism.
+        - liver breaks down glycogen to glucose
+
+    Adrenal medulla secretes epinephrine.
+    Epinephrine is assoc. w/ autonomic nervous system:
+        sympathetic: acetylcholine (in ganglia), norepinephrine (at ends)
+        parasympathetic: acetylcholine (at ends)
+
+    Epinephrine targets liver and muscle
+        in the liver: it turns off glycolysis
+        in the muscle: it turns ON glycolysis
+
+    Unlike the brain, muscle has its own glycogen storage.
