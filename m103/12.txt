@@ -1,0 +1,151 @@
+2013-02-06 Wed.
+----------------
+Lecture 12
+
+Endoplasmic reticulum (cont.):
+
+    The ER is a dynamic organelle
+
+    Two types of ER membrane domains:
+        rough ER - polyribosomes attached where the biosynth. of proteins takes place
+        smooth ER - lipids are synthesized here
+
+    different localization of polyribosomes
+        polyribosome attachment mediated by signal sequence in mRNA
+        SRP cycle
+        discovered in part by electron microscopy; confirmed by sedimentation
+
+    rough & smooth ER can be separated by their different densities
+        ###
+
+    Functions of the ER
+        1. biosynth. of many proteins including
+            a) proteins secreted to the cell surface/exterior - secretory pathway
+            b) transmembrane proteins on the plasma membrane
+            c) transmembrane or lumenal proteins of vesicular transport organelles,
+                incl. ER, golgi ###
+        
+        2. biosynth. of most lipids (in smooth ER)
+
+        3. intracellular Ca2+ storage (used for signalling)
+
+    Molecular traffic patterns in the cell
+        red arrows represent gated transport -  transport to/from nucleus
+        ***this is a cool slide!
+
+
+The Golgi apparatus:
+    in an animal cell, it is polarized (unlike the ER)
+    surrounds MTOC (microtubule organizing center)
+    dividable into at least 5 diff. parts:
+        ER -> CGN -> cis-Golgi -> medial-Golgi -> trans-Golgi -> TGN -> <plasma membrane,
+                                                                        endosomes,
+                                                                        secretory pathway>
+    the proteins are maturing as they are transported through the Golgi
+        (like an assembly line in a factory)
+
+    vesicles bud off from the trans-Golgi
+
+    functions:
+        biosynth. of glycolipids
+        covalent mod. of proteins
+        mature protein sorting
+        targeted secretion
+
+    glycosylation: (three major struct. types)
+        *** probably on exams
+        N-linked glycosylation (Asn-X-Ser/Thr) - begins co-translationally in the ER
+        O-linked glycosylation (Ser or Thr) - begins after translation in ER or Golgi
+            - diseases ER vs. Golgi
+        Glycosaminoglycans (Ser) - post-trans., and begins in Golgi
+
+        Sulfation - on select glycan linkages, and Tyr AAs of proteins in the Golgi
+
+        Phosphorylation (rare in ER or Golgi)
+            ###
+
+    compartmentalization of protein mod's w/in the Golgi
+        *** another cool slide
+
+    one example: "Sequential" N-linked glycosylation
+        (don't need to memorize)
+        "these guys are really out of it - they don't use the correct nomenclature"
+
+    Endo H is a specific endoglycosidase ###
+
+    Endo H sensitivity is an indicator of ER-to-Golgi transport
+        *** see slide
+
+    how is the graded distrib. of a modifying enzyme maintained?
+        retention/retrieval of Golgi resident proteins
+            retention mechanism:
+                transport vesicles leaving Golgi destined for PM have higher [cholesteral]
+                and thus, a thicker lipid bilayer
+
+                most transmemb. alpha-helix domains of PM proteins are longer (>20-25 AAs),
+                while those of resident Golgi proteins are usually shorter (~15 AAs)
+
+                    "this keeps the proteins in the Golgi - excludes them from export
+                     vesicle carriers"
+
+            retrieval mechanisms:
+                "I will discuss these later - no time"
+
+    protein sorting:
+        usually occurs in later compartments
+        Golgi is at the crossroads of biosynth. and recycling pathways
+
+    targeted secretion:
+        occurs in special types of cells (especially polarized cells - have apical&basal sides)
+
+        the golgi & targeted secretion:
+            secretion of mucus through apical surface
+
+endosomes:
+    endosomes are vesicles for transporting contents to and from plasma membrane
+
+lysosomes (animals):
+    vacuoles (plants)
+
+    a collection of heterogenous organelles w/ a high content of hydrolytic enzymes (hydrolases)
+
+    pH is very low due to proton pumps ~ pH 5.0 (in cytosol, it is ~7.2)
+        - hydrolases are often heavily glycosylated - protects them from proteases
+
+    conventional functions of lysosomes:
+        ###
+        3 pathways leading to lysosomal degradation:
+            ***know this!!!
+            endocytosis
+            phagocytosis - uptakes particulates (specialized endocytosis; not
+                                                        all cells can do this)
+            autophagy - (recently discovered)
+                - can be induced by starvation
+                - a process by which cytoplasmic organelles are selectively destroyed
+                    (e.g., only mitochondria - destroys cells)
+
+    lysosomal storage diseases:
+        "no time - later in quarter, maybe"
+        molecules normally degraded become accumulated in the lysosomes
+
+        Inclusion cell (I-cell) disease  - (not on exams)
+            - invariably lethal
+            - lysosomal enzymes accumulate
+
+    nonconventional functions:
+        secretory lysosomes - "My lab may have something to do with this"
+
+        present in multiple cell types:
+            melanocytes
+            blood cells
+            mast cells
+            ...
+
+        A CTL is a cytotoxic T lymphocyte
+        
+        Rab27a is involved in the secretion of lysosomes (or lysosome-derived organelles) in
+        several cell types.
+            - modulates transport of melanosomes along cytoskel.
+
+            - Rab27a-deficient mice display hypopigmentation (not only thing that's wrong)
+                in humans: Griscelli syndrome (a form of albinism)
