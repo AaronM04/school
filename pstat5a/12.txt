@@ -1,0 +1,120 @@
+2013-02-08 Fri
+---------------
+Lecture 12
+
+[ 10 min late!!! ]
+
+Median
+    ###
+
+Mean vs Median:
+    The mean and the median are close for symmetric distributions
+
+    The mean moves in the direction of a skewed distribution (while the median
+    does not move as much)
+
+    skewed left / right
+
+Outliers
+    outlier - a number that does not fit w/ the rest
+
+    data: 3, 6, 7, 10, 157
+    
+        mean = 1/5*(3 + 6 + 7 + 10 + 157) = 36.6
+
+        median = 7
+
+    ***medians are resistant to outliers
+
+Modes
+    Mode: peak in the distribution
+
+    Bimodal: two modes
+
+five number summary
+    mean
+
+    minimum & maximum
+
+    quartiles: middle observation above the median and below the median
+
+    min - Q1 - median/Q2 - Q3 - max
+
+    Q1:     75% above and 25% below
+    median: 50% above and 50% below
+    Q3:     25% above and 75% below
+
+
+finding quartiles:
+    1) sort
+    2) find the median
+    3) Q1: below the median: find the "sub-median"
+    4) Q3: above the median: find the "sub-median"
+
+    if you have an even number of items, you should be more careful
+
+quartiles with even number of items:
+    median is average of middle two
+    for Q1 and Q3, use the exact upper and lower half of items
+
+five number summary:
+    5-tuple: (min, Q1, med, Q3, max)
+
+    example:
+        data: 1,4,5,12,34,42,56,63,71,88
+
+        already sorted
+
+        median: (34+42)/2 = 76/2 = 38
+
+        Q1: 1,4,5,12,34    -> 5
+        Q3: 42,56,63,71,88 -> 63
+
+        (1,5,38,63,88)
+
+measuring the spread:
+    how much variability is in the data?
+        1) range = maximum - minimum
+        2) interquartile range: Q3 - Q1
+        3) standard deviation: average square distance from the mean
+
+sample standard deviation:
+    formula:
+        s = sqrt(1 / (n-1) * sum from i=1 to n of (x_i - x bar)^2 )
+
+    easier to calc:
+        s = sqrt(1 / (n-1) * ### )
+
+    ***5 easy steps:
+        1) calc the mean: x bar
+        2) square it
+        3) calc the sum of x^2
+        4) fid the difference
+        5) divide by n-1
+        6) take the square root
+
+        ex:
+            data: 7, 8, 3
+            n = 3
+
+            1) mean = x bar = 6
+            2) (x bar)^2 = 36
+            3) sum of x^2: 49 + 64 + 9 = 122
+            4) sum of x^2 - n*(x bar)^2 = 122 - 3*36 = 122 - 108 = 14
+            5) (1/(n-1)) * 14 = 1/(3-1) * 14 = 7
+            6) s = sqrt(7) = 2.645
+
+            answer: s = 2.645
+
+IQR (inter-quartile range) versus s:
+    IQR like the median does not depend on the largest (or smallest) observation
+        (it is outlier resistance)
+
+    s depends on all data and can be sensitive to distant observations (outliers)
+
+    x bar: sample mean -> mu
+    s: sample standard deviation -> sigma
+
+box plot:
+
+*** LEFT 10 MIN EARLY - SEE SLIDES
