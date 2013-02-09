@@ -1,0 +1,67 @@
+Lecture 14
+2013-02-08 Fri
+--------------
+
+alcoa: focus on worker safety
+    market cap.: $4B -> $28B in 13yr (1998-2011) - but inflation?
+    - we trust people before they appear to deserve it, and _then_ they change the world.
+
+review:
+general decarboxylation:
+    carbon-carbon cleavage of a carbonyl group that is beta to a carboxyl group
+        - has resonance stabilization
+    
+    alpha: no resonance stabilization for carbanion
+
+Thiamine pyrophosphate:
+    aminopyrimidine ring - thiazolium ring (w/ acidic proton) -ethylene-pyrophosphate
+
+    the N in the thiazolium ring has a net positive charge, which pulls the electrons toward
+    it, making the H of the neighboring C more acidic
+        w/o this effect: pKa ~ 30-40
+        w/ this effect:  pKa much lower ###
+
+Mechanism of pyruvate decarboxylation & oxidation by PDH
+    Step 1: TPP-dependent alpha-decarboxylation
+        TPP attaches to pyruvate
+        now there is a quaternary nitrogen beta to the carbonyl in the pyruvate
+        "classical beta mechanism"
+
+complete PDH mechanism:
+    pyruvate dehydrogenase: must be an oxygenation!
+        TPP acts like a handle to transport an acetyl group around
+            btwn pyruvate and lipoamide
+
+        dihydrolipoyl transacetylase is the second enzyme in this reaction
+
+        the oxidation state of the S's in lipoamide are both 3
+        but the ox. states of the S's in acetyl-dihydrolipoamide are both 4
+        electrons have been gained by S - reduced!
+
+Pyruvate dehydrogenase:
+    10e- in pyruvate -> 8e- in acetyl-TPP
+
+
+---
+Tricarboxylic acid cycle (TCA cycle / Citric acid cycle)
+
+two purposes:
+    1) make ATP - complete oxidation of acetyl C's (& H's)
+        we got two in glycolysis, but there are eight left!
+
+    2) generation of precursors for synthesis of macro-molecules (using ATP)
+
+major steps:
+    1) formation of oxalosuccinate from oxaloacetate and acetyl-CoA
+
+    2) decarboxylation
+
+    3) regeneration of oxaloacetate
+
+oxalosuccinate:
+    the 3 carboxyl groups are almost useless - oxidation states of 1
+    the middle carboxyl group can be removed most easily because:
+        when you take it off, there will be a resonance-stabilized carbanion
+        result: alpha-ketoglutarate
+
+    step 4 in the TCA cycle is exactly analogous to pyruvate dehydrogenase (PDH)
