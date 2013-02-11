@@ -1,0 +1,188 @@
+2013-02-11 Mon.
+--------------------
+Lecture 13 - Molecular Trafficking and Signaling
+
+Protein phosphorylation in molecular & cellular signaling
+
+1992 nobel prize in physiology or medicine:
+    Ed G Krebs (1918 - 2009
+    ...
+
+In most animals, protein kinases or phosphatases are divided into groups
+depending on the phosphorylated AA:
+
+    There are two common types:
+        Serine & Threonine kinases
+
+        Tyr kinases (and phosphatases)
+
+At least 5 AAs can be phosphorylated among all life forms:
+    Ser     Thr     Tyr    His     Asp(maybe)
+
+Kinases often have multiple and regulatory domains
+
+The major types of protein phosphatases (~150 total)
+    PPA1 - Ser/Thr
+
+    PP2A - Ser/Thr
+
+    107 tyrosine phosphatases identified
+
+    LIP - lipid phosphatases
+
+Ex. of how kinases integrate signals in the generation of an output signal
+    Cdk kinase activity turns on only if Cond1 AND Cond2 AND Cond3
+        Cond1: has this phosphate been removed?
+        Cond2: has this phosphate been added?
+        Cond3: is cyclin present?
+
+The Src kinase and proto-oncogene #1
+    Peyton Rous - nobel prize 1966
+        RSV causes cancer!!!
+
+The Src kinase and proto-oncogene #2
+    [ cool slide!!! ]
+
+Activation of PKA by cyclic AMP (cAMP)
+    two catalytic domains complexed to two regulatory domains
+
+    when cyclic AMP is present, that small molecule binds to the reg. domain
+    changes conformation, allowing phosphorylation of substrates
+
+Activation of calmodulin kinase II (CaMKII) by Ca2+/calmodulin
+
+Activation of PKC by DAG, Ca2+, and phosphotidylserine (classical PKC only)
+    ###
+
+Signal transduction is a cascade of events
+    receptor on plasma membrane -> activation of protein kinases -> downstream signals
+    "the vertical view of signal transduction, but it's also horizontal"
+
+Sig. transduction cascades often branch across mult. pathways: vert. & horizontal pathways
+    ***"that's why we will ultimately need some kinds of systems computation to understand this"
+
+
+---
+Examples of lipid phosphorylation & breakdown in signaling that contributes to
+the functional specificity of cell compartments
+
+    The problem: the compartments are all different - membranes alone don't generate
+    functional specificity.
+
+    Each compartment has its unique composition -- how is this generated?
+        - how does the cell target molecules among diff. intracellular compartments
+
+
+Phosphatidylinositol (PI) & Phosphoinositide (PtdIns or PIP)
+    primarily found in the cytoplasmic leaflets of plasma membrane or intracellular membranes
+
+    minor components of lipids (<=10%) but very effective signaling molecules
+
+Phosphatidylinositol (PI) is a phospholipid containing inositol as the hydrophilic head grp
+    inositol is a sugar but not a glycan: no glycosidic bonds!
+
+    inositol-P-glycerol-(two hydrocarbon tails)
+
+    Phosphate can be added to hydroxyl groups on inositol carbons 3, 4, and/or 5
+
+Depending on the phosphorylated position, there are diff. kinds of phosphoinositides
+    PI(4)P    - P on C4
+    PI(4,5)P2 - P on C4 and C5
+
+PI/PIP kinases and phosphatases are enzymes that phosphorylate or
+dephosphorylate PI/PIP, respectively
+
+There are seven possible PI-derived phosphoinositides: the conversions btwn them are controlled
+by diff. kinases & phosphatases (only kinases shown in this slide)
+
+Different kinases & phosphatases reside in different parts of the cell: therefore, diff.
+PIPs are enriched in diff. parts of the cell
+
+How do phosphoinositides (PIPs) contribute to cell compartment-specific signaling?
+    different PIP species are enriched at diff. compartments
+        => diff. PIP-binding proteins are recruited to diff. compartments to ###
+
+There are many types of PIP-binding protein domains: each domain recognizes a specific type
+or types of PtdIns/PIP
+
+    "don't memorize"
+
+Where do you expect a protein containing a PH domain and a protein containing a PX domain?
+
+Proteins with different PIP-binding domains are recruited to diff. compartments of a cell
+
+    claithrin
+    targeted to p.m. because it has a PH domain
+
+PI and PtdIns/PIPs
+    1. both PI and PIPs are phospholipids (not proteins)
+
+    ###
+
+Lipid phosphorylation and breakdown in signaling that contributes to the functional spec###
+
+Phospholipases are enzymes that cleave & convert phospholipids to fatty acids and PIPs
+
+    phospholipids -> fatty acids + PIPs
+
+Phospholipase C:
+    How does PLC mediate signaling?
+        binding of ligands to specific receptors at cell surface
+            => PLC is activated
+                => cleaves inositol from fatty acid
+                    => DAG is left in membrane; IP3 is liberated
+
+
+
+---
+Intracellular transport - "the next half of this course"
+
+[ polarized cell diagram ]
+
+Almost all proteins are synthesized in the cytosol - need to target proteins
+
+***Molecular traffic patterns in the cell
+    gated - only btwn nucleus & cytosol
+    transmembrane
+    vesicular
+
+Gated transport:
+    transport via a gated pore btwn two compartments
+
+    molecular transport btwn the cytosol and the nucleus
+
+Transmembrane transport:
+    transport btwn two compartments mediated by a protein or protein complex called a translocator
+
+vesicular transport:
+    transport from one compartment (donor) to another compartment (target) by a
+    membrane-enclosed transport intermediate in the form of vesicle or tubule
+
+    btwn cytosol and ER
+        cytosol & mitochondrian
+        cytosol & peroxisome
+        cytosol & chloroplast
+
+    budding from donor -> transport in cytoplasm -> fusion w/ target
+
+    all of this transport occurs downstream of the ER: Golgi, etc.
+
+Transport into intracellular organelles
+    interior of nuc.: gated
+    peroxisomes: transmemb.
+    ...
+
+Transport signals and signal receptors
+    transport signals: fonud in a cargo protein
+
+    transport signal receptor: found on the ###
+
+Two types of transport signals
+                unfolded protein <-> folded protein
+
+    signal sequence is at N-terminal end (more common)
+
+    signal patch is multiple regions that come together (less common)
+
+Co- and post-translational protein
+    co-translational: cargo protein is in an unfolded state (assoc w/ chaperones) during transport
