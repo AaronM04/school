@@ -3,54 +3,54 @@ Contents
 
 # 02.txt - Wednesday, January 9th - Week 1
 
-## Probability rules
+Probability rules
 
 # 03.txt - Friday, January 11th
 
-## Prob. rules (recap)
+Prob. rules (recap)
 
-## Testing for Independence
+Testing for Independence
 
-## Mutually Exclusive vs. Independent Events
+Mutually Exclusive vs. Independent Events
 
-## Rules of Thumb
+Rules of Thumb
 
-## Successive Events
+Successive Events
 
-## Sampling without Replacement
+Sampling without Replacement
 
 # 04.txt - Monday, January 14th - Week 2
 
-## Random Variables
+Random Variables
 
-## Probability Distribution Function (pdf)
+Probability Distribution Function (pdf)
 
-## Sum of two dice
+Sum of two dice
 
-## Job interview
+Job interview
 
-## Daughters in a family
+Daughters in a family
 
 # 05.txt - Wednesday, January 16th - SUB and late
 
-## Expected value (incomplete)
+Expected value (incomplete)
 
-## Properties of E(x)
+Properties of E(x)
 
-## Variance (measuring the spread)
+Variance (measuring the spread)
 
-## Another way to compute variance
+Another way to compute variance
 
 # 06.txt - Friday, January 18th
 
-## Review of expected value [ E(x) ]
+Review of expected value [ E(x) ]
 
-## Binomial distribution (incomplete)
+Binomial distribution (incomplete)
 
-## Properties of the variance
+Properties of the variance
 
-## Independent events
+Independent events
 
-## Counting sequences (nCk)
+Counting sequences (nCk)
 
-## Non-fair coins & binomial probability
+Non-fair coins & binomial probability
