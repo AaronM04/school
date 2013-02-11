@@ -1,0 +1,101 @@
+2013-02-11 Mon
+-----------------
+Lecture 13
+
+Box plot; histogram
+    histogram is more useful
+
+Example: hours of sleep
+
+    How to draw the block?
+        count the # of datapoints that falls into each class
+
+        Hours of sleep (X)  Counts  Proportions
+        -----------------   -----   ----------
+        1<=X<=2             4       4/20 = .2      ### not real numbers; see slide
+
+    The intervals are not necessary to draw the graph
+
+Variables
+    Variable: the aspect that differs from subject to subject, individual to individual
+
+        Political learning, age, sex, income
+
+    Data: the ###
+
+Two types of variables:
+    quantitative/numerical
+        age, height, miles traveled, hours slept, income
+
+    categorical - non-number
+        political affiliation, sex, race
+
+Summary of categories
+    sample proportion
+        counts (each category has a number of occurrences)
+
+        proportions/percentages
+
+Sample proportion
+    for ex...
+        p hat _ liberal = # of people being Liberals / total # of respondents = 0.32
+
+    p hat is like a probability, but it is empirical
+
+Visualizing categorical data
+    ###
+
+    Bar Graph (this is distinct from a histogram)
+
+Summary statistics
+    Type of variable    Statistics      Graphs
+    -------------       --------        ------
+    Quant. Continuous   Mean, SD, ...   histogram, boxplot
+
+Pair of measurements
+    two qualitative meas.
+
+    what is their relationship?
+
+    ###
+
+Correlation
+    Response and explanatory variables
+
+    Scatter plot:
+        [ plot ]
+
+    Positive & negative association
+
+    Sample correlation
+        [ crazy formula ]
+
+Example: avg consumption per capita by region in the UK
+
+    Region      Alcohol     Tobacco
+    -------     ------      -------
+
+    [ scatter plot - x:alcohol vs y:tobacco ]
+
+Two variables:
+    Explanatory variable
+        Input into the system
+
+        Explains or predicts the other
+
+    Response variable
+        Output of the system
+
+        What we want to predict
+
+    Ex: height of father is explanatory var; height of son is response var
+
+    Scatter plot: x is explanatory var; y is response var
+
+What to look for in a graph:
+    linear relationship:
+        positive or negative assoc.
+
+    non-linear relationship :)
+
+Positive association
