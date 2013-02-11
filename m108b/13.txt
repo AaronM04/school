@@ -1,0 +1,130 @@
+2013-02-06 Wed.
+---------------
+Lecture 13
+
+*** review is Girv 1004
+*** office hours on Mon.; normal office hours on Tues.
+
+*** midterm - don't go back more than 3 years:
+    - thermodynamics
+    - organic chemistry of glycolysis
+        understand the chemistry behind the logic of glycolysis
+    - cooperativity
+        yeast experiments
+        titrating F26BP to see change from MM
+
+"Why > How > What   - start by asking Why"
+
+epinephrine upregulates glycogen->glucose in both liver&muscle, but
+whereas in liver, epi. downregulates glucose->pyruvate (glycolysis),
+   in the muscle, epi. upregulates glucose->pyruvate
+
+metabolic profile of the major organs
+    Brain
+        sole fuel source is glucose: cannot use FFA's directly
+
+        ###
+
+    Muscle:
+        ###
+
+    Adipose tissue:
+        "we will cover this later"
+
+    Liver:
+        primary function for metabolism is glucose storage and release
+
+        used to make FFAs (free fatty acids)
+
+
+---
+"this is the end of glycolysis - we will be responsible for the above on the MT"
+
+1. Dehydrogenation by NAD+ or FAD (or FMN)
+
+    a) NAD+  +  2e-  +  2H+  ->  NADH  +  H+
+
+        - NAD+ / NADH is the ###
+
+        ###
+
+    b) FAD  +  2e-  +  2H+  ->  FADH2
+        (a double bond is removed)
+        
+        FAD/FADH2 is usually _tightly bound_ as a prosthetic group of an enzyme
+
+        all dehydrogenation reactions are catalyzed by dehydrogenases
+
+2. Combination w/ O
+    removal of e-'s by O which "pulls" e-'s away from the C or H nucleus.
+    C or H becomes oxidized; O becomes reduced
+
+    catalyzed by oxidases
+
+    CH4     8 is the C's oxidation state
+    CH3-OH  6
+    CH2=O   4
+    HCOOH   2
+    CO2     0
+
+Oxidation states of carbon:
+    "how many e-'s does this C atom own?"
+    C-H   +2
+    C-C   +1
+    C-O    0
+    C-S    0
+    C-N    0
+    
+    (note that in most textbooks the ox. state is the negative of the above)
+
+Why do carbohydrates have less kcal/g than long-chain fatty acids (4 kcal/g vs 9.3 kcal/g)
+    - carbohydrates are already partially oxidized
+
+    (CHOH)n vs (CH2)n
+
+Individ. C's can have different oxidation states:
+    pyruvate:
+        COO-    1
+        C=O     2
+        CH3     7
+
+Oxidative metabolism:
+    Production of chemical energy via oxidation of pyruvate
+
+Oxidation of pyruvate occurs in mitochondria
+    pyruvate->Acetyl-CoA + CO2 + NADH + H+     delta G is very negative (-8)
+
+Pyruvate dehydrogenase - role of vitamins
+    - links glycolysis & TCA cycle
+        "the colors tell you what's important"
+
+    the COO- of the pyruvate turns into CO2
+
+    main idea: CO2 and electrons are being lost from pyruvate
+
+Role of vitamins & cofactors in PDH
+    1. thiamine
+    ###
+
+Discovery of thiamine (and vitamins)
+    polished white rice - symbol of prosperity in Asia
+        - beriberi!
+        mentality at the time: all disease was due to presence of infectious agent
+            due to presence of SOMETHING in the body
+            "people tend to think inside their box"
+        changed their diet to British diet (lima beans, fresh fruit, oatmeal) and
+        deaths from beriberi went away
+
+        "We think that what we know is _what is_."
+
+"three types of ppl in world: foot soldiers, managers, and leaders (come up with new ideas)"
+
+general decarboxylation
+    "can't be done without a carbonyl next door"
+    beta: <works>
+    alpha: pyruvate - the carbonyl is too close!
+        - need TPP (thiamine pyrophosphate)
+
+TPP:
+    thiazolium ring w/ a quaternary amine
+        - has an acidic proton!
