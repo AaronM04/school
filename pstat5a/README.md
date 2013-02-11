@@ -1,11 +1,11 @@
 Contents
 ========
 
-# 02.txt - Wednesday, January 9th - Week 1
+## 02.txt - Wednesday, January 9th - Week 1
 
 Probability rules
 
-# 03.txt - Friday, January 11th
+## 03.txt - Friday, January 11th
 
 Prob. rules (recap)
 
@@ -19,7 +19,7 @@ Successive Events
 
 Sampling without Replacement
 
-# 04.txt - Monday, January 14th - Week 2
+## 04.txt - Monday, January 14th - Week 2
 
 Random Variables
 
@@ -31,7 +31,7 @@ Job interview
 
 Daughters in a family
 
-# 05.txt - Wednesday, January 16th - SUB and late
+## 05.txt - Wednesday, January 16th - SUB and late
 
 Expected value (incomplete)
 
@@ -41,7 +41,7 @@ Variance (measuring the spread)
 
 Another way to compute variance
 
-# 06.txt - Friday, January 18th
+## 06.txt - Friday, January 18th
 
 Review of expected value [ E(x) ]
 
