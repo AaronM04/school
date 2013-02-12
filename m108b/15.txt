@@ -1,0 +1,94 @@
+2013-02-11 Mon
+---------------
+Lecture 15
+
+***exam is to end of glycolysis (i.e., no TCA)
+
+what's the theme of the TCA cycle?
+    butchering the meat from the bones
+        the meat: high energy e-
+        the bones: carbon
+
+carbon dioxide is electron-deficient
+
+inner mitochondrial membrane is impermeable to practically everything (incl. protons, but not O2)
+    - why can O2 cross? it's nonpolar
+
+mitochondrial matrix:
+    space where TCA occurs
+
+
+glucose -> 2 pyruvate -> 2 acetyl CoA
+
+glucose C1-6:  3+4+4+4+4+5 = 24
+pyruvate C1-3: 2*(1+2+7) = 20
+acetyl  C1-2:  2*(1+7)  =  16
+
+24 - 20 = 4 WTF?
+    the actual substrate that was oxidized is the thiohemiacetal that formed on G3P
+        drives the formation of putting the phosphate on the ATP(???)
+
+20 - 16 = 4 WTF?
+    NAD+ -> NADH again
+    hydroxyethyl ###
+
+logic of isocitrate formation
+    acetyl-CoA + oxaloacetate -> citrate -> isocitrate
+
+    oxaloacetate is regenerated with every turn of the TCA cycle - like a catalyst
+
+    colors of this slide:
+        blue   - 
+        yellow - 
+
+    move hydroxyl group one carbon over; then, oxidize carboxyl group where it was
+
+logic of converting isocitrate to succinyl-CoA
+    isocitrate -> oxalosuccinate -> succinyl CoA
+        purple in oxalosuccinate - carboxyls come off as CO2
+
+    middle carboxyl comes off -> carbanion stabilized by carbonyl -> protonated to form -CH2-
+
+    bottom carboxyl needs TPP (thiamine) to happen - alpha decarboxylation
+
+***follow oxidation states in the molecules of the TCA cycle!!!
+
+[alpha]-ketoglutarate to succinyl-CoA is same mechanism as pyruvate dehydrogenase (PDH)
+
+when CoA is hydrolized, there's a large negative change in free energy - very favorable
+
+succinyl-CoA -> succinate:
+    large amount of free energy released
+    that free energy is used to drive synth. of GTP from GDP and Pi
+
+from succinate, we need to reform oxaloacetate, getting any electrons out that we can:
+    succinate -> fumarate
+        two hydrogen atoms are carried away by FAD, leaving an unsaturated carbon bond
+
+    L-malate -> oxaloacetate:
+        lose a hydride to NAD+
+
+***in terms of electrons, the TCA cycle is in steady state
+***track the electrons! the electrons are everything
+
+two carbons are liberated from the TCA cycle - two enter via acetyl CoA
+eight electrons are liberated - eight enter via acetyl CoA
+
+For homework:
+    4 oxygens are liberated - where do they enter?
+    8 protons are liberated - where do they enter?
+
+***logic of TCA cycle
+
+Citrate is prochiral
+    on the surface of enzyme, there are binding pockets for 3 of the functional groups
+
+    in this way, it can distinguish the two ends of the citrate molecule
+
+    always the methylene group from oxaloacetate that is oxidized
+
+radiolabeling acetyl CoA
+specific radioactivity = [hot]/[hot + cold]
+usually very small ratio for radiolabeling
+
+
