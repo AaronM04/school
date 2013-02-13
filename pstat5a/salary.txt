@@ -1,0 +1,386 @@
+<!doctype html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="https://gauchospace.ucsb.edu/courses/theme/standard/styles.php?lang=en_utf8" />
+<link rel="stylesheet" type="text/css" href="https://gauchospace.ucsb.edu/courses/theme/standard/styles.php?lang=en_utf8" />
+<link rel="stylesheet" type="text/css" href="https://gauchospace.ucsb.edu/courses/theme/gaucho/styles.php?lang=en_utf8" />
+
+<!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="https://gauchospace.ucsb.edu/courses/theme/standard/styles_ie7.css" />
+<![endif]-->
+<!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="https://gauchospace.ucsb.edu/courses/theme/standard/styles_ie6.css" />
+<![endif]-->
+
+
+    <meta name="keywords" content="moodle, PSTAT 5A (100) - W13: salary " />
+    <title>PSTAT 5A (100) - W13: salary</title>
+    <link rel="shortcut icon" href="https://gauchospace.ucsb.edu/courses/theme/gaucho/favicon.ico" />
+    <script type="text/javascript" src="https://gauchospace.ucsb.edu/courses/lib/speller/spellChecker.js"></script>
+<!--<style type="text/css">/*<![CDATA[*/ body{behavior:url(https://gauchospace.ucsb.edu/courses/lib/csshover.htc);} /*]]>*/</style>-->
+
+<script type="text/javascript" src="https://gauchospace.ucsb.edu/courses/lib/javascript-static.js"></script>
+<script type="text/javascript" src="https://gauchospace.ucsb.edu/courses/lib/javascript-mod.php"></script>
+<script type="text/javascript" src="https://gauchospace.ucsb.edu/courses/lib/overlib/overlib.js"></script>
+<script type="text/javascript" src="https://gauchospace.ucsb.edu/courses/lib/overlib/overlib_cssstyle.js"></script>
+<script type="text/javascript" src="https://gauchospace.ucsb.edu/courses/lib/cookies.js"></script>
+<script type="text/javascript" src="https://gauchospace.ucsb.edu/courses/lib/ufo.js"></script>
+<script type="text/javascript" src="https://gauchospace.ucsb.edu/courses/lib/dropdown.js"></script>  
+
+<script type="text/javascript" defer="defer">
+//<![CDATA[
+setTimeout('fix_column_widths()', 20);
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+function openpopup(url, name, options, fullscreen) {
+    var fullurl = "https://gauchospace.ucsb.edu/courses" + url;
+    var windowobj = window.open(fullurl, name, options);
+    if (!windowobj) {
+        return true;
+    }
+    if (fullscreen) {
+        windowobj.moveTo(0, 0);
+        windowobj.resizeTo(screen.availWidth, screen.availHeight);
+    }
+    windowobj.focus();
+    return false;
+}
+
+function uncheckall() {
+    var inputs = document.getElementsByTagName('input');
+    for(var i = 0; i < inputs.length; i++) {
+        inputs[i].checked = false;
+    }
+}
+
+function checkall() {
+    var inputs = document.getElementsByTagName('input');
+    for(var i = 0; i < inputs.length; i++) {
+        inputs[i].checked = true;
+    }
+}
+
+function inserttext(text) {
+  text = ' ' + text + ' ';
+  if ( opener.document.forms['theform'].message.createTextRange && opener.document.forms['theform'].message.caretPos) {
+    var caretPos = opener.document.forms['theform'].message.caretPos;
+    caretPos.text = caretPos.text.charAt(caretPos.text.length - 1) == ' ' ? text + ' ' : text;
+  } else {
+    opener.document.forms['theform'].message.value  += text;
+  }
+  opener.document.forms['theform'].message.focus();
+}
+
+function getElementsByClassName(oElm, strTagName, oClassNames){
+	var arrElements = (strTagName == "*" && oElm.all)? oElm.all : oElm.getElementsByTagName(strTagName);
+	var arrReturnElements = new Array();
+	var arrRegExpClassNames = new Array();
+	if(typeof oClassNames == "object"){
+		for(var i=0; i<oClassNames.length; i++){
+			arrRegExpClassNames.push(new RegExp("(^|\\s)" + oClassNames[i].replace(/\-/g, "\\-") + "(\\s|$)"));
+		}
+	}
+	else{
+		arrRegExpClassNames.push(new RegExp("(^|\\s)" + oClassNames.replace(/\-/g, "\\-") + "(\\s|$)"));
+	}
+	var oElement;
+	var bMatchesAll;
+	for(var j=0; j<arrElements.length; j++){
+		oElement = arrElements[j];
+		bMatchesAll = true;
+		for(var k=0; k<arrRegExpClassNames.length; k++){
+			if(!arrRegExpClassNames[k].test(oElement.className)){
+				bMatchesAll = false;
+				break;
+			}
+		}
+		if(bMatchesAll){
+			arrReturnElements.push(oElement);
+		}
+	}
+	return (arrReturnElements)
+}
+//]]>
+</script>
+    <![if IE]>
+    <script type="text/javascript" src="https://gauchospace.ucsb.edu/courses/lib/editor/tiny_mce/tiny_mce_gzip.js"></script>
+<script type="text/javascript">
+var use_lang = '';
+var use_theme = 'advanced';
+//var use_plugins = 'safari,pagebreak,style,layer,table,save,'
+//                + 'advhr,advimage,advlink,emotions,iespell,'
+//                + 'preview,media,searchreplace,print,contextmenu,'
+//                + 'paste,directionality,fullscreen,noneditable,'
+//                + 'visualchars,nonbreaking,xhtmlxtras,template,inlinepopups,'
+//                + 'dragmath,spellchecker,autosave,tinyautosave',
+var use_plugins = 'safari,pagebreak,style,layer,table,save,'
+		        + 'advhr,advimage,advlink,emotions,iespell,'
+				+ 'preview,media,searchreplace,print,contextmenu,'
+				+ 'paste,directionality,fullscreen,noneditable,'
+				+ 'visualchars,nonbreaking,xhtmlxtras,template,inlinepopups,'
+				+ 'dragmath,spellchecker,autosave,wordcount';
+tinyMCE_GZ.init({
+		plugins: use_plugins,
+		theme: use_theme,
+		languages: use_lang,
+		disk_cache: true,
+		debug: false 
+});
+</script>
+<script type="text/javascript">
+var use_btn1 = 'fontselect,fontsizeselect,formatselect,|,bold,italic,underline,strikethrough,|,'
+             + 'forecolor,backcolor,|,charmap,hr,dragmath,|,spellchecker,|,undo,redo';
+var use_btn2 = 'bullist,numlist,outdent,indent,|,justifyleft,justifycenter,justifyright,justifyfull,|,'
+		     + 'link,unlink,anchor,image,|,table,visualaid,|,forecolor,backcolor,|,pastetext,pasteword,|,'
+			 + 'selectall,cleanup,removeformat,|,code,|,fullscreen,|,preview';
+tinyMCE.init({
+		plugins: use_plugins,
+		theme: use_theme,
+		languages: use_lang,
+		mode: 'textareas',
+		editor_selector: 'form-textarea',
+		relative_urls: false,
+		remove_script_host: false,
+		document_base_url: 'https://gauchospace.ucsb.edu/courses/',
+		skin: "o2k7",
+		skin_variant: 'silver',
+		forced_root_block: 'div',
+		force_br_newlines: false,
+		force_p_newlines: true,
+		file_browser_callback: 'moodleFileBrowser',        
+		tinyautosave_key: "gauchospace",
+		theme_advanced_buttons1: use_btn1,
+		theme_advanced_buttons2: use_btn2, 
+		theme_advanced_buttons3: "",
+		theme_advanced_buttons4: "",
+		theme_advanced_toolbar_location: "top",
+		theme_advanced_toolbar_align: "left",
+		theme_advanced_statusbar_location: "bottom",
+		theme_advanced_default_background_color : "#FFFF00",
+		theme_advanced_resizing: true 
+});
+    
+function moodleFileBrowser (field_name, url, type, win) {
+
+    if(type == 'file'){
+        var cmsURL =  'https://gauchospace.ucsb.edu/courses/lib/editor/tiny_mce/link.php';
+        var width = 480;
+        var height = 400;
+    }
+    if(type == 'image'){
+        var cmsURL =  'https://gauchospace.ucsb.edu/courses/lib/editor/tiny_mce/insert_image.php';
+        var width = 736;
+        var height = 430;
+    }
+    if(type == 'media'){
+        var cmsURL =  'https://gauchospace.ucsb.edu/courses/lib/editor/tiny_mce/insert_image.php';
+        var width = 736;
+        var height = 430;
+    }
+    var courseid =  5932;
+
+    tinyMCE.activeEditor.windowManager.open({
+        file : cmsURL + "?id=" + courseid,
+        width : width,  
+        height : height,
+        resizable : "yes",
+        inline : "yes",  // This parameter only has an effect if you use the inlinepopups plugin!
+        close_previous : "no"
+        
+    }, {
+        window : win,
+        input : field_name
+    });
+    return false;
+  }
+</script>
+    <![endif]>
+	<!-- ?php require_once($CFG->dirroot . '/notetoself/dependencies.php'); ? -->
+<script language="JavaScript" type="text/javascript">
+// correctly handle PNG transparency in Win IE 5.5 & 6.
+function correctPNG() 
+{
+   var arVersion = navigator.appVersion.split("MSIE")
+   var version = parseFloat(arVersion[1])
+   if ((version >= 5.5) && (document.body.filters)) 
+   {
+      for(var i=0; i<document.images.length; i++)
+      {
+         var img = document.images[i]
+         var imgName = img.src.toUpperCase()
+         if (imgName.substring(imgName.length-3, imgName.length) == "PNG")
+         {
+            var imgID = (img.id) ? "id='" + img.id + "' " : ""
+            var imgClass = (img.className) ? "class='" + img.className + "' " : ""
+            var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
+            var imgStyle = "display:inline-block;" + img.style.cssText 
+            if (img.align == "left") imgStyle = "float:left;" + imgStyle
+            if (img.align == "right") imgStyle = "float:right;" + imgStyle
+            if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle
+            var strNewHTML = "<span " + imgID + imgClass + imgTitle
+            + " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
+            + "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
+            + "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>" 
+            img.outerHTML = strNewHTML
+            i = i-1
+         }
+      }
+   }    
+} // end
+
+if (window.addEventListener) //DOM method for binding an event
+    window.addEventListener("load", correctPNG, false);
+else if (window.attachEvent) //IE exclusive method for binding an event
+    window.attachEvent("onload", correctPNG);
+else if (document.getElementById) //support older modern browsers
+window.onload=correctPNG;
+</script>
+</head>
+<body  class="mod-resource course-5932 dir-ltr lang-en_utf8" id="mod-resource-view">
+
+    <![if !IE]>
+        <![endif]>
+
+<div id="page">
+
+<div id="header" class=" clearfix">        <!-- h1 class="headermain">PSTAT 5A (100) -  STATISTICS - Winter 2013</h1 -->
+        <img src="https://gauchospace.ucsb.edu/courses/theme/gaucho/images/logo-small-pro.png" alt="logo" title="logo" / -->
+        <div class="headermenu"><div class="navigation">
+<ul><li><form action="https://gauchospace.ucsb.edu/courses/mod/resource/view.php"  onclick="this.target='_top';"><fieldset class="invisiblefieldset"><input type="hidden" name="id" value="297428" /><button type="submit" title="Previous activity"><span class="arrow ">&#x25C4;</span><span class="accesshide " >&nbsp;Previous activity</span></button></fieldset></form></li><li><form action="https://gauchospace.ucsb.edu/courses/course/jumpto.php" method="get"  id="navmenupopup" class="popupform"><div><select id="navmenupopup_jump" name="jump" onchange="self.location=document.getElementById('navmenupopup').jump.options[document.getElementById('navmenupopup').jump.selectedIndex].value;">
+   <option value="https://gauchospace.ucsb.edu/courses/mod/forum/view.php?id=250040" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/forum/icon.gif);">Instructor Announcements</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=277740" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Syllabus (Winter 2013)</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=277741" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Lecture's Plan (Winter 2013)</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=277743" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Exam Instructions</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=278436" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">PSTAT 5H - Honors section</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=287292" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">TAs Office Hours</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=291570" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">TA Contact Information</option>
+   <optgroup label="Week 1">   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=277747" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Lecture 1</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=282648" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Lecture 2</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=283786" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Lecture3</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=283788" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Practice1</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=288063" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Practice1 - Solutions</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=288342" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Lab 1</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=288343" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Classroom 1</option>
+   </optgroup>   <optgroup label="Week 2">   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=285219" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Lecture 4</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=287294" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Lecture 5</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=287312" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Lecture 6</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=287297" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Practice2</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=288504" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Practice2 - Solutions</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=291257" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Lab 2</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=291258" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Classroom 2</option>
+   </optgroup>   <optgroup label="Week 3">   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=290806" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Lecture 7</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=290804" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Quiz 1</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=290850" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Practice3</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=293550" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Practice 3 Solutions</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=290848" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Extra Practice Problems (Counting Rules)</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=294389" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Lab 3</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=294390" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Classroom 3</option>
+   </optgroup>   <optgroup label="Week 4">   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=291574" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Lecture 8</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=292673" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Lecture 9</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=292675" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Lecture 10</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=293144" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Practice4</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=294392" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Practice4 - Solutions</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=297424" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Lab 4</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=297426" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Classroom 4</option>
+   </optgroup>   <optgroup label="Week 5">   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=297108" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Lecture 12</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=294379" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Formulas for Quiz 2</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=297428" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">income</option>
+   <option value="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?id=297430" selected="selected" style="background-image: url(https://gauchospace.ucsb.edu/courses/theme/gaucho/pix/mod/resource/icon.gif);">Jump to...</option>
+    </optgroup></select><input type="hidden" name="sesskey" value="icGzUHs6oa" /><div id="noscriptnavmenupopup" style="display: inline;"><input type="submit" value="Go" /></div><script type="text/javascript">
+//<![CDATA[
+document.getElementById("noscriptnavmenupopup").style.display = "none";
+//]]>
+</script></div></form></li></ul>
+</div></div>
+</div>	     <div class="menubar">
+				<ul id='menubar'>
+                                        <li><a href="https://gauchospace.ucsb.edu/courses/">home</a></li>
+                                        <li><a href="https://gauchospace.ucsb.edu/courses/course/">courses</a></li>
+                                        <li><a href="http://mammoth.gauchospace.ucsb.edu/notice.html" target='_blank'>Archives</a></li>
+                                        <li><a href="http://collaborate.ucsb.edu/support/gauchospace/training" target='_blank'>Trainings</a></li>
+                                        <li><a href='http://helpcenter.gauchospace.ucsb.edu/hc2' target='_blank'>Help Center</a></li>
+                                        <li><a href="/help/"> submit a help ticket</a></li>
+
+	  			    						<!-- li><img style="float:right;margin:0 0 0 4px;padding:0;cursor:pointer" 
+							src="https://gauchospace.ucsb.edu/courses/notetoself/pix/icon.png" 
+							alt="note to self"  
+							title="remind me" onclick="scribble()" /></li -->
+									</ul>
+       </div>
+
+    <div class="navbar clearfix">
+        <div class="breadcrumb"><h2 class="accesshide " >You are here</h2> <ul>
+<li class="first"><a  onclick="this.target='_top'" href="https://gauchospace.ucsb.edu/courses/">GauchoSpace</a></li><li> <span class="accesshide " >/&nbsp;</span><span class="arrow sep">&#x25BA;</span> <a  onclick="this.target='_top'" href="https://gauchospace.ucsb.edu/courses/course/view.php?id=5932">PSTAT 5A (100) - W13</a></li><li> <span class="accesshide " >/&nbsp;</span><span class="arrow sep">&#x25BA;</span> <a  onclick="this.target='_top'" href="https://gauchospace.ucsb.edu/courses/mod/resource/index.php?id=5932">Resources</a></li><li> <span class="accesshide " >/&nbsp;</span><span class="arrow sep">&#x25BA;</span> salary</li></ul></div>
+        <div class="navbutton">&nbsp;</div>
+    </div>
+    <!-- END OF HEADER -->
+
+<div id="content">
+<script type="text/javascript">
+<!--
+openpopup('/mod/resource/view.php?inpopup=true&id=297430','resource209997','resizable=1,scrollbars=1,directories=1,location=1,menubar=1,toolbar=1,status=1,width=620,height=450');
+
+-->
+</script><div class="popupnotice">This resource should appear in a popup window.<br />If it didn't, click here: <a href="https://gauchospace.ucsb.edu/courses/mod/resource/view.php?inpopup=true&amp;id=297430" onclick="this.target='resource209997'; return openpopup('/mod/resource/view.php?inpopup=true&amp;id=297430', 'resource209997','resizable=1,scrollbars=1,directories=1,location=1,menubar=1,toolbar=1,status=1,width=620,height=450');">salary</a></div></div><div id="footer">            <div class="navbar clearfix" style='padding: 0px;'>
+		<table style='width: 100%; margin: 0px;'>
+		<tr>
+			<td>
+		             	<div class="breadcrumb" style='padding: 5px;'><h2 class="accesshide " >You are here</h2> <ul>
+<li class="first"><a  onclick="this.target='_top'" href="https://gauchospace.ucsb.edu/courses/">GauchoSpace</a></li><li> <span class="accesshide " >/&nbsp;</span><span class="arrow sep">&#x25BA;</span> <a  onclick="this.target='_top'" href="https://gauchospace.ucsb.edu/courses/course/view.php?id=5932">PSTAT 5A (100) - W13</a></li><li> <span class="accesshide " >/&nbsp;</span><span class="arrow sep">&#x25BA;</span> <a  onclick="this.target='_top'" href="https://gauchospace.ucsb.edu/courses/mod/resource/index.php?id=5932">Resources</a></li><li> <span class="accesshide " >/&nbsp;</span><span class="arrow sep">&#x25BA;</span> salary</li></ul></div>
+			</td>
+			<td style='padding-right: 10px; background: #2f65a5; width: 50%;'>
+			        <div class="menu"><div class="logininfo">You are logged in as <a  href="https://gauchospace.ucsb.edu/courses/user/view.php?id=834147&amp;course=5932">Aaron Miller</a>  (<a  href="https://gauchospace.ucsb.edu/courses/login/logout.php?sesskey=icGzUHs6oa">Logout</a>)</div></div>
+			</td>
+		</tr>
+		</table>
+        </div>
+	 
+
+     <p class="helplink"></p>
+
+    
+
+  	
+    <div class="footer">
+        <table width="100%" cellpadding="10" cellspacing="0" >
+          <tr> 
+            <td width="180px" align="left" valign="bottom">
+		<a href="http://www.ucsb.edu/" target='new'>
+		<img src="https://gauchospace.ucsb.edu/courses/theme/gaucho/images/logo-ucsb-small-28.jpg"  border="0" alt="www.ucsb.edu" ></a>
+             </td>
+             <td align="center" valign="middle"> 
+                 <P class="footer">
+Copyright (c)  The Regents of the University of California, All Rights Reserved.
+<br>
+                    This site is maintained and operated by 
+                    <a target='new' href='http://www.ic.ucsb.edu/'>LSIT</a>. 
+                    For more information please <a href="https://gauchospace.ucsb.edu/help/">contact us</a>. 
+                    LSIT is not responsible for the content of external internet sites.
+                 </p>
+             </td>
+             <td width="180px" align="right" valign="bottom"> 
+                <a class="greylink" href="http://www.ucsb.edu">UCSB Website</a><BR>
+                <a class="greylink" href="http://www.ucsb.edu/policies/terms-of-use.shtml">Terms of Use</a><BR>
+              </td>
+          </tr>
+        </table>
+    </div><!-- end class=footer -->
+
+</div>
+</div>
+<!-- Piwik --> 
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://stage.gauchospace.ucsb.edu/piwik/" : "http://stage.gauchospace.ucsb.edu/piwik/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 2);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://stage.gauchospace.ucsb.edu/piwik/piwik.php?idsite=2" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code -->
+</body>
+</html>
