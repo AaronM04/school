@@ -43,7 +43,7 @@ Main theme of 2nd part:
         problem: it's so steeply uphill (7.3 kcal/mol)
         ADP + 1,3BPG <-> ATP is downhill (-4.5 kcal/mol)
 
-    happens in enzyme active site: GA3P <-> a thiohemiacetal <-> GA3PDH <-> 1,3BPG
+    happens in enzyme active site: GA3P <-> a thiohemiacetal <-> a thioester <-> 1,3BPG
     happens in solution:           GA3P <-> a gem-diol <-> -COOH <-> 1,3 BPG
 
         putting a phosphate on anything is always hard, but it's easier
