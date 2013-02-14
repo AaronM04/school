@@ -1,0 +1,19 @@
+2013-02-13 Wed
+----------------
+Lecture 14
+
+
+***[ 30 min late!!! see slides ]
+
+GAP, GEF, and GDI regulate a small GTPase by controlling its GTP/GDB cycle
+
+---
+Importins (nuc import receptors recognizing the NLS)
+Exportins (nuc export receptors recognizing the NES)
+
+    different NLS & NES signals are recognized by different importins and exportins
+
+    ###
+
+Importins and exportins
+    Ran-GTP binding causes release of nuclear cargo
