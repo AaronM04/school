@@ -1,0 +1,51 @@
+2013-02-13 Wed.
+-----------------
+Lecture 14
+
+relationship btwn two random variables
+
+from Quiz 2:
+1) iii) 8 people - 4 men, 4 women
+    Select a group of 3
+    What's the prob. to select 1 man and 2 women?
+
+    P(1 man & 2 women) = (# of distinct groups containing 1M&2W)
+                        ----------------------------------------
+                                # of groups of 3
+
+                        = 4_C_1 * 4_C_2
+                          -------------
+                            8_C_3
+
+what to look for
+    linear relationship
+        ###
+
+linear relationship
+    explanatory var inc. or dec.
+
+    response inc. or dec. proportionally
+
+Correlation
+    Do X and Y depend on each other?
+
+    How strong is the relationship?
+
+        r = 1/((n-1)s_x*s_y) * sum i=1->n of (xi*yi - n*xbar*ybar)
+
+        r = 1/(n-1)*sum i=1->n of [((xi-xbar)/sx) * ((yi-ybar)/sy)]
+
+Correlation coeff. (r)
+    Measures strength of assoc.
+
+    r is a number btwn -1 and 1
+
+    r = 0 means no linear assoc.
+        independence requires r = 0
+
+How to calc r
+    1. calc sample statistics: xbar, ybar, sx, sy
+    2. multiply means: xbar*ybar
+    3. find the avg product: sum from i=1->n yi*xi
+    4. take the diff: sum from i=1->n of yi*xi - n*(xbar*ybar)
+    5. multiply
