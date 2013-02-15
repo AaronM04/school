@@ -1,0 +1,205 @@
+2013-02-15 Fri
+------------------
+Lecture 15
+
+Cytosol->mitochondria transport
+cytosol->peroxisome transport
+
+***see book for this
+
+protein transport into mitochondria
+    general features
+        mediated by TM translocators
+
+        mostly uni-dir transport
+
+        import sig. seq. required at N-terminus
+
+        sig. seq cleaved afterward
+
+        post-transl. import mechanism
+
+        imported as unfolded protein
+
+        molecular chaperones involved
+
+    basic structure & topology of mitochondria
+        outer membrane
+        inner membrane
+
+        intermemb. space
+        matrix space
+
+    two separate systems to gen. mitochondr. proteins
+        the major pathway (99%) - from cytosol
+        minor pathway (1% - 37 genes) - protein synthesized inside mitochond.
+
+    transport machinery from cytosol->mitoch. transport
+        outer memb:
+        TOM complex
+            entry port for all proteins from cytosol
+            has translocation channels
+
+        SAM complex
+            works together w/ TOM - helps folding of outer memb. proteins
+
+        both outer and inner memb - TIM 23 complex
+            for some imported  matrix proteins
+
+        inner:
+            TIM22 complex
+                ###
+            OXA complex
+                ###
+
+    We will focus on cytosol->matrix transport
+        cytosol -> matrix
+        cytosol -> matrix -> other destinations (inner & outer membranes, intermemb. space)
+
+    Overview of cytosol-> mitoch. matrix transport
+        Hsc70 - a cytosolic protein that is a chaperone and helps to unfold proteins
+              - uses ATP
+
+        Hsc70 = Hsp70
+
+        matrix-targeting seq.
+
+    Cytosol-to-matrix transport is mediated by matrix-targeting sequences found w/in
+    the N-termini of proteins
+
+        Features of matrix-targeting sequence:
+            ampipathic - both hydrophil. & hydroprob. residues
+            20-50 AA long, but no specific seq
+            at N-termini of imported proteins
+
+    overview of cytosol-to-mitochondrial matrix transport
+
+        chaperones are required on both cytosolic and matrix sides
+
+        transport occurs via the contact sites btwn outer & inner membranes
+
+    how do we know that import into the mitoch. can occur post-transl. in an
+    unfolded state?
+
+        utilize energized mitoch. to conduct an _in vitro_ reconst. mitoch. transport assay
+            urea unfolds proteins -> can be imported without chaperonins!
+
+   how do we know that import into the mitoch. occurs at contact sites?
+
+    method 1: _in vitro_ ###
+    
+    the protein must be able to span the intermemb. space - thus, the space needs to be
+    small enough => contact sites
+
+    DHFR - cytosolic protein
+        its folding status can be differentially controlled by chaperones or methotrexate
+
+        can put matrix targeting seq. on its N-terminus
+            DHFR-mts ----chaperones----> into the matrix
+            DHFR-mts ----methotrexate----> stay in the cytosol
+                    cannot form a stable interaction w/ the translocator (too short)
+
+                    we know this by adding a spacer seq.
+
+            DHFR-spacer-mts ----methotrexate----> stuck in translocator!!!
+
+    Getting stuck:
+        mts gets cleaved off
+        folding at C-terminal end acts as a cytosolic "knot", preventing the whole protein
+        from going through
+
+    How do we know that import into the mito. occurs at the contact sites?
+        ###
+
+    Method 2 - in vitro reconst. mitoch. transloc. assay
+        initial transloc of mts can proceed at low temp,
+        but the subsequent transloc. of the bulk of the protein cannot.
+
+        by performing the transloc at low temp, one can "freeze" the transport
+        intermediate.
+
+    Method 3 - imaging approach:
+        gold conjugated particles & electron microscopy
+            high sensitivity
+
+            superior resolution
+
+            high contrast
+
+            stable signals
+
+            diff. sized particles are avail.
+
+            anti-DHFR Ab + gold particles coated w/ protein A
+                protein A - bacterial protein w/ high affinity to the Ab's
+
+    overview of cytosol->mito. matrix transport
+        chaperones are required on both sides
+
+        ATP is required on both sides
+        
+        proton gradient across the inner memb. is also required
+
+    energy and chaperone requirement during cytosol->matrix transport
+        cytosolic Hsp70
+        matrix Hsp70
+
+        H+ gradient required at an intermed. step, probably the transloc. of
+        the mts across the ###
+
+
+    ---
+    cytosol->outer memb. protein transport
+        doesn't happen that often
+
+        goes into TOM complex -> bound to chaperones in intermemb. space
+        next, goes to SAM complex and gets folded to outer membrane
+
+    cytosol->inner memb. protein transport
+        A)
+            after the mts, there is a stop-transfer seq.
+            becomes an inner memb. protein
+
+        B)
+            recruitment of both TOM and TIM23 complexes
+            protein goes all the way through (see cytosol->matrix transport)
+            second signal seq. recognized by OXA complex => inner memb. protein
+
+                - also works for mitochondrially synth. proteins
+
+        C)
+            proteins end up in intermemb. space, but soluble, not integral memb. proteins
+            protein has mts and stop-transfer seq. (see A)
+            protease cleavage => soluble in intermemb. space
+
+        D)
+            TOM complex -> intermemb. space -> recog. by chaperones -> TIM22 complex ->
+            
+                -> inner memb. protein
+
+
+----
+Peroxisome transport
+
+    mostly unidirectional: cytosol->peroxisome
+
+    post-transl. mechanism
+
+    weird(nobody understands): imported as folded proteins
+
+    peroxisomes:
+        single membrane (not two as in mitochondr.)
+
+    peroxisomes: sources of peroxisomal proteins
+        vesicles bud off the ER -> uptake of specific peroxisomal proteins &
+                                    lipids from cytosol
+
+        peroxisome -> fission -> two daughter peroxisomes
+
+"what we know about it is really quite limited"
+signal sequences for peroxisome import:
+    for most imported proteins:
+        (S/A/C)(K/R/H)(L/M)-COOH
+
+    for some imported proteins:
+        ###
