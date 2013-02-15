@@ -1,0 +1,104 @@
+2013-02-15 Fri
+----------------
+Lecture 15 - Simple Linear Regression
+
+Quiz 3 - Wednesday 2013-02-20
+    summary statistics (5-# summary)
+    correlation (little r)
+    regression line
+
+Example: MT vs. final exam scores
+
+the avg score in an exam was 80 and the distrib. of the scores was quite symmetric.
+
+    if you meet a student from this course and don't know anything else
+    what guess for final exam score?
+
+        ANS: 80 (the average)
+
+    however, if you know student's MT was 90, can you make better guess?
+
+        yes! can use _linear regression_
+
+    Y: the var that we want to predict/explain (i.e., the final score)
+        Y is called the _response_
+
+    X: the var that we use to make the prediction (i.e., the MT score)
+        
+        X is called the _predictor_
+
+    Scatter plot: final vs. MT
+        Y: response
+        X: predictor
+
+    the regression line
+
+        when the scatterplot looks like a football-shaped cloud of points,
+        ###
+
+        there are many possible lines that could be used to summarize ###
+
+        according to the method of least squares, ###
+
+        we take all points in the scatter plot, and we measure the distance
+        from the "best line" - these distances are called _residuals_
+
+        we want to minimize the sum of the squares of the residuals
+
+        residual = yi - y_hat_i  =  yi - (b0 + b1*x1)
+
+    how to compute the regression line?
+        ***memorize this!!!
+
+        least-squares linear regression
+
+            Y = b0 + b1*X
+
+            where:
+
+                b1 = r*(sy/sx)          [r is correlation coeff.; s* are s.d.'s of y and x]
+                b0 = ybar - b1*xbar
+
+        need to know the intercept and the slope
+            b0: intercept
+            b1: slope
+
+
+how to compute the regression line
+    the slope and the intercept are summary statistics, since they are computed
+    based on the data and they are used to summarize the relationship btwn the two
+    variables
+
+interp. of the regression line
+
+    if his/her MT score is X, the _prediction_ for his/her final score will be
+
+        Yhat = b0 + b1*X
+
+interp. of the slope
+
+    pick two students at random from the class _whose MTs differ by one point_
+
+    the _prediction_ for the diff. in their final scores is b1. indeed,
+
+        Y = b0 + b1*X
+        Y = b0 + b1*(X+1)
+
+        (b0 + b1*(X+1)) - (b0 + b1*X) = b1*((X+1)-X) = b1
+
+    ex:
+        X1 = 70
+        X2 = 71
+
+        Y1 = 11.6 + .85*70
+        Y2 = 11.6 + .85*71
+
+        Y2-Y1 = .85 = b1
+
+Example:
+    taller people have higher incomes?
+
+    Y: income
+    X: height
+
+        Y = -84,000 + 1560*X
