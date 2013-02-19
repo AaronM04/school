@@ -1,0 +1,99 @@
+2013-02-15 Fri.
+-------------------
+Lecture 16
+
+sun - drives rxn's away from equilibrium
+    - allows you to do work (at equil., you cannot do work)
+
+relationship btwn sun & carbohydrates:
+    carbohydrates contain the energy of the sun
+
+
+carbohydrates + O2 -> CO2 + H2O
+    carbohydrates are the source of e-
+
+    CO2 is carbon empty of electrons
+    H2O is hydrogen empty of electrons
+
+the electrons are being removed in the TCA cycle
+    glycolysis prepares glucose for the TCA cycle
+
+---
+Evidence for the TCA cycle
+    specific radioactivity = [Hot]/[Hot + Cold]
+
+    Radiolabel remains 100% on C1
+        succinate "scrambling"
+        succinate dehydrogenase can't tell the difference, since achiral
+
+<a) fate of the carboxyl carbon of acetate unit (Acetyl CoA)>
+    first turn  - neither of the two CO2's is labelled
+    second turn - the half-labelled carbons come off as two CO2's
+
+    if we test this and it happens, it would be evidence supporting the TCA cycle model
+    "pulse ### experiment"
+
+***homework: do the same thing if the methyl carbon of acetyl CoA is carbon-14
+
+stoichiometry of the TCA cycle:
+    for every one turn of the cycle:
+        1) 
+
+        ###
+
+        4) 1 GTP produced
+
+---
+regulation of the TCA cycle
+
+most of the TCA cycle is regulated by substrate availability
+
+control of citrate synthase, isocitrate DH, alpha-Ketoglutarate DH
+    ###
+    both acetyl CoA & oxaloacetate are _subsaturating_
+    
+    physiological conc. near the Km
+
+[acetyl-CoA] is regulated by PDH activity
+[oxaloacetate] is regulated by intracellular redox potential
+
+malate + NAD+ <-> oxaloacetate + NADH + H+      delta G ~ 0; delta G nought is +7 kcal/mol
+    this reaction is close to equilibrium
+
+for ex:
+    inc. exercise -> dec. NADH/NAD+ ratio
+    dec. NADH, inc. NAD+ -> inc. oxaloacetate -> inc. citrate synth.
+
+    increased exercise results in increased turnover of the TCA cycle
+
+inc. NADH:
+    reverses (not inhibits!) malate DH (NADH is the product)
+    inhibits isocitrate DH and alpha-ketoglutarate DH (NADH is the product)
+
+product inhibition vs. reaction reversal
+    two conditions for rxn reversal:
+        1. both products must be present
+        2. must be thermochemically possible
+
+
+---
+anaplerotic rxns:
+    these rxns drain off intermediates from the TCA cycle
+    to fill this up, make oxaloacetate directly from pyruvate
+
+mechanism of pyruvate carboxylase:
+    oxaloacetate is nothing more than caboxylated pyruvate
+
+    pyruvate + HCO3 + ATP -> oxaloacetate + ADP + Pi
+
+    ATP + HCO3- -> carboxy phosphate + ADP
+
+    carboxy phosphate + biotin -> ###
+
+    biotin is in the active site of the enzyme
+
+coordinate regulation of pyruvate metabolism
+    how do we control this shit?
+
+    pyruvate -> oxaloacetate        [ activated allosterically by acetyl CoA ]
+    acetyl coA inhibits pyruvate HD     [ product inhibition ]
