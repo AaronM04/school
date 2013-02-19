@@ -33,6 +33,15 @@ Results:
             Data:
                 lab4--digest_gel.tif
         Lab 5:
+            Data:
+                Cell counts prior to plating (1/22 pg. 1):
+                    trial 1:  920k cells/mL
+                    trial 2: 1110k cells/mL
+                    trial 3:  840k cells/mL
+                    trial 4:  980k cells/mL
+                        AVG:  967.5k cells/mL
+                lab5/ fluorescent micrographs
+                
 
 Discussion:
 
