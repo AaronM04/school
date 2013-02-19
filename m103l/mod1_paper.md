@@ -41,10 +41,13 @@ Results:
                     trial 4:  980k cells/mL
                         AVG:  967.5k cells/mL
                 lab5/ fluorescent micrographs (see insns3.jpg):
-                    C/10x_combined_4.psd - cells just hanging out
+                    A&B/ - DAPI only; WAIT, I think it's not really 20x
+                            (can't have 40μm nuclei)
+                            - oh damn! all 4 files are the same :(
+                                solution: just say 'A and B had DAPI but not GFP (data not shown)'
+                    C/10x_combined_4.psd - skewed
                     C/40x_combined_2.psd - apoptosis? two cells?
-                    C/20x_combined_1.psd - looks crooked :(
-                    
+                    C/20x_combined_1.psd - skewed
                 
 
 Discussion:
