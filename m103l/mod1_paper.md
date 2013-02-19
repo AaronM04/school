@@ -25,7 +25,13 @@ Results:
                 SEM:     5.77e-4 6.7e-4   3.2e-3
                 
         Lab 3:
+            Data:
+                DNA conc: 116.2ng/mL
+                260/280:  1.81
+                
         Lab 4:
+            Data:
+                lab4--digest_gel.tif
         Lab 5:
 
 Discussion:
