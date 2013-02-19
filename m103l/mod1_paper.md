@@ -40,11 +40,16 @@ Results:
                     trial 3:  840k cells/mL
                     trial 4:  980k cells/mL
                         AVG:  967.5k cells/mL
-                lab5/ fluorescent micrographs
+                lab5/ fluorescent micrographs (see insns3.jpg):
+                    C/10x_combined_4.psd - cells just hanging out
+                    C/40x_combined_2.psd - apoptosis? two cells?
+                    C/20x_combined_1.psd - looks crooked :(
+                    
                 
 
 Discussion:
 
 Materials & Methods:
+    
 
 References:
