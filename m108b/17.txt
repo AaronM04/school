@@ -1,0 +1,119 @@
+2013-02-20 Wed
+------------------
+Lecture 17
+
+*** MT average was 39/60
+    maybe a little ambiguity in question 5
+    Mike has my test; give re-grades to him (limit 1)
+        - make sure my concerns are not addressed by the answer key
+    count up the scores
+    gauchospace folder: "exam-related"
+
+coordinate regulation of pyruvate metabolism
+    FFA -> acetyl CoA
+    "Acetyl CoA is never a problem during starvation, because plenty of FFAs"
+    when Acetyl CoA builds up, inhibits PDH: product inhibition
+
+    oxaloacetate is carboxylated pyruvate (by pyruvate carboxylase)
+        Acetyl CoA promotes this enzyme by allosteric activation
+            - favors formation of this enzyme's R state over T state
+
+
+
+---
+Gluconeogenesis
+
+pancreas -> glucagon
+
+brain will only use sugar for its metabolism (except starvation: ketone bodies)
+    - holds about 190g as glycogen
+
+    starvation: ^glucagon, ^epinephrine
+        => liver releases 
+
+    what happens when liver runs out of glycogen?
+
+muscle is largest store of AAs in the body
+    muscle proteins broken down, AAs released => liver => make glucose
+
+if we want to go backwards: pyruvate -> glucose, we cannot use same identical pathways,
+    because of huge delta G's
+
+gluconeogenesis is not the reverse rxn of glycolysis; coupled to the input of ATP
+
+easy:            FBP <-> PEP
+hard: glucose <- FBP     PEP <- Pyr
+
+Gluconeogenesis can use most of the enzymes of glycolysis in reverse ###
+
+Pyruvate enters the mitochondria to initiate gluconeogenesis
+    pyruvate is carboxylated to form oxaloacetate
+
+    ***gluconeogenesis is activated by high reduction potential in the mitochondria
+        if NADH levels are high, that's a signal liver is well-fed, and
+        has ### potential to ###
+
+        high NADH inhibits TCA cycle by product inhibition(?)
+
+
+what is relationship btwn malate and oxaloacetate
+    malate has 2e- more than oxaloacetate
+
+A. circumventing pyruvate kinase - conversion of pyruvate to PEP
+    1. carboxylation of pyruvate to form oxaloacetate
+    2. transport of oxalo###
+    needs to be in malate form to go from mitochondria to cytosol -> converted back to
+    oxaloacetate
+
+
+3. decarboxylation of oxaloacetate followed by phosphorylation yields PEP
+    oxaloacetate is carboxylated pyruvate
+
+    ATP is required to put carboxyl group on PEP to form oxaloacetate (wut?)
+
+    oxaloacetate's carboxyl group falls off easily
+
+    oxaloacetate + GTP -> PEP + GDP + CO2
+
+
+instead of swimming up the waterfall, we're going to go on a hiking trip around
+the back side of the mountain
+
+4. overall rxn
+    ###
+
+high NADH favors gluconeogenesis
+    liver has high NADH even under starvation conditions
+
+    ***homework: if converting oxaloacetate to malate, and then in cytosol, convert
+            malate to oxaloacetate, why couldn't we have just had a shuttle?
+                    
+                    my speculation: can't have pores because H+ gradient needed
+
+B. circumventing PFK - dephosphorylation of F1,6BP by F1,6BPase
+    - take different path
+        instead of putting phosphate on ADP, water comes in and takes the
+        phosphate off F1,6BP
+
+        PFK reverse rxn:  delta G nought = +3.4
+        Dephosphorylation:               = -3.9 kcal/mol
+
+C. circumventing hexokinase - dephosphorylation of G6P
+    mediated by G6Pase
+    G6Pase is present only in liver and kidney
+
+    ***hence, these are the only tissues that can synthesize and secrete glucose into the blood
+
+Glucose-6-phosphatase activity relies on multiple components
+    ***lesson: enzyme activity
+
+    catalytic site is actually on lumenal side!!!
+        - that's a problem; transporter protein (T1) transfers G6P from cytosol to lumen
+
+    if you give an enzyme substrate, and you don't see the product being made, you
+        can conclude the enzyme is not working
+        possibilities:
+         1)  it's possible glucose is being made in the lumen, but not transported out
+             into cytosol by T3 transporter
+
+         2) ###
