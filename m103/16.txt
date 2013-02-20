@@ -1,0 +1,92 @@
+2013-02-20 Wed
+-------------------
+Lecture 16
+
+***associated textbook reading: pp. 723-32
+
+Two types of ER membrane domains:
+    polyribosomes attached the ###
+
+
+Cytosol to ER transport:
+    General features:
+        Translocator-mediated
+
+        ER signal sequence required (often cleaved after translocation)
+
+        bi-dir. transport (although it seems uni-dir. from the diagram)
+
+        ###
+
+    ER signal sequence versus:
+        different types of transport signals of intracellular transport
+
+        ###
+
+    How do we know ER translocation occurs co-translationally?
+        a) cell-free protein synth.; no microsomes present
+            - post-translational introduction of microsomes: proteins stay outside
+
+        b) cell-free protein synth.; microsomes present
+
+    Overview of cytosol-to-ER transport ###
+        *** "pay close attention"
+
+        translocon - an ER transmembrane protein; can be open or closed
+            complexed w/ SRP receptor (beta subunit, which is in membrane)
+            new polypeptide chain goes through it into the ER lumen
+
+    ER signal sequences
+        short, hydrophobic - ~6-12 AA long - at N-terminus
+
+    SRP: a complex
+
+    ###
+
+    SRP binds to the ER signal sequence
+
+    Once bound to ER signal sequence, SRP interacts w/ the ribosome to pause translation
+
+    Interaction of SRP & SRP receptor leads to ###
+
+    SRP/sig. seq. communicate w/ the translocon to initiate translation
+
+    SRP & SRP receptor also function to proof-read ER signal sequences
+
+    Multiple functions of the SRP
+        interacts w/ the signal seq.
+
+    Translocation and cleavage of the signal sequence
+        signal peptidase - transmembrane with a domain in ER lumen that cleaves sig. seq.
+
+        problem: ER sig. seq. is hydrophobic, but goes into lumen
+            ### "I don't have an answer"
+
+    translocation of the nascent polypeptide chain by an open translocon (translocator)
+
+    conformational changes btwn the closed & open states of Sec61 translocon
+        "...the plug will fall away, allowing the chain to snake through"
+        "the plug is maintaining the permeability barrier when ribosome is not attached"
+
+    evidence for a tight seal on the cytoplasmic side but not on the lumenal side
+        large ribosomal unit is creating a tight seal w/ the translocon
+        
+        experiment w/ fluorescent dye quenched by iodine
+
+    gating model of the Sec61 translocon
+
+    the ER signal sequence is often removed during translocation
+        signal peptidase
+
+    folding of the translocated nascent polypeptide chain
+    
+    folding of the translocated polypeptide chain requires ER chaperones
+
+    recall: chaperones are required on both cytosolic & lumenal (matrix) sides ###
+
+    why are chaperones needed only ###
+
+    a common theme btwn. co-transl.
+
+    ### require accessory proteins
+        some proteins enter the ER post-transl.
