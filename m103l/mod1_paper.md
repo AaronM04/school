@@ -1,3 +1,5 @@
+Title: Isolation of GFP Ensconsin from Bacterial Plasmid and Expression in Cos-7 Cells
+
 Abstract:
 
 Introduction:
