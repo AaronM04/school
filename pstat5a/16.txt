@@ -1,0 +1,214 @@
+2013-02-22 Fri.
+---------------------
+Lecture 16
+
+***[ 10 min late; see slides ]
+
+the scores of a physics exam: normally distrib: mean 80, sd 5
+    if randomly select 20 students, then avg is 75
+    which one is parameter, and which one is statistic?
+
+        ANS: 80 is param, 75 is statistic
+
+        also, 5 is a param
+
+Statistical inference
+    ###
+
+sampling distribution
+    distribution of the statistics
+        - all of the statistics are random variables
+
+    depends on the param
+
+    the stats are random vars
+        imagine the data are random vars
+
+        statistic = function of data
+
+        statistic is also random
+
+quantitative measurements
+    ex: sample mean
+        statistic = xbar
+        parameter = mu
+        sample distrib.
+            randomness in statistics
+            uncertainty in measurement
+
+xbar as a random variable
+    data: x1, x2, x3, ..., xn
+
+    simple random sample
+        independent identically distributed observations
+            for ex, every:
+                Xi ~ N(mu,sigma), for i = 1, ..., n
+
+                unfortunately, mu and sigma are unknown
+
+    X1, X2, ..., X20 = scores of sampled students
+
+        sample students randomly => X1, X2, ..., X20 independent as random vars
+            X1, X2, ..., X20 ~ N(80, 5)
+            the Xn are identically distributed
+
+    X1, X2, ..., X20 ~ N(80,5)
+    E(X1) = 80 = mu
+    Var(X1) = 5^2 = sigma^2
+
+    xbar = (x1 + x2 + ... + x20) / 20
+        (we said that xbar is a random var; want to find distrib. of it)
+        (start by finding mean and variance of it)
+
+        E(xbar) = E((x1 + x2 + ... + x20)/20)
+                = 1/20 * E(x1 + x2 + ... + x20)
+                = 1/20 * (E(x1) + ... + E(x20))
+                    but we said that Xi ~ N(80, sigma) for all i = 1,...,20
+                    E(X1) = E(X2) ... = 80
+
+                = 1/20(80 + 80 + ... + 80)
+                            ^^^ 20 times
+                = 1/20 ( 80*20)
+                = 80
+
+expected value of xbar
+
+        E(Xbar) = 1/n * sum i=1->n of E(Xi) = mu
+
+            the mean of the mean is the mean
+
+    why?
+        ###
+
+std dev of xbar
+    ***memorize this
+    sigma_xbar = sqrt(Var(xbar) = sigma/sqrt(n)
+
+    error in xbar shrinks with n
+
+    depends on the unknown sigma
+
+    Var(Xbar) = Var(1/20 * (X1 + ... + X20))
+              = (1/20)^2 * (Var(X1+...+X20))
+              = (1/20)^2 * (Var(X1) + ... + Var(X20))
+
+                    what we know:
+                        Xi ~ N(80,5)
+                        s.d.(Xi) = 5
+                        Var(Xi) = 5^2
+
+              = (1/20)^2 * (5^2 + ... + 5^2)
+                            ^^^ 20 times
+              = 1/20 ###
+
+    Var(Xbar) = sigma^2 / n
+
+    sigma_xbar = sqrt(var(Xbar)) = sqrt(sigma^2 / n) = sigma/sqrt(n)
+                                                    ***^^^ remember this
+
+
+standard error of xbar
+
+    s.e.(xbar) = s / sqrt(n)
+
+    what is the diff. btwn. sigma_xbar and s.e.(xbar)?
+        sigma is in general unknown
+
+        we replace sigma w/ the statistic s
+
+            when the population standard dev. sigma is nowt known,
+            we can replace it w/ the sample st. dev. s
+
+                s.e.(xbar) = s/sqrt(n)
+
+5 independent normal observations
+    dataset: 63, 65, 72, 74, 74
+
+    sample mean(statistic):
+        xbar = 69.6
+
+    sample s.d. (corresponds to 1 random var):
+        s = sqrt(1/4*(###)) = 5.225
+
+    standard error:
+        s.e.(xbar) = ###
+
+    *** most important slide in whole class
+
+distrib. of xbar
+    rule:
+        when X1,X2,...,Xn are _independent_ and _normally distrib._ w/
+        mean sigma and s.d. sigma (that is, each Xi ~ N(mu,sigma)), then
+
+            xbar ~ N(mu,sigma/sqrt(n))
+
+
+        xbar    X1,...,Xn ~ normal
+
+        E(xbar) = mu = E(Xi)
+
+        sigma_xbar = sigma/sqrt(n)
+
+            xbar ~ Normal(mu,sigma/sqrt(n))
+
+standardization
+    for one var X:
+        Z = (x-mu)/sigma
+
+    for the sample mean xbar of n vars X1,...,Xn:
+            Z = ###
+
+            ***don't need to remember
+
+Ex.:
+    you take an exam once
+
+        mu_score = 78; sigma_score = 3.8
+
+    you take an exam n=5 times
+        xbar = the avg. of your scores
+            
+            mu_xbar = ###
+
+Q: P(score > 80) = ? and P(avg > 80) = ?
+
+    you take an exam once (mu_score = 78, sigma_score = 3.8)
+        P(score > 80) = P(Z > (80-78)/3.8)
+                      = P(Z>.53) = .2981
+
+    you take ###
+
+Kobe Bryant ex:
+    suppose that each basketball game is normally distrib. w/
+    Xi ~ N(28, 8.5) (there are 82 games in a season):
+
+        mu = 28 and sigma = 8.5
+
+        E(xbar) = 28 and sigma_xbar = 8.5/sqrt(82) = .939
+
+        what is the prob. that Kobe scores on avg more than 28.33 points in
+        particular game?
+
+            P(xbar >= 28.33) = P(Z>=(28.33-28)/(8.5/sqrt(82)))
+            ###
+
+What if sigma is unknown???
+    Estimate sigma w/ s:
+
+        Z = (xbar - mu)/(s/sqrt(n))
+
+Central Limit Theorem
+    for large n
+        rule of thumb: large is when n>30
+    when sigma is known
+        sums and averages look like normals
+        binomials are approx. normal
+
+    central limit thm.
+        X1,X2,...,Xn are _indep._ and _identically distrib._ and n is large
+        (i.e., n>30), then
+
+                E(xbar) = mu
+                s.d.(xbar) = sigma/sqrt(n)
+
+                xbar ~ N(mu,sigma/sqrt(n))
