@@ -1,0 +1,141 @@
+2013-02-22 Fri
+-------------------
+Lecture 17 - molecular trafficking and signaling
+
+vesicular transport pathway (green on this chart)
+
+[movie: example of a vesicle - a synaptic vesicle]
+    v-SNARE ~70 copies
+    V-ATPase - pumps H+ into vesicle
+    other transporters coupled to H+ - e.g., glutamate pumped in
+    tomogram
+
+how vesicles form - budding from the donor compartment
+    buddding of transport carriers (vesicles)
+
+    budding: coat proteins and small GTPases
+
+    types of coat protein complexes in a eukaryotic cell: three examples
+        (A) clathrin
+        (B) cop1
+        ###
+
+    different coats are involved in different transport steps
+        COPII: ER -> Golgi
+        COPI: Golgi -> ER
+        Clathrin: transport from Golgi to other targets, incl. plasma memb.
+
+        not involved in specificity of _donor_; only specificity of _target_
+
+    triskelion organization of clathrin
+        "soccer ball"
+
+    [movie]
+        triskelion
+            3 heavy chains & 3 light chains
+            globular domains at tips of heavy chains
+                - interact with cargo memb. proteins
+            assembly occurs spontaneously
+
+    post-budding: I: disassembly of coat protein complexes after budding
+        coat proteins fall away after forming the vesicle
+
+    small GTPases act as a "molecular clock" to control the assembly & disassembly.
+    of a coat complex
+
+    how do a small GTPase and a coat work together to control budding?
+
+    recruitment and activation of Sar1 GTPase at (and only at) the ER memb.
+        Sar1-GEF - guanine nucleotide exchange factor
+            - integral membrane protein of ER
+
+        ***idea: catalog protein interactions with references to slides and/or notes
+
+    ER-localized Sar1-GTP initiates the ###
+        the recruiting protein hydrolizes GTP to GDP
+        Sec13/31
+
+    COPII components also select specific cargo proteins to be packed into vesicles
+
+    post-budding considerations
+        II: fission of transport carriers from the donor memb.
+
+        ***eric terry: better class title: "MCDB 103: how to make a cell: we
+        ***            don't know how to do that yet"; fascinating stuff
+
+    Fission of clathrin-coated vesicles from the p.m.
+       
+
+    GTP hydrolysis initiates the disassembly of the COPII coat after budding
+        causes entire coat complex to fall apart
+
+    what would happen to the ER-to-golgi transport in the presence of a
+    non-hydrolyzable GTP such as GppNp in a cell-free ###
+        ***maybe on final
+
+how vesicles move toward their target
+    movement of transport carriers to target compartments
+        use motor proteins (which are ATP-powered)
+        move along cytoskeleton
+
+        "nobody understands this"
+
+    tethering & docking of transport carriers on target compartments 
+
+    tethering & docking
+        "two major players"
+        Rab-GTP
+        v-SNARE
+        t-SNARE
+
+    tethering proteins: Rab GTPases and Rab effectors
+        Rab is a GTPase bound on the transport carrier
+        interaction btwn Rab and Rab effector facilitates t-SNARE complex
+        v-SNARE and t-SNARE ultimately lead to fusion
+        60 flavors of Rab - different Rab proteins at different locations
+
+    how does an activated Rab protein promote ###
+        two forms of Rab effecters:
+            1) long coiled coil
+            2) large multi-subunit complex
+
+    specificity of membrane ###
+    
+    how to recycle a Rab protein
+        life cycle of Rab
+        
+    Rab proteins and their effectors have mult. functions ###
+        there are so many Rabs because this increases the specificity
+
+how vesicles latch onto target
+    ### maybe some of above goes in this section
+
+how cargo is delivered
+    fusion of transport carriers ###
+    
+    [ movie: vesicle fusion (endosome ex.) ]
+    
+    specificity of membrane tethering/docking and fusion
+        once close enough, SNARE complex can form
+
+    SNARE proteins are integral or lipid-anchored ###
+        the part that's embedded in the membrane is a small part
+            - vast majority of it is in cytosol
+        SNARE proteins display compartment-specific localization
+
+    how do trans-SNARE complexes provide fusion specificity?
+        1 will pair w/ 3
+        2 will pair w/ 4
+        other pairs don't happen - lock & key
+
+    essential roles of SNARE proteins ###
+    
+    how does the formation of a trans-SNARE ###
+        when v-SNARE(synaptobrevin)+t-SNARE(syntaxin)+t-SNARE(###) complex is
+        formed, melting temp of ~90C
+            because of this strong force, membranes start to fuse w/ each
+            other
+
+    NSF utilizes ATP to pry apart the cis-SNARE complex
+        cis- because just one membrane now
+        NSF: N-ethylmaleimide-sensitive fusion protein
