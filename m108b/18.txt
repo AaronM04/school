@@ -1,0 +1,122 @@
+2013-02-22 Fri
+----------
+Lecture 18 - gluconeogenesis(cont.)
+slides: Lec._17.###
+
+***big picture:
+    glycolysis is there to make pyruvate, to provide to TCA cycle
+    TCA cycle is where we take the electrons off
+    this is really a course on the molecules of life
+
+s-10:
+    oxaloacetate is made from pyruvate in mitochondria
+    why shuttle malate across mito. memb.?
+        to make glucose you need ###
+        100x fold difference ###
+        need NADH from mito. into cytosol
+        malate = oxaloacetate + 2e-
+
+<fig. 14-19>
+    can you name one AA that will directly feed ### pyruvate? alanine (amino vs. keto)
+        transaminated to pyruvate, then goes into mito.
+        if source comes from AA, we don't generate NADH in cytosol, so we have to
+        get it from mitochondria (starvation conditions)
+            => use malate shuttle
+
+s-15:
+    ***G6Pase is present only in liver and kidney; hence, these are only tissues that can support gluconeogenesis
+
+s-16:
+    G6Pase is a model for enzyme activity, not necessarily due to the enzyme itself
+        - enzyme activity is a separate concept - important concept in biochem
+        - some vitamins measured in units of activity (not mg or mM)
+            measuring some biological activity
+
+            in this case, measuring activity of glucose appearing on cytosolic side
+            of ER membrane
+            
+                if we detected no activity, the naive conclusion is that something is dead
+
+                not necessarily true; could be transporter problem (and G6Pase would be fine)
+                    - we always measure enzyme activity in the lab
+
+s-17: a defect in ###
+    defect in either:
+        active site itself or T1 transporter (no nat. mutations known in T3 transporter)
+
+    liver extracts treated by freeze-thawing at -80C multiple times:
+        completely breaks apart the ER membranes so that all proteins are released
+            - incl. integral memb. proteins
+        if before freeze-thawing, we saw no activity, there's something wrong
+            if after, still no activity, then defect in G6Pase active site itself
+            if after, there is activity, defect in either T1 or T3 transporters
+                (but we haven't seen T3 defects, so probably T1)
+
+s-18: stoichio###
+    #
+
+s-19: reg
+
+s-20:
+    ***have this as large print-out format
+    F16BPase - AMP inhibits gluconeogenesis
+    high energy charge activates gluconeogenesis, and inhibits glycolysis
+    ***study this at home
+
+s-19:
+    if liver is exposed to glucagon, the signal is to inhibit glycolysis
+        - we want to make glucose, not use it up
+        - glucagon decreases F2,6BP levels somehow
+            how?
+       - result: glucagon inhibits PFK, and thus glycolysis
+                and promotes ###
+
+s-21: transcr
+    if blood glucose levels are low, enzymes of glycolysis turned down transcriptionally
+    we have to assume insulin does not effect gluconeogen. - don't know why
+    ***know general effect of glucagon&insulin on these pathways - details not important
+
+s-22: the gluconeogenic ... feeding/fasting
+    that's why we break down proteins in muscle when starving
+        => make glucose => feed brain
+
+    follow the arrows
+
+s-###:
+    main substrate during exercise is LACTATE
+
+main producers of lactate:
+    fast-twitch muscle fibers
+        genetic - enables sprinting
+        good at anaerobic glycolysis
+
+main consumers of lactate:
+    ***heart uses lactate oxidation as fuel
+    slow-twitch:
+        good at aerobic
+        high mito. density
+
+
+-----
+slides: Lec._18###
+
+s-01:
+    true of all phosphorylation: if it comes from naked Pi, it must be oxidation
+
+s-02:
+    enzymes of ox. phosph. in the cristae membranes
+    outer membrane permeable to all molecules up to 10kD
+    inner membrane permeable to everything, even protons
+        - absolutely proton-proof
+
+s-03: 
+    advantage of huge multi-subunits? osmotic pressure would be untenable
+
+s-04:
+    top: how many electrons oxidizable? 24 - collected into 2 FADH2 and 10 NADH
+        summarizes glycolysis and TCA cycle
+
+    bottom:
+        summarizes respiration
+
+    ***review delta G for final
