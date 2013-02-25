@@ -1,0 +1,197 @@
+2013-02-25 Mon
+-----------------------
+Lecture 17 - sampling distributions II
+
+Ex. avg # cars in US households
+    pop. average:
+        mu = (average)
+
+    pop. s.d.
+        sigma = sqrt(1/(N-1)*[sum for all X of (x-mu)^2])
+
+    very difficult to determine the above, so we use a sample
+
+Sample:
+    sample dataset: {X1,...,Xn}
+    sample size: n
+
+Goal:
+    based on the sample values, {X1, ..., Xn}, where n is the sample size,
+    we try to reach some concl. for the params of interest
+
+    the ideal sample:
+        representative 
+        unbiased
+
+    choose the sample at _random_
+        Simple random sample
+
+Simple random sample
+    {X1,...,Xn} is a simple random sample if
+        i) if a certain member of the pop is chosen, this does not affect the chances of
+        another member to be chosen
+        ii) every member of the pop is equally likely to be chosen.
+
+    in other words...
+        i)  {X1,...,Xn} are independent
+        ii) {X1,...,Xn} are identically distributed (i.e., have the same pmf or pdf)
+            the above two conditions are referred to as "IID"
+
+Estimation of mu
+    An _estimator_ of a param is a _statistic_ whose value in the sample is used
+    to estimate this param.
+        an estimator for mu is the sample mean, xbar
+        an estimator for sigma is the sample s.d., s.
+
+    Examples:
+        X1,...,Xn is a sample of n American households.
+        an estimate for mu will be
+            xbar = (x1 + ... + xn)/n
+
+        An estimator for mu will be
+            s = sqrt(1/(n-1)*[sum for all x of (x-xbar)^2])
+
+Properties of xbar
+    Question
+        ###
+
+Remark
+    Xbar is a random var, thus
+        it has a distrib., which we will call "sampling distribution"
+
+    Ex:
+        diff. researchers collect SRS of households (all w/ same sample size, n)
+
+        then, each researcher will get different sample mean xbar.
+
+Central limit theorem:
+    Central Limit Theorem:
+        X1, X2, ..., Xn are _indep._ and _identically distrib_ and n is large
+        (i.e., n>30), then:
+
+            E(xbar) = mu
+            s.d.(xbar) = sigma/sqrt(n)
+            xbar ~ N(mu, sigma/sqrt(n))
+
+When:
+    i) X1,X2,...,Xn are
+        - independent
+        - identically distrib.
+    ii) n > 30
+        then
+            xbar ~ Normal(mu, sigma/sqrt(n))
+
+    Examples:
+        1) X1,X2,...,X50 ~ Binomial(m=10, p=0.1)
+            (n=50)
+         xbar = (x1+x2+...+x50)/50
+         xbar ~ Normal(mu,sigma/sqrt(50))
+         mu = E(X1) = m*p = 10*0.1 = 1
+         sigma = sqrt(Var(X1)) = sqrt(m*p*(1-p))
+                               = sqrt(10*0.1*0.9)
+
+         xbar ~ N(1, sqrt(10*0.1*0.9)/sqrt(50))
+              ^ approximate distrib.
+
+When do we use the CLT?
+    how large n should be?
+
+    the central limit theorem does NOT say that every individual
+    random variable is approx. normal
+
+    the central limit theory applies _indep. of the distrib. of X._
+    it suffices to know its expectation and its s.d.
+
+Example: exam scores
+    mean score: 74; s.d. 14; final exam to 64 students
+
+        approximate the prob. that the avg. test scores in the class
+        exceeds 80.
+
+        Remark! not mentioned that exam scores are normally distrib.!
+
+    n=64 students
+    Xi = the exam score of a student
+    X1,X2,...,X64
+    E(Xi) = 74 (essentially, this is the mu)
+    sigma = sqrt(Var(Xi)) = 14
+    xbar = average test score
+    if xi are i.i.d.,
+        xbar ~ N(74, 14/sqrt(64))
+             ^ approx.
+
+        P(xbar > 80) = ?
+
+        ANS: P(xbar > 80) = P(Z>3.429) = 1-P(Z<3.429) = .0003
+
+P(xbar <= 3) = (3-5)/0.83
+
+
+---
+Population & Sample Proportion
+
+Survey
+    Simple Random Sample
+    55% are in favor of a statement
+    repeat survey
+        56% are in favor
+        52% are in favor
+        ...
+
+Sampling proportion
+    ###
+
+Sampling proportion:
+    Ex: elections
+        X = number of respondants who support the Democrats
+        n = total number of respondents in the survey
+        phat = X/n = proportion of respondents who support the Democrats
+
+        we _estimate_ the proportion of respondents in the pop. who
+        support the democrats based on the sample proportion
+
+Sampling Distrib. of phat
+    Expectation
+        E(phat) = n*p / n = p
+
+    Standard Deviation
+        s_phat = sqrt(p*(1-p) / n)
+
+    Std. error
+        s.e.(phat) = sqrt(phat*(1-phat)/n)
+
+Let n get big: n=10, p=0.5, binomial distrib.
+
+Central Limit Theorem
+    if n is large enough, the sample proportion phat behaves approx. as 
+    a _normal random var_ w/
+
+        mean: mu = p
+        s.d.: sigma = sqrt(p*(1-p)/n)
+
+phat ~ Normal(p, sqrt(p*(1-p)/n))
+xbar ~ Normal(mu, sigma/sqrt(n))
+
+    Assumptions
+        i)  indep.
+        ii) identically distrib.
+        iii)n>30 for xbar  |  np > 10; n(1-p) > 10 for phat
+
+When can we use the approximation?
+    rule
+        a pop. w/ a fixed proportion
+
+        random sample
+            indep.
+            equally likely
+        sample size is large
+            np > 10
+            n(1-p) > 10
+
+    i.e., this is a binomial expt w/ normal approximation
+
+Ex: tossing a coin n times
+    suppose we flip a coin 50 times w/ P(Heads) = 0.25
+    ###
+
+
