@@ -1,0 +1,119 @@
+2013-02-25 Mon
+------------------
+Lecture 19
+
+***Don't do #10 on PS3
+
+pyruvate enters the mitochondria to initiate gluconeogenesis
+    under starvation conditions, what is important on this figure?
+        breaking down AAs into pyruvate => need pyruvate to form oxaloacetate
+        malate is used to transfer e- out of mito. into cells
+        glycolysis is inhibited in liver -> get glucose out for brain
+        in liver: NADH high in mito. but low in cytosol
+        fatty acids being broken down to make acetyl-CoA
+        acetyl-CoA activates pyruvate carboxylase allosterically
+
+    what are effects of ^NADH?
+        inhibits TCA cycle
+        reducing environment for doing oxaloacetate -> malate
+
+    why reducing equivalents in the cytosol?
+        reduce a carboxylic acid to aldehyde
+
+PEP is a lot higher energy than pyruvate - steep hill
+
+glucose + 6H2O -> 6CO2 + 2 FADH2 + 10 NADH
+
+^ glycolysis + TCA cycle
+-----
+ETC
+
+2 FADH2 ###
+
+thermodynamics of electron transport
+    ex: malate/oxaloacetate
+
+        NADH + H+ -> NAD+ + 2e- + 2H+
+    oxaloacetate + 2e- + 2H+ -> malate
+    --------------------------------------
+    oxaloacetate + NADH + H+ -> malate + NAD+
+
+                    delta G^nought = -7 kcal/mol
+                            delta G = 0
+
+<battery slide>
+    at negative electrode:
+        2e- + oxal -> mal
+
+    at positive electrode:
+        NADH -> NAD+  +  2e-
+
+thermodynamics of electron transport
+    (by convention, list half-reactions as reductions)
+    oxidation-reduction:
+        NADH gives up electrons better than does malate
+            => oxaloacetate ends up taking the electrons from NADH
+
+    for full reactions, positive E means spontaneous
+
+so: the progress of any redox rxn toward equilibrium,
+    can be monitored either chemically or electrically:
+
+        volts have the same dimensions as kcal/mol
+
+    delta G = -nFE
+
+easy to get electrons from NADH to O2
+
+negative electrode:
+    NADH -> NAD+ + 2e- + H+
+
+positive electrode:
+    1/2 O2 + 2e- + 2H+ -> H2O
+
+Oxidation of NADH by O2 is highly exergonic
+    NADH -> NAD+ + H+ + 2e-
+
+    delta G nought  = -n*F*E^nought
+                    = -2 * 23 kcal/mol/V * 1.14 V
+                    = -53 kcal/mol
+
+Biochemistry of electron transport
+    1. pathway of the e- from NADH->O2
+    2. chemiosmotic hypothesis
+    3. synthesis of ATP
+
+<intermembrane space, matrix>
+    best model that fits most of the data
+
+    electrons are passed off to a number of proteins in the inner mito. memb.
+        three large ones:
+            complex I,III,IV
+            transfer e- from front door to back door
+                (in that process, e- are going down an electrical gradient)
+                this is coupled to protein pumping from matrix to intermemb. space
+
+"Artificial respiration": experiments that led to understanding the sequence of
+electron transport proteins
+
+    mitochondria will sediment at a different rate than other organelles
+    the mito. are still alive!
+    also in mixture: ADP, Pi, buffering agent, salts
+    O2 electrode - measure amount of oxygen depletion
+
+Electron donor systems (throw the left into the above, and get the right)
+    1) beta-OH-butyrate -> acetoacetate  (NAD+->NADH)
+
+    2) succinate -> fumarate (FAD->FADH2)
+
+    3) ascorbic acid + TMPD (electrons given to cytochrome C)
+        - completely artificial
+
+What is the order of the ETC proteins through which electrons are transported?
+
+an inhibitor of a complex will inhibit both e- transport through complex AND proton pumping
+
+Experiment: inhibitors of e- transport:
+    rotenone/amytal - rat poison - inhibits complex I
+    antimycin A - inhibits complex II
+    cyanide - inhibits complex IV (because it contains heme)
