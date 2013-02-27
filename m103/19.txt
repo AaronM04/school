@@ -1,0 +1,111 @@
+2013-02-27 Wed
+-----------------
+Lecture 19
+
+<Lectures_18 & 19 PDF - slide 30> Acid hydrolases are sorted...
+
+why distinguish the lysosomal hydrolases from all the others with an M6P tag?
+    M6P = mannose 6-phosphate
+
+signal seq. vs. signal patch
+
+GlcNAc phosphotransferase - recognizes signal patch for acid hydrolases
+    (uses recognition domain in cis-Golgi)
+
+    UDP-GlcNAc energy second only to ATP
+        = U-P-P-GlcNAc
+
+    GlcNAc-P-Mannose  => P-Mannose
+        (UMP comes off)
+
+How is M6P recognized by the sorting machinery?
+    pH is very different
+
+Inclusion Cell Disease
+    no GlcNAc phosphotransferase activity (no M6P attached)
+    ***what happens?
+
+--
+Transport from Golgi to Secretory Vesicles & p.m.
+    the TGN is the major sorting station in biosynthetic pathways
+
+        exterior->endosome->lysosome pathway occurs in all cell types
+        constitutive pathway occurs in all cell types -- no coat necessary
+        regulated secretion is distinct from the above (regulated secretion)
+            - b-clathrin involved
+
+    TGN-to-p.m. transport
+        constitutive secretion is generally though to be a default pathway and...
+            unregulated membrane fusion
+
+            "we really don't understand a lot of this secretion pathway"
+
+    intracellular trafficking and cell polarity
+        epithelial cells - apical and basolateral domains
+        
+        nerve cells - has dendrites and axons
+
+        for these polarized cells, must be signals present for targeting to
+        different parts of the p.m.
+
+    polarized TGN-to-plasma memb. transport
+        lipid rafts are assembled in the Golgi
+
+        lipid rafts may not be the only apical-targeting signal
+
+        in contrast, several basolateral-targeting signals (short AA seqs) are known
+
+    multiple ways to generate polarity by polarized transport
+        direct vs. indirect sorting
+        indirect has some evidence:
+            some apical proteins found on basolateral, but no basolateral proteins
+            found on apical surface
+
+    in addition to the polarized trafficking, molecular fences...
+        molecular fences - prevent mixing of p.m. proteins btwn two domains
+
+        tight junction -
+
+        axonal hillock - separates cell body and axon
+            - permeability barrier
+
+            - action potential starts here
+
+    
+    ---
+    regulated TGN-to-PM transport (the above is unregulated pathway)
+    
+    formation of specialied secretory vesicles
+        clathrin coat -> immature secretory vesicle -> concentrated into a mature sec. ves.
+        acidity increases with maturation
+
+    docking/fusion as a critical control switch...
+        #
+
+    what might be the advantage...
+        rapid & concentrated release
+
+    how does a physiological signal release the docking/fusion of...
+        ###
+
+    how to link blood glucose...
+        "do not have to memorize"
+
+    adipocytes and muscle cells remove blood sugar...
+        vesicles with GLUT4 glucose transporters on them, ready to fuse with p.m.
+            insulin => activation of TC10 => fusion of GLUT4 vesicles with p.m.
+
+    allergic reactions...
+        mast cells are full of histamine secretory granules
+
+
+
+----end of 18&19 PDF; beginning of 19&20 PDF-----
+the endocytic / endosomal pathway
+
+the pathways...
+    endocytosis pathway (internaliation)
+
+    endosomal pathway (post-internalization)
+
+    recycling pathway
