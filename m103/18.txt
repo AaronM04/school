@@ -1,0 +1,102 @@
+2013-02-25 Mon
+---------------
+Lecture 18
+
+[ 20 minutes late! see slides ]
+###
+forward transport form the ER to the Golgi
+    ###
+
+    types of cargo proteins packed into the COPII vesicles
+        1) proteins destined to later vesicular compartments (Golgi proteins,
+           plasma memb. or secreted proteins, lysosomal proteins...)
+
+        2) proteins required for the mobility, tethering/docking, and ###
+
+    cargo too big for COPII vesicles?
+        COPII vesicles (60-80nm diam) -> VTC -> Golgi
+        "we don't understand"
+
+        possibilities:
+            1) some other transport mechanism
+            2) different shapes and sizes of COPII vesicles that haven't been discovered yet
+
+retrograde transport form the Golgi to the ER
+    types of cargo proteins packed into the COPI vesicles
+        1) proteins required for the mobility, tethering/docking, and fusion
+        fusion of Golgi/VTC-derived carriers on the ER membrane
+
+        2) escaped ER ###
+
+    Two mechanisms exist to keep ER resident or mis-folded/mis-assembled
+    proteins in the ER
+
+        1) retention: preventing cargo from leaving ER
+
+        2) retrieval: capturing cargo at a post-ER compartment (i.e., VTC/Golgi) and
+            send it back to the ER
+
+    Retrieval of ER-resident proteins
+        for transmemb.-resident proteins:
+            direct binding of KKXX to COPI coat
+
+        for soluble/lumenal resident proteins:
+            indirect assoc. btwnn KDEL and COPI coat via the KDEL receptor
+
+        KDEL receptor captures the escaped ER lumenal resident proteins at the
+        VTC/Golgi, brings them to the COPI vesicles, and returns them to the ER.
+
+        Several intriguing questions regarding this transport event.
+
+    The KDEL receptor is able to bind KDEL-containing cargo at the VTC/Golgi and release
+    the cargo at the ER
+
+    Lumens of vesicular compartments have different acidities (pH)
+        ER is generally more neutral
+        Golgi is more acidic
+
+    How is the KDEL receptor able to bind KDEL-###
+        binding affinity of KDEL receptor is very pH dependent
+
+        released in ER (neutral)
+        bound in Golgi (acidic)
+
+    What causes KDEL receptor to localize to cis-Golgi?
+        1) Golgi-retention mechanism
+            - memb. thickness?
+        2) a cargo-induced conformational change => recruits KDEL receptor-cargo complex
+            into the COPI coat vesicle
+        3) an ER export mechanism to return KDEL receptor to the Golgi
+
+    What types of trafficking signals does the KDEL receptor have?
+        (read in book)
+        three trafficking signals:
+            ###
+
+Transport within the Golgi
+    "still a black box"
+    Vesicular transport model
+        1) each Golgi cisterna is a static structure
+        ###
+
+    Cisternal maturation model
+        1) each Golgi cisterna is a dynamic structure w/ forward movement
+        2) no vesicle-mediated forward transport btwn cisternae
+        ###
+
+The Golgi lies in the crossroads of both biosynth. and recycling pathways
+    The trans-Golgi network (TGN) is the main sorting station of the Golgi apparatus
+        there are three major sorting pathways at the TGN
+            1) signal-mediated diversion to lysosomes
+            2) constitutive secretory pathway
+                - to cell surface
+                - this is the default!
+            3) signal-mediated diversion to secretory vesicles (for reg. secretion)
+                - special cell types
+
+    Lysosomes are a collection of heterogeneous organelles w/ high content of
+    hydrolytic enzymes (hydrolases)
+        hydrolases are lumenal enzymes
+            often heavily glycosylated (protection from themselves)
+
+        diff. types of hydrolases ###
