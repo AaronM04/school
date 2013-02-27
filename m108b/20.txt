@@ -1,0 +1,110 @@
+2013-02-27 Wed
+-----------------
+Lecture 20
+
+thermodynamics of electron transport
+    redox reactions are special in that they can be measured both chemically and electrically
+        chemically with delta G
+        electrically with E^nought
+
+    E^nought reactions that are more positive are more favorable
+
+biochemistry of electron transport
+    1. pathway of the e- from NADH -> O2
+    2. ###
+
+<intermembrane space>
+    electrons travel through a number of protein complexes
+
+"Artificial respiration": Experiments...
+    oxidation supplies the energy for ADP + Pi -> ATP
+    
+    the reconstitution of some aspect of life
+
+Electron donor systems
+    beta-OH-butyrate
+    ...
+
+<intermemb. space>
+    "take this on faith" (and see Lehninger)
+        small molecules inhibit specific targets in the cell
+
+    Cytochrome IV - CN competes w/ O2
+
+Question: what is the order of the ETC proteins through which electrons are transported?
+    Why is this important?
+
+    <graph of [O2] as a function of time>
+        as O2 is consumed, the line goes down
+
+        if you inhibit a complex, and electrons are coming in downstream, it doesn't
+        make a difference
+
+        complex I receives e- from NADH
+        unsure about the following:
+            complex III receives e- from FADH2 (which gets them from I)
+            complex IV receives e- from ascorbate (which gets them from III)
+
+Second Q: if you were back in the 1960s, and none of this was known, ###
+    the oxidation of NADH or FADH2 by O2 is tightly coupled to the phosphorylation
+    of ADP
+
+***ADP is limiting!
+    NADH, Pi, O2 (everything else) are in excess
+    when the reaction stops, it's due to running out of ADP
+
+O2 consumption occurs as a function of ADP phosphorylation
+    a total of 90 micromoles of ADP are added
+    an e- donor is also added.
+
+interp. of results
+    a) [beta]-OH-butyrate equivalent to NADH
+        P/O = 90umol/36umol = 2.5
+
+    b) succinate equiv. to FADH2
+        P/O = 90umol/60umol = ###
+
+    c) TMPD/ascorbate equiv. to ???
+        P/O = 90umol/90umol = 1
+
+from high energy to low energy:
+    NADH -> ### -> O2
+
+how many protons are pumped for every electron pair?
+    we are offering a source and a sink for the electrons
+
+complex I
+    ***only know that it is the receptor for NADH
+    reduces coenzyme Q --> QH2
+        has a long isoprenyl tail
+        adapted to a hydrophobic environment
+
+    the mechanism of pumping won't be covered in this course
+        - 4 protons are pumped out of matrix
+
+complex II
+    ***not a proton pump
+    = succinate dehydrogenase (in TCA cycle)
+    generates FADH2, which gives electrons to ubiquinone (coenzyme Q)
+
+oxygen is bi-radical - there are two single electrons in their own orbitals
+    - both of these are spin up
+    - e- pairs are transferred with one electron spin up and the other spin down
+can accept electrons only 1 at a time
+problem: ETC starts with electron pairs...
+    - answer: Q cycle in complex III
+
+complex III:
+    CoQH2 comes with two e- to complex III
+    one e- is given to Cyt c
+    ***Cyt c carries one e- at a time
+    the other e- stays in complex III => goes into the Q cycle
+    once another e- takes this path, the semiquinone (Q- radical) is converted to QH2
+
+    in the inner mito. memb., always a certain ratio of oxidized:reduced Q
+
+    for every 2 QH2 coming in, two (Cyt C + e-) plus another QH2 leave
+
+complex IV (cytochrome oxidase):
+    4 molecules (Cyt C + e-) received one at a time
+    O2 gets its electrons one at a time here
