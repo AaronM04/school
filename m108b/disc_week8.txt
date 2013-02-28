@@ -1,0 +1,44 @@
+2013-02-27 Wed
+---------------
+problem set 3
+
+
+5:
+    1) 
+    2) step 7; also 1 and 5 (less obvious)
+    3) ### and step 6 (because CoA being hydrolyzed off)
+    4) 1,4,5,(9; also, note that it is reversed in gluconeogenesis)
+    5) Ca2+ activates pyruvate dehydrogenase (step 1); released from sarcoplasmic
+       reticulum to trigger muscle contractions
+    6) step 10: <he draws biotin ring structure on the board>
+            carboxyphosphate
+    7) lipoic acid has a disulfide - redox
+        helps us add CoA onto carbon chain
+
+        step 1 and 5
+    8) step 1 (PDH), because it is a good regulatory step
+
+6:
+    TPP mediates decarboxylation
+    <he draws thiazolium ring on board - "really cool functional group of TPP">
+    SN2 carbonyl attack - important mechanism for this class
+        - attacks pyruvate
+
+7:
+    a) false
+        - gluconeogenesis only occurs in liver & kidney
+    b) true; dual function: during exercise, lactate needs to be taken out of blood
+                            (avoid blood acidosis)
+    c) true; FFAs (acetyl CoA is an allosteric activator of pyruvate decarboxylase)
+        ***look at this
+    d) true; glycolysis and gluconeogenesis work in opposite fashions w.r.t. glucose
+
+8:
+    in gluconeogenesis, the GTPase active site is in the ER lumen
+    freeze-thaw experiments
+    (problem: freeze-thawing tends to denature transmemb. proteins)
+
+9:
+    a) false
+    b) true - only in liver and kidneys
+    c) false
