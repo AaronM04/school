@@ -1,0 +1,157 @@
+2013-03-01 Fri
+---------------
+Lecture 20
+*** finishing lecture 20 PDF
+
+Functions of the endocytosis/endosomal pathways
+    ###
+
+endocytosis/internalization
+    There are at least 5 diff. endocytosis pathways in mammals
+    phagocytosis - particle eating
+        - membrane moving outward to form large vesicles ~1um diameter
+    pinocytosis - fluid drinking
+        - membrane moving inward to form small vesicles ~50-100nm diameter
+
+    phagocytosis
+        properties:
+            ###
+
+        functions:
+            1. a way of feeding (for protozoa)
+            2. scavenging scenescent or dead cells (macrophages eat ~100billion
+                scenescent red blood cells per day)
+            3. protect against infection (by ingesting invading microorganisms)
+
+    scavenging, fighting infection
+
+    neutrophil - extends pseudopods around bacterium
+
+    macropinocytosis as a powerful way to capture exogenous antigens
+        diameter >1um
+        a constitutive and non-specific uptake process in antigen-presenting cells
+
+        formations:
+            ###
+
+        functions:
+            1. a way of feeding
+            2. antigen presentation (dendritic cells)
+                - sampling the environmnet, so they can present it
+                    trying to look like their environent
+            3. cell migration
+
+    clathrin-mediated endocytosis
+        a constitutive and non-specific uptake process in antigen-presenting cells
+
+        formation:
+            ###
+            2. present in eukaryotic cells from yeasts to mammals (highly conserved)
+            ###
+
+        functions:
+            1. a way of feeding
+            2. molecular homeostasis
+            3. regulation of the cell surface density of a specific p.m. protein
+                (due to the signal-mediated nature)
+
+        clathrin-dependent endocytosis is a major internalization pathway in most cell types
+            ###
+            rapid recirculation of p.m.
+
+        clathrin assoc. w/ adaptor protein complex 2 (AP2)...
+            "medically relevant"
+
+            apolipoprotein (ApoB in most cases) - LDL particle
+                - carries cholesterol in membrane (also, esterified form inside)
+                binds to LDL receptor on p.m.
+                internalization mediated by clathrin
+
+        a sorting signal on the cytoplasmic domain of LDL receptor (NPVY) directs...
+            "NPVY" -> AP2 -> clathrin
+
+        improper reg. of clathrin-dependent internalization & diseases
+            atherosclerosis
+
+            mutant LDLR w/ a defective endocytosis rate leads to increased
+            blood cholesterol & heart attack
+
+        formation of a clathrin-coated vesicle (CCV) from the p.m.
+            cargo recruitment
+            ###
+            ***interesting slide
+
+        mult. signals exist for clathrin-dep. internalization
+            "don't learn sequences; just understand that mult. signals exist"
+            ...
+            ubiquitin (diff. from poly-ubiquitin signals for proteasome degradation!)
+
+        clathrin assoc. w/ diff. AP complexes at diff. sites
+            "may be involved in differential regulation; e.g., neurons vs other cell types"
+
+    ---
+    caveolin-mediated endocytosis:
+        "not much is known about these"
+        caveolae are flask-shaped invaginations of the PM
+
+    clathrin- and caveolin-independent endocytosis
+        little is known and much to be learned
+
+---
+endosomal (...) trafficking
+    major compartments of the endosomal pathway
+        first sorting occurs at early endosome
+        two outcomes:
+            fuses to form multivesicular endosomes (MVB), or
+            recycled back to p.m.
+
+        pH continues to drop as turning into a lysosome
+
+    <skip "like proteins, many glycans..." slide>
+
+    cargo proteins to be degraded...
+        ### wut?
+
+    protein trafficking via early endosomes...
+        ***recycling back to the p.m. is a default pathway
+
+    some membrane proteins are sequestered in endosomes
+        "secretory vesicles in synapse of neuron"
+
+        AMPA receptor
+
+    geometric consideration of sorting at the early endosomes
+        ###
+
+    ###something important I missed
+
+    early endosomes are the major sorting station of the endocytic pathway
+        LDL particle is a nutrient
+        receptor goes back to cell surface (sorted at early endosome)
+        but cargo (LDL) is sent to lysosome
+        dissociation is due to a lower pH
+
+    the MVBs fuse with late endosomes/lysosomes...
+        MVB - vesicles within a vesicle
+        single ubiquitination does not result in degradation by proteasome
+
+    multiple functions of ubiquitination
+        signals for proteasomal degradation (UPR)
+        ###
+
+    how is a cargo sorted...
+        ###
+
+    what is the machinery...
+        ###
+
+    budding into a MVB is topologically similar to the virus budding at the PM
+        ***wut? viruses?!?
+
+    HIV Gag proteins are ubiquitinated
+        virus is disguising itself as an endosomal vesicle
+
+    budding of HIV virus particles from the PM
+
+    multiple types of signals for sorting cargo
+        ###
