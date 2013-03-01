@@ -1,0 +1,167 @@
+2013-03-01 Fri
+-------------------
+Lecture 18
+
+Quiz on mon
+    1) CLT
+    2) no formulas given
+    3) written quiz
+
+Central Limit Theorem
+    1) sample mean
+        X1,X2,...,Xn
+
+        Assumptions {independent
+                     identically distrib.
+                     n > 30}
+
+    Xbar ~ Normal(mu, sigma/sqrt(n))
+    where mu = E(Xi)
+          sigma = sqrt(Var(Xi))
+
+    2) sample proportion
+        X1,...,Xm ~ Bin(n,p)  -> phat = (X1 + ... + Xm)/m
+
+        note: n and m (two vars now, not one)
+
+        assumptions: {m*p > 10
+                      m*(1-p) > 10}
+
+        phat ~ Normal(p, sqrt(p*(1-p)/n) )
+
+    X1,X2,...,X100 ~ Bin(10,0.2)
+
+        Conditions: (100)(0.2) > 10
+                    (100)(0.8) > 10
+
+        phat ~ Normal(0.2, sqrt(0.2*(1-.2) / 100) )
+
+Monday problems will be like these:
+    Ex. 1:
+        30 mult.-choice questions, each with 4 possible answers
+        students answer at random
+
+        Write down pmf of a student's score:
+
+            X = student's score (from 0 to 30)
+
+            X ~ Binomial(30, 1/4)
+
+            P_x(x) = 30_C_x (0.25)^x * (1-0.25)^(30-x)
+
+        Class has 81 students. Compute prob. that average score on this MT is above 8.
+            X1, X2,...,X81 ~ Bin(30, 0.25)
+
+                Xbar ~ Normal(mu, sigma/sqrt(81) )
+
+                mu = E(X1) = 30*0.25 = 7.5
+                sigma = sqrt(Var(X1))
+                      = sqrt(30*.25*(1-.25))
+                      = 2.37
+
+                Xbar ~ Normal(7.5, .26)
+
+                P(Xbar > 8) = 1-.9783  [ from Z table; see below ]
+                Xbar ~ N(7.5, .26)
+                Z = (8-7.5)/.26 = 1.92
+
+    Ex. 2:
+        a)
+        phat ~ Normal(p=0.2, sqrt(0.2*(1-0.2) / 100) )
+
+        phat ~ Normal(0.2, 0.04)
+
+        b)
+        P(phat < 30%)
+            Z = (.3-.2)/.04
+
+
+---
+Confidence intervals for the Mean
+    Lecture 19
+
+    Normal(mu, sigma)
+
+    [mu-sigma, mu+sigma] is 68% (one s.d. from the mean in either direction)
+    [mu-2*sigma, mu+2*sigma] is 95% (two s.d.'s from the mean in either direction)
+
+    Xbar ~ Normal(mu, sigma/sqrt(n))
+
+    Describe the Error:
+        how close is our estimate to the true value?
+
+        how much uncertainty is there?
+
+        ###
+
+    95% Confidence Interval
+        Standard normal probability
+            P(Z<-1.96) = .025
+            P(-1.96<Z<1.96) = .95
+        Generally
+            Within 1.96 sigma from the mean, we have 95% of the data
+
+    2.5% percentile
+        ###
+
+    sampling distribution
+        mu-1.96*sigma/sqrt(n) -> mu+1.96*sigma/sqrt(n)
+
+        Xbar ~ Normal(mu, sigma/sqrt(n))
+
+    Interpretation
+        a confidence interval is random
+
+        ###
+
+        The CLT for xbar guarantees that
+            ~95% of these intervals will include the true average mu
+
+        xbar ~ N(mu, sigma/sqrt(n))
+        P(xbar-1.96*sigma/sqrt(n) <= mu <= xbar-1.96*sigma/sqrt(n)) = 0.95
+
+        95% confidence interval for mu
+            (xbar - 1.96*sigma/sqrt(n), xbar+1.96*sigma/sqrt(n))
+
+        mu is pop. mean, unknown
+        xbar is sample mean, known
+        sigma may be given by the problem; if not, use sigma_hat
+
+    Significance Level: alpha
+        each confidence level corresponds to a significance level
+            alpha = 1 - confidence level
+
+        example: a 68% CI corresponds to a significance level equal to
+            alpha = 1 - .68 = .32
+
+        CI for significance level alpha
+            ###
+
+        where alpha is a significance level and z_(alpha/2) is the z-score that
+        corresponds to a prob. equal to alpha/2
+
+    Ex: Vehicle's Age
+        survey of 30 people; average age of vehicle is 5.6y
+        assume that pop. s.d. is 0.8y
+        find best point estimate of pop. mean (mu) and 90% confidence interval
+        for pop. mean
+
+        n = 30
+        xbar = 5.6     <- estimator for mu: population mean
+        sigma = 0.8
+
+        best pt. estimate for mu: xbar = 5.6
+
+        90% conf interval:
+            alpha = 1-0.9 = 0.1
+
+        alpha/2 = .05
+        look inside table; find corresponding z-score -> z=-1.65
+
+        z_(alpha/2) = z_.05 = -1.65
+
+        5.6 - 1.65*.8/sqrt(30) < mu < ###
+        ANS: 5.36 < mu < 5.84
+
+    Steps to compute a confidence interval for mu with _known sigma_
+        ###
