@@ -1,0 +1,113 @@
+2013-03-01 Fri
+-------------------
+*** final is on Mon., 3/18
+    - time pressure
+    - don't come to the final thinking you can figure a final out (no time!)
+
+"tell me a story about..."
+    to do work, must be displ. from equilib.
+    to be displ. from equilib., must be in steady state
+    etc.
+
+<oxidative phosphorylation cartoon>
+    NADH and FADH2 are large small molecules (lol) - carry 2 e- each
+    FADH2 are locked onto molecules, unlike NADH
+    TCA cycle is happening below (in the matrix)
+
+    these complexes are physical pumps that pump protons (H+)
+    the energy to run these pumps comes from redox potential btwn. NADH and O2
+    energy stored in electrochemical gradient across inner mito. memb.
+        - this electrochem. gradient can do work
+
+    F0 F1 ATP synthase is embedded in inner. mito. memb
+        uses electrochem. gradient to drive ATP synthesis
+
+O2 consumption as a function of ADP phosphorylation
+    P/O ratio = number of phosphate molecules that can be transferred to ADP
+    per O atom (not per O2)
+
+    30umol O2 (from graph) * 2 = 60umol O
+
+    90umol ADP (from graph) / 60umol O = 1.5   <--- P/O ratio
+
+    "for every O atom, one and a half molecules of ADP can be phosphorylated"
+
+Complex III
+    Q cycle is a turnstile when you're on a date - only lets one of couple through at a time
+
+<superoxide, peroxide, hydroxy radical>
+    O2 is a diradical
+    if you add a single e- to O2, you form superoxide, HO2* (after combining with H+)
+        - a mildly toxic free radical
+    if you add 2e- to O2, you form peroxide, H2O2 (after combining w/ 2 H+)
+
+    O2 + 3e- -> H2O + hydroxy radical
+    hydroxy radical, O*- is the most dangerous molecule in the body (strongest oxidant)
+
+    O2 + 4e- -> 2 H2O, good
+
+
+<superoxide dismutase, catalase>
+    "won't ask this on exam"
+
+---
+Complex IV (cytochrome oxidase):
+    has a heme group in center
+    Cytochrome c delivers single electrons to cytochrome oxidase
+
+    purpose of Complex IV is to sequester all oxygen free radicals until it knows
+    that 4e- have come in - "it counts"
+        - don't release product until 4 electrons have been received
+
+    these 4 H+ are pumped in response to TWO pairs of e-, not one
+
+10 H+'s are pumped per 2e-'s transported from NADH to 1/2 O2
+
+    10 = 4+4+2 H+ for complexes I, III, and IV
+
+The chemiosmotic hypothesis
+    NADH used to make proton gradient; proton gradient creates ATP
+    - the accepted model for coupling oxidation to phosphorylation
+
+    - free energy of electron transport is harnessed by pumping H+ from the matrix
+    to ###
+
+Evidence that supports the chemiosmotic hypothesis:
+    - used to be many explanations for how ATP produced from NADH
+
+    1. e- transport correlates with generation of a proton gradient
+    2. an artificial pH gradient leads to ATP synthesis in intact mito.
+    3. complex I,III, and IV are proton pumps
+    ###
+    6. ATP synth occurs in artificial liposomes in response to light, if the ATP
+        synthase is reconstituted w/ bacterial rhodopsin
+
+            bacteriorhodopsin pumps H+ in response to light
+
+free energy assoc. w/ electrochem. gradients
+    the electrical potential across the inner mito. memb. cannot be arbitrarily large,
+    because there is only limited redox potential available from NADH
+
+    delta G = -m*F*delta(weird Greek symbol) - 2.3R*T*delta pH
+
+    in respiring mito.:
+        delta(weird Greek sym) = ~.18V
+        delta pH = ~1 pH unit
+
+        ###
+        12 kcal/mol  (even though delta G^nought for ATP synth is 7.3)
+        *** study this
+
+ATP synthase:
+    "the most fascinating nanomachine that man knows about - studied intensively
+    so we can build machines like this"
+
+    ***see Lehninger for how protons interact with the lipid bilayer to cause turning
+    
+    figured out in early 2005 - ATP synthase was crystallized
+
+Coupling H+ translocation through ATP synth...
+    the three subunits can adopt three different conformations:
+        open binds nothing
+        loose binds ADP + Pi
+        tight binds ATP
