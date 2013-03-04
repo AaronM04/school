@@ -1,0 +1,135 @@
+2013-03-04 Mon
+----------------
+Lecture 21 - An overview of cytoskeleton
+
+---
+Introduction of diff. types of cytoskeleton
+[ 15 min late ]
+
+Why link multiple protofilaments to form filaments?
+    ###
+
+Different mechanical properties of F-actin, MT, and IF
+    ###
+
+Actin filaments (F-actin):
+    present in all eukaryotic cells
+    G-actin is the monomer; F-actin is the filament
+    highly dynamic
+    most enriched in the cortex (just under the p.m.)
+
+    short-range intracellular transport by the motor proteins myosins
+
+    [Actin movement by myosin motors: movie]
+        myosin attached to glass slide
+
+    actin monomers & actin filaments:
+        actin is an ATPase
+        new filaments have ATP in them
+        old filaments have ADP in them
+
+        have polarity: + and - ends
+
+        ### helical
+
+Intermediate filaments
+    no polarity to them
+
+    one type forms the nuclear lamina; other types extend across the cytoplasm
+
+    less dynamic than F-actin and MT, but much more strength and structural integrity
+
+    Major types of IF filament proteins in vertebrate cells
+        "don't memorize"
+        nuclear
+        vimentin-like
+        epithelial
+        axonal
+
+    Skin blistering caused by mutations in keratin genes
+        problem with formation of intermediate filaments
+
+        cells slough off
+
+        human epidermolysis bullosa simplex
+            skin very fragile and blisters easily
+
+    A model of intermediate filament formation
+        staggered tetramer of two coiled-coil dimers =>
+        eight tetramers twisted into a ropelike fragment => 10nm diameter
+
+
+Microtubules (MT)
+    highly dynamic structure
+
+    during interphase: the - end is attached to the MTOC, and + end extends to
+    cell periphery
+
+    some functions:
+        long-range intracellular transport
+        motor proteins:
+            kinesin: to +
+            dynein: to -
+        determining positions of organelles
+        segregation of chromosomes during mitosis
+
+    Tubulin heterodimers & MTs
+        in new filaments: GTP bound to [beta]
+        in old filaments: GDP bound to [beta]
+
+        microtubule: 13 parallel filaments => hollow tube (30nm diameter)
+
+
+--
+Assembly/disassembly of cytoskeleton (focused on F-actin and MT)
+
+Why study cytoskeletal assembly/disassembly?
+    T cell reorganizes its cytoskel. (MT and actin) to form an immunological
+        synapse with APC (antigen-presenting cell)
+    T cell's Golgi brought to this synapse (right next to cell)
+        - secretory process happens very rapidly - release cytokines/lytic granules(?)
+
+[movie: cytotoxic T-cells lyse their targets]
+[movie: the "T cell synapse"]
+    synapse - outer (adhesion ring) - inside: secretory zone and ###
+
+
+intrinsic factors controlling cytoskeletal dynamics
+    cytoskeleton assembly/disassembly - "in-vitro" polymerization
+
+    lag phase (nucleation) -> growth phase -> equilib./s.s. phase
+
+nucleation is rate-limiting in F-actin formation
+    must forma seed before elongation takes place
+
+    why rate-limiting?
+        F-actin: the prob. of forming a trimer is much lower than that of forming a dimer
+        
+        MT: the # of tubulin subunits required is different but the principle is the same
+
+however, the nucl. phase only affects the kinetics of polymerization, not the s.s. level
+
+the growth phase corresponds to filament elongation
+    more going on than there are coming off
+
+nucl., elongation, & s.s.
+    elongation: on rate > off rate
+
+elongation phase: on rate and off rate
+    K_on - rate constant for the addition of a subunit to the filament end
+    K_off - rate constant for the removal of a subunit from the filament end
+    C - free subunit conc.
+
+    on rate = K_on * C
+    off rate = K_off
+
+the equilib. phase corresponds to the s.s.
+    on rate = off rate
+
+the s.s. phase and critical conc. (Cc)
+    Cc is the conc. of free subunits at which:
+        on rate = off rate
+        K_on * Cc = K_off
+
+    if C > Cc, on rate > off rate =>   polymerization is favored
+    if C < Cc, on rate < off rate => depolymerization is favored
