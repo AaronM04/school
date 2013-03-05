@@ -1,0 +1,148 @@
+2013-03-04 Mon
+-----------------
+Lecture 22
+
+***final: study thermodynamics (electromotive force)
+***anything not covered on the MT will probably be covered on the final
+
+Coupling H+ translocation through ATP synthase w/ ATP synthesis
+    loose binds ADP + Pi
+    
+    the process of going from loose to tight produces ATP
+
+    the reason why we can form ATP from two single molecules in a single active site
+    is because the conc. of these two molecules is exceedingly high
+
+    cam shaft is rotating counter-clockwise in this diagram
+
+    ***mistake: ATP and H2O leave; they don't come in
+
+enol/keto isomerization
+
+inhibitors of oxidative phosphorylation
+    1. inhibitors of complexes I, III, and IV
+    2. oligomycin - binds directly to ATPase - blocks H+ transloc.
+    3. uncouplers:
+        a) dinitrophenol (DNP)
+
+if you poke holes in the inner mito. memb., protons will flow through the holes,
+decreasing the free energy avail. to ATP synthase
+
+in the intermembrane space, the phenol is protonated => moves to matrix => loses proton
+
+dissipates BOTH electrical and chemical gradient
+    net carrying of positive charge and a net carrying of protons across
+
+    (the DNP is catalytic)
+
+b) ionophores
+    i) valinomycin
+        dissipates electrical gradient
+
+    ii) nigericin
+        dissipates chemical gradient (due to H+)
+
+    (DNP has a greater effect than either of these because dissipates both)
+
+c) thermogenin
+    active component of brown fat
+    acts as a H+ channel in the IMM of brown fat mitochondria
+        uncoupling (and heat generation) occur only if plenty of FFA substrate is
+        available. If not, ATP synthesis prevails
+
+    the free energy becomes heat
+
+ATP inventory
+    ***for HW, rationalize the following
+
+Fates of cytosolic NADH
+    how does NADH get into mitochondria?
+    enters via malate-aspartate shuttle
+
+    cytoplasm: oxaloacetate reduced malate
+    (malate goes into mito.)
+    mito: malate oxidized to oxaloacetate (forms NADH)
+
+
+---
+next powerpoint: Lec. 21 Glycogen
+
+<pancreas, adrenal medulla>
+
+Glycogen
+    branch points occur at ~1:10 glycosyl residues
+
+    alpha(1-4) linkage
+    branch point: alpha(1-6) linkage
+
+    broken down at nonreducing ends - phosphorylase
+
+    it's not water but phosphate that comes in.
+
+    alpha1-4: phosphorylysis gives G1P -> G6P
+    alpha1-6: hydrolysis gives glucose ---ATP---> G6P
+
+    so, 10% of residues requires ATP
+
+glycogen phosphorylase
+    pyridoxal phosphate (vitamin B6)
+    "not as important"
+
+glycogen synthesis
+    ###
+
+activation of glucose-1-P
+    when we activate a molecule, we make it more reactive (= higher energy)
+
+    1. ATP
+    2. carbonyl + HS-CoA + energy -> acetyl-CoA
+    3. Glucose-1-P + UTP -> UDP-glucose + PPi
+
+G1P + UTP <-> UDP-Glucose + PPi
+                            (PPi -> Pi + Pi)   delta G^nought = -8 kcal/mol
+
+once we have UDP-glucose, we can extend glycogen
+    ###
+
+Where does G1P come from?
+
+    Glycogen <-> G1P <-> G6P  -> glucose
+                                -> ###
+                                -> ###
+
+Isomerization of G6P to G1P
+    G6P <-> G1,6BP <-> G1P
+
+Details on glycogen breakdown/synth
+    1. Glu-1-P + Glyc_n -> Glyc_n+1
+        requires 1 ATP
+
+    2. Glyc_n -> Glyc_n-1 + Glu-1-P
+        90% no energy cost
+        10% requires 1 ATP
+
+    96% efficiency of energy storage(!!!)
+
+Enzyme reg. - levels of complexity
+    - M-M
+    - cooperative (T vs R)
+        - reg. by substrate conc.
+        - reg. by allosteric ligands
+        - reg. by phosphorylation  (our focus here)
+
+glucagon/epinephrine 
+    (secreted when blood sugar is low)
+    in muscle/liver:
+        phosphorylase will be phosphorylated: T->R
+            makes sense because R form is more active, and 
+        synthase will be phosphorylated: R->T
+    in muscle:
+        phosphorylase: also subject to regulation by energy charge
+            AMP: ->R
+            ATP: ->T
+        no glycogen synthesis
+
+        with muscles, we are using energy to go find food (unlike with liver)
+
+Control by phosphorylation
+    ###
