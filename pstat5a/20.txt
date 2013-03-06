@@ -1,0 +1,129 @@
+2013-03-06 Wed
+----------------
+Lecture 20 - Confidence Intervals
+
+Central Limit Thm.
+    X1, ..., Xn: simple random sample
+    Large sample size (n > 30)
+
+        xbar ~ N(mu, sigma/sqrt(n))
+
+Significance level: alpha
+    each confidence level corresponds to a significance level
+        alpha = 1 - confidence level
+
+    Ex: a 68% CI corresponds to sig. level equal to
+        alpha = 1-.68 = .32
+
+    CI for sig. level alpha:
+        xbar - z_(alpha/2) * sigma/sqrt(n) < mu < xbar + z_(alpha/2) * sigma/sqrt(n)
+
+        where alpha is the significance level and z_(alpha/2) is the z-score that
+        corresponds to a prob. equal to alpha/2
+
+Margin of Error
+    CI for significance level alpha
+
+        [above eqn.]
+
+    where alpha is the significance level and z_(alpha/2) is the z-score that
+    corresponds to a probability equal to alpha/2.
+
+    The Margin of Error is
+
+        E = z_(alpha/2) * sigma/sqrt(n)
+
+Example: Vehicle's age
+    In a survey of 30 adults, the average age of a person's primary vehicle is 5.6 years.
+
+    Assuming that the _population s.d._ is 0.8 years, find the best point estimate of
+    the pop. mean and a 90% confidence interval for the pop. mean.
+
+        alpha = 1-0.9 = 0.1
+        need z_(alpha/2) = z_.05 = -1.65
+
+    best point estimate = mu = 5.6 years
+
+    5.6 +/- 1.65*0.8/sqrt(30)
+    ANS: 5.36 < mu < 5.84
+
+Sample Size Calculation
+    the min. sample size needed for an interval estimate w/ sig. level [alpha]
+    of the pop. mean is
+
+        n = ( z_(alpha/2) * sigma / E )^2
+
+        the margin of error: E = z_(alpha/2)*sigma/sqrt(n)
+
+        CI: (xbar - E, xbar + E)
+
+Ex: what is the sample size?
+    (avg. age of students in a college)
+
+    sigma = 3 years; how large a sample is needed to obtain 99% CI w/ E=1?
+
+    alpha = 1 - 0.99 = 0.01
+    z_(alpha/2) = 2.58
+
+    n = (2.58 * 3 / 1)^2 = at least ceil(59.9) = 60 students
+
+CI's for the pop. avg. mu: unknown sigma
+    large sample size (n>30), IID population
+    small sample size (n<30), IID _normal_ population
+
+Large sample size, IID pop.
+        xbar - z_(alpha/2) * s/sqrt(n) < mu < xbar + z_(alpha/2) * s/sqrt(n)
+    
+    (note that there is s, not sigma, in the above; s is _sample_ s.d.)
+
+Small sample size, IID normal population
+    t-distribution
+
+    the degrees of freedom (df) is the number of values that are free
+    to vary after a sample statistic has been computed and tell the
+    researcher which specific curve to use.
+
+            df = n - 1,
+
+    where n is the sample size.
+
+    Confidence interval
+        (xbar - t_(alpha/2)*s/sqrt(n), xbar + t_(alpha/2)*s/sqrt(n))
+
+    with degrees of freedom n - 1.
+    The values t_(alpha/2) can be found in the corresponding table in your book.
+
+Ex: college wrestlers
+    ###
+
+Confidence intervals for the pop.
+
+Ex: elections
+    how to estimate the proportion of people voting for the republican candidate?
+        p = proportion of ppl in the _pop._ voting for the Republican candidate
+            (usually unknown)
+
+        phat = proportion of ppl in the _sample_ voting for the R candidate
+
+
+    approx. distrib. of phat
+        X1,...,Xn are IID (SRS)
+
+        if the sample size n is large enough from the CLT
+            phat ~ N(p, sqrt(p*(1-p)/n) )
+
+    68%-95% Confidence intervals for p
+        When the sample size n is large enough we have that
+
+            phat - sqrt(phat(1-phat)/n) < p < phat + ...
+
+        is an (approx.) 68% confidence interval for p.
+
+            phat - 2*...
+
+        is an (approx.) 95% confidence interval for p.
+
+        E = z_(alpha/2)*sqrt(phat*(1-phat)/n)
+
+    suppose that in a SRS of n=100 Americans, we have phat=.3.  Compute 95% CI
+    for population proportion.
