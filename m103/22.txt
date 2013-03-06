@@ -1,0 +1,82 @@
+2013-03-06 Wed
+-----------------
+Lecture 22
+
+The compounding factor: the two ends of F-actin or MTs are not equivalent
+
+Reason 2: ATP or GTP hydrolysis differentially modifies the behaviors of two ends
+
+after a subunit is added to a filament, its ATP (for actin) or GTP (for tubulin)
+will eventually be hydrolyzed due to a conformational change
+
+...leads to 2 conseq.
+
+1) D form has a lower affinity; thus, a higher Cc (more conc. needed to keep it together)
+2) the T form is more likely to be found at (+) end; thus,
+    Cc(+) is often less than Cc(-)
+
+What are the implications?
+    one implication: treadmilling
+        condition: Cc(-) > G-actin conc. > Cc(+)
+
+        net assembly at plus end
+        net disass. at minus end
+
+        [treadmilling graph]
+
+[listeria movie]
+
+
+---
+MT dynamics and cell migration
+    alternating shrinkage & growth of MT's
+
+    microtubules grow from centrosome
+
+    [movie: MT dynamic instability]
+
+    ER is pulled along by motor proteins which attach to MTs
+
+another implication of dynamic instability ("catastrophe")
+    rapid loss of filament occurs after removal of GTP or ATP cap
+
+
+------
+<<<end of PDF>>>
+
+Biological funcitons of cytoskeletal dynamics: cell migration & homing as examples
+
+[movie]
+    leukocyte rolling on vein of anaesthetized mouse
+
+The selectin ligands required for leukocyte homing and inflammation
+
+[movie - zebrafish fin]
+
+besides cell migration and homing, ...
+    blood clotting
+
+regulation of cytoskel. filaments
+    ###
+
+F-actin regulation
+    ###
+
+key points
+    many cytoskel. regulators - no time in course to understand them all in detail
+
+how does the extracellular environ. communicate through the cytoskel.?
+
+IFs are more stable compared to F-actin and MT, but they are still dynamic.
+    Phosphorylation of lamin (a nuclear IF) contributes to the breakdown of
+    the nuclear envelope during mitosis, which is important for the segregation
+    of replicated chromosomes
+
+How cells regulate their cytoskeletal filaments
+    covalent mod. of subunits
+
+    by filament- or ###
+
+How do accessory proteins...
+
+###
