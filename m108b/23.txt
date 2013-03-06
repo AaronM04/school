@@ -1,0 +1,128 @@
+2013-03-06 Wed
+-------------
+Lecture 23
+
+glycogen metabolism (continued)
+
+glycogen is a very efficient way of storing G6P
+
+synth requires 1 ATP; breakdown requires 0.1 ATP per glucose
+
+if we start from G6P, we get 31 ATP (this is the denominator)
+
+1.1 ATP / 31 ATP = 4% loss
+
+cAMP sig. transduction cascade:
+    there are drugs that bind to B-adrenergic or Glucagon receptor
+
+    caffeine potentiates glycogen breakdown
+
+    cAMP binds PKA (protein kinase A)
+        PKA transfers phosphate to both phosphorylase kinase AND glycogen synthase
+        the former is turned on; the latter is turned off
+
+    the effects of glucagon are generally reversed by insulin, even though very
+    different pathways
+
+direct targets of PKA:
+    phosphorylase kinase
+    glycogen synthase
+    pyruvate kinase
+    PFK2 / F2,6BPase  <---- slide correction
+    Hormone-sensitive lipase
+
+
+
+-----------
+Fatty acid oxidation
+    Structure of FA's
+
+saturated:
+   omega      beta alpha
+    H3C-(CH2)n-CH2-CH2-COOH
+
+unsaturated:
+    H3C-CH2-CH=CH-(CH2)n-COOH
+
+    -O-C=O-R1
+   /
+   --O-C=O-R2
+   \
+    -O-C=O-R3
+
+    storage form; when needed, the above esters are hydrolyzed
+
+<HSL...>
+under starvation conditions, we need FFAs (free fatty acids)
+FFAs and glycerol backbone will both move to liver
+
+glycerol -> 3P-glycerol -> DHAP (intermediate in glycolysis!)
+
+<Table 24-1>
+    omega 3's are a kind of PUFA (poly-unsaturated fatty acid)
+
+
+fatty acids are synth'd and stored in liver cytosol
+made from acetyl CoA
+
+activation:
+    fatty acid + ATP  <-> R-C=O-AMP  + PPi  (PPi -> Pi + Pi)
+                        acyl adenylate
+
+
+                        we drain off the products by a steeply downhill reaction
+
+Carnitine transporter
+    gets acyl-CoA to inside of mitochondria
+
+beta-oxidation of FAs
+    (compare w/ rxns of TCA cycle)
+
+stoichiometry for the ox. of palmitate (16:0)
+    why 1.5 instead of NADH's 2.5? FADH2 is further down on chart of redox potential
+
+
+--
+Ethanol metabolism
+    Occurs only in liver
+
+    CH3CH2OH --alcohol DH--> acetaldehyde ---aldehyde DH--> acetate
+    alcohol leads to huge amounts of NADH production (both of above steps)
+
+    how does acetaldehyde get from cytosol to mito.?
+
+Metabolic conseq. of EtOH overload
+    shutdown glycolysis (needs NAD+)
+    NADH promotes production of lactate from pyruvate
+    gluconeogenesis is severely attenuated (draining off oxaloacetate)
+    in alcoholism, acetyl CoA has nowhere to go => turned into ketone bodies => ketosis
+
+acetate ---"Thiokinase"---> acetyl CoA
+
+###
+
+second system: microsomal EtOH oxidizingsystem
+    P450 cytochrome system
+    requires O2 to generate acetaldehyde and acetate
+    generates free O2 radicals -> tissue damage
+
+    three phases of damage:
+        fatty liver
+        alcoholic hepatitis
+        cirrhosis
+
+        during starvation: inc. ammonia; usually converted to urea
+        if not converted, goes into brain => coma / death
+
+Starvation pathways in liver:
+    oxaloacetate is what we are actually starving _for_
+        (actually a catalyst for the TCA cycle)
+
+        even after several days of starvation, we have lots of FFA, but we don't have carbs
+
+    proteins are broken down in starvation
+    alanine deaminated to pyruvate
+    pyruvate carboxylated to oxaloacetate (requires biotin)
+    ***avidin-biotin is tightest binding in biology - Kd ~ 10^15
+    high NADH -> oxaloacetate -> malate -> glucose -> into blood!
+    acetyl CoA builds up -> ketone bodies -> BAD (don't do Atkins diet)
