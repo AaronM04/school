@@ -1,0 +1,57 @@
+2013-03-08 Fri
+-----------------
+Lectures 22 and 23
+
+Platelets change shape during blood clotting via complex rearrangements of actin...
+    extend filopodia => later, spread out lamellipodia (sheet)
+
+    platelets have a large pool of G-actin (sequestered by thymosin protein)
+
+    clotting factors => burst of F-actin assembly
+
+Accessory proteins:
+    ###
+
+(A) regulation of F-actin stability ...
+    cofilin - actin depolymerizing factor
+        its binding induces a conformational change: more twisted & weaker
+        subunit-subunit interaction
+
+    cofilin selectively binds to "D" form of actin (the older parts)
+
+    tropomyosin - stabilizing F-actin by preventing binding of other proteins to F-actin
+
+(B) cross-linking ###
+    at least two actin-binding sites required
+
+    fimbrin - monomer
+    ###
+
+[alpha]-actinin & fimbrin generate different F-actin bundles
+    [alpha]-actinin - contractile bundle; loose packing; myosin-II can enter
+    fimbrin - ### tight packing; myosin-II cannot enter
+
+diff. forms of cellular F-actin
+
+...
+
+(C) severing of F-actin filaments by gelsolin
+    gelsolin severs F-actin in the middle - remains bound as a cap on + end
+        - the minus end rapidly disassembles
+
+F-actin severing proteins inc. the rate of filament turnover
+    Gelsolin-mediated F-actin severing increases the turnover rate
+        (why? more ends)
+
+Similar to the case of F-actin...
+    MT stability: XMAP215
+    MT bundling: MAP2 and Tau
+    MT severing: Katanin
+
+In cells where the actin filaments need to undergo constant assembly/disassembly,
+the level or activity of capping proteins must be regulated
+    PIP2 inhibits the activity of CapZ
+
+listeria activate ARP complex - propelled forward by actin polymerization
+
+<filament proteins, accessory proteins>
