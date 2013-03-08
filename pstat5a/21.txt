@@ -1,0 +1,76 @@
+2013-03-08 Fri
+-------------------
+Lecture 21
+
+
+Margin of error
+    ###
+
+Small sample size, IID normal population
+    ###
+
+Confidence Intervals for the proportion
+    ###
+
+Confidence intervals for p
+    phat - z_(alpha/2) * sqrt( phat*(1-phat)/n ) < p < phat + ...
+
+example: freshman college students
+
+--
+null & alternative hypothesis
+    H0: mu = mu_0
+    Halpha : mu != mu_0
+
+    A test of significance is designed to access the strength of evidence _against_
+    the _null hypothesis_ ### _alternative hypothesis_
+
+    Usually the null hypoth. means that there is "no effect" or "no difference"
+
+Interp. of the null hypothesis
+    default
+    uninteresting
+    nothing is happening
+    there is no difference
+    (we want to disprove this)
+
+Interp. of the alternative hypoth.
+    what might be happening
+    ...
+
+Alternative hypothesis
+    Three types:
+        Halpha: mu > mu0: one-sided test
+        Halpha: mu != mu0: two-sided test
+        Halpha: mu < mu0: one-sided test
+
+Testing a new diet
+    record how much weight lost by each subject
+    null
+        the diet has no effect
+        mu = 0 because no weight was lost
+            H0: mu = 0
+
+    alternative
+        the diet leads to people losing weight
+            Halpha: mu < 0
+
+
+P-value
+    P-value is the probability, assuming that H0 is true, that the test statistic will
+    take a value at least as extreme as that actually observed
+
+    The smaller the ###
+
+    Reject the NULL or not???
+        compare the p-value with a fixed value that we regard as decisive
+
+        that value is the significance level alpha.
+
+        If alpha=0.05, we require ###
+
+Test statistic for the pop. mean
+    i. Normal Population, Known sigma, Small sample size
+        ###
+
+
