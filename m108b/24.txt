@@ -1,0 +1,126 @@
+23
+
+need rotenone to prevent oxidation of NADH
+
+in liver (starvation conditions):
+    Glucose -||-> pyruvate
+        strategy: glucose needs to go into blood stream to power vital organs
+
+    still need Pyruvate for Oxaloacetate
+
+    alanine -> pyruvate, then pyruvate goes into mitochondria
+
+    palmitate -> 8 molecules Acetyl-CoA  (beta-oxidation)
+
+    pyruvate -||-> Acetyl-CoA (normal process is inhibited)
+        (probably product inhibition)
+
+    oxaloacetate -> glucose
+
+    proteins and fats are used to run our bodies in the absence of carbs
+
+    PROBLEM: acetyl-CoA -> ketone bodies
+        cannot make a net amount of oxaloacetate from acetyl-CoA
+            ***cannot make glucose (or oxaloacetate) from fatty acids
+
+            a product of fat metabolism is only brought into the TCA
+            cycle by combining with a product of carbohydrate metabolism
+
+            "fats burn in the flame of carbohydrates"
+
+    oxaloacetate is replenished from pyruvate, which comes from alanine
+
+ketone bodies
+    very acidic
+
+    transportable forms of acetyl groups
+
+in brain###
+    ketone bodies -> acetyl CoA
+
+in skeletal muscle:
+    palmitate ---> acetyl-CoA (sometimes)
+    ketone bodies -> acetyl CoA
+
+oxidation of fuels by peripheral tissues (skeletal muscle & heart) under ### conditions:
+    ###
+
+major ketone bodies
+    acetoacetate
+    acetone
+    beta-hydroxybutyrate
+
+enzymatic pathway for formation of ketones in humans
+    acetoacetate -> acetone by beta-decarboxylation, which happens very easily
+
+24hr fasting:
+    glucose down; glucagon up
+
+starvation -> protein degradation (from muscle)
+starvation -> inc. lipolysis (from adopose tissue) -||-> TAG
+                                                   --> inc. ketosis
+                                                   --> ###
+
+utilization of ketone bodies
+    ###
+
+    sources of oxaloacetate:
+        brain & heart - blood glucose
+        muscle - endogenous glycogen, protein
+
+
+-----
+next PDF
+
+Insulin
+    first molecule to have hormonal effects
+    1st ..., etc.
+
+    Insulin is an anabolic hormone
+
+Insulin is the single hormone which opposes effects of: glucagon, epinephrine,
+norepinephrine, and others
+    ###
+
+<Table 51-3>
+    in response to insulin, cAMP decreases
+
+    and glycogen synthesis is favored
+
+    glycolysis is increased => get acetyl-CoA => make FFAs
+
+    gluconeogenesis is decreased
+
+    ***slide modification: cross out HMG-CoA reductase
+
+Insulin deficiency - diabetes mellitus
+    the cells (the body) starve for glucose under conditions of severe HYPERGLYCEMIA!
+
+    no signal to take glucose up into the cells
+
+    our body thinks we're starving, though we're not
+
+    ketone bodies -> metabolic acidosis
+
+###type I, type II
+
+metabolic responses to insulin deficiency
+    everything is being mobilized to make glucose :(
+
+glucose -> GA3P
+    reduction is synonymous w/ biosynthesis
+    NADPH is for anabolic reactions
+
+    malonyl-CoA --NADPH--> fatty acid
+
+    NADH/NAD+   ~    .001
+    NADPH/NADP+ ~ 100
+
+pentose phosphate pathway
+    two functions:
+        1) generate NADPH
+        2) generate ribose-5-phosphate
+
+    substrate is G6P
+
+    ***study at home
