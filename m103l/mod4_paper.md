@@ -37,58 +37,27 @@ Materials & Methods:
     (no Materials section; just include information inline)
     Neurite outgrowth under varying chemical conditions:
         ###
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     SDS-PAGE:
+        ###Protein-II
+
         BEFORE SDS-PAGE: protein assay:
-            nanodrop
+            nanodrop###
 
         volume and composition of solution loaded:
             loading buffer (###composition)
             amount of protein (mass): ###
 
         the type of gel used (stacking; resolving; composition)
+            ###
         
         the voltage and duration
             200V for 40 min.
 
-        what was in each well
+        which wells were which:
+            ###
         
         other reagents (running buffer)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            ###
     Western blot:
         ###
 
