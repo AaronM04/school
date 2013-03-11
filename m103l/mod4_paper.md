@@ -19,6 +19,24 @@ Du, et al., 2002 - http://www.jneurosci.org/content/22/17/7408.full :
     concentration of Zn2+ leads to a signal transduction cascade ultimately
     resulting in apoptosis.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Results:
     Data:
         Part I (Neurite outgrowth):
@@ -30,8 +48,33 @@ Results:
                     -       10.889mg/mL             1.54
                     +        8.037mg/mL             1.62
         
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
 
 Discussion:
+    are the results significant? no
+    why didn't we get the results we expected?
+        chambered slides:
+            ###
+        -/+ NGF:
+            possibly we gave the cells normal media instead of diff. media
+
 
 Materials & Methods:
     (no Materials section; just include information inline)
