@@ -11,13 +11,7 @@ Introduction:
             ###
 
 ...methylisothiazolinone is hydrophilic and so does not penetrate well into the skin (###cite), 
-Du, et al., 2002 - http://www.jneurosci.org/content/22/17/7408.full :
-    Previous work has revealed the mechanism by which methylisothiazolinone
-    causes the death of neurons: certain soluble zinc-binding proteins rely on
-    thiol groups for their function, and so the cytosolic Zn2+ concentration
-    increases when these thiol groups are oxidized by MIT.  The high
-    concentration of Zn2+ leads to a signal transduction cascade ultimately
-    resulting in apoptosis.
+Du, et al., 2002 - http://www.jneurosci.org/content/22/17/7408.full (in References)
 
 
 
