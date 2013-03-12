@@ -42,11 +42,6 @@ Results:
         Part I (Neurite outgrowth):
             ###
         Part II (Western blot):
-            protein assay using nanodrop:
-                -/+ NGF     Protein conc. (mg/mL)   OD_260/OD_280
-                ----------- ---------------------   ------------
-                    -       10.889mg/mL             1.54
-                    +        8.037mg/mL             1.62
         
         
         
@@ -74,6 +69,10 @@ Discussion:
             ###
         -/+ NGF:
             possibly we gave the cells normal media instead of diff. media
+
+        Western blot:
+            why two tubulin bands?
+            why no actin?
 
 
 Materials & Methods:
