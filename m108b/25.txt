@@ -1,0 +1,155 @@
+2013-03-11 Mon
+-------------------
+Lecture 25
+
+office hours
+    Tu 10am-12pm
+    Th 10am-12pm
+    F  11am- 1pm
+
+Grant office hours
+    F   3pm- 5pm
+    (in addition to regular OH's)
+
+---
+review session probably Th. evening
+    buch 1910 - 6:15pm-7:30pm
+
+fats only burn in the flame of carbohydrates
+
+oxaloacetate required to break down acetyl CoA; oxaloacetate comes from carbohydrates
+
+starvation:
+    when we don't have any carbohydrate, we're really starving for oxaloacetate
+
+    if no carbs, oxaloacetate comes from amino acids!
+
+Pentose phosphate pathway:
+    G6P from glycolysis  - 2H (and 2e-) are supplied by G6P at anomeric carbon
+        the 2e- go into NADPH
+
+    two more e- come off into NADPH
+
+    result: ribose ###
+
+###some slide here
+
+<glucose, GA3P, fatty acid...>
+    rate limiting step is from acetyl-CoA to malonyl-CoA
+
+the tricarboxylate transporter
+    need acetyl CoA in cytosol to start synthesis
+        citrate (= oxaloacetate + acetyl) shuttled out of mitochondria
+
+<glucose, GA3P, fatty acid...>
+    NADH very low
+    NADPH very high (drives fatty acid synth.)
+
+activation of acetyl-CoA
+    isn't acetyl-CoA _already_ activated?
+        we want to activate a different carbon, so we need to add HCO3 (from CO2)
+    to produce malonyl-CoA; this process requires ATP
+
+<figure 21-5>
+    (see Lehninger)
+
+    malonyl-CoA => fatty acid synth.
+
+    fatty acid chain grows on center tall post
+
+    occurs in cytosol of liver, transported out to adipose tissue
+
+desaturation:
+    involves oxidation: we want to convert saturated to unsaturated FA
+        => electrons transported directly to O2
+        O2 needs 4e- but FA only provides 2e-: the other 2e- come from NADH
+
+mammals cannot introduce double bonds further out than C9
+    therefore, essential FA's: (needed for memb. integrity and icosanoid(?) signaling)
+        ###
+
+regulation <control of FA synth.>:
+    rate-limiting step is acetyl-CoA to malonyl-CoA
+
+    on right side, regulation by phosphorylation
+        enzyme exists in inactive (P'ase 2A causes this) and active form
+        (AMP-activated PK causes this)
+           cAMP activates P'ase 2A  => FA synth inhibited
+
+           note: allosterically controlled enzymes are not synonymous w/ cooperativity
+
+    ex: citrate:
+        if it's abundant in cytosol, then acetyl-CoA is also abundant
+
+        citrate turns _ON_ FA synth
+
+synth. of palmitate receptors:
+    8 Acetyl CoA
+    7 ATP
+    14 NADPH
+
+synth. of triacylglycerol:
+    FAs made in liver => transported to adipose tissue => converted to triacylglycerol
+
+    glucose -> DHAP -> glycerol-3P
+
+    glucose is required for the storage of fat
+
+<glycerol-3-phosphate...>
+    (he will not ask about this on the final :))
+
+<glucose, VLDL...>
+    ***important
+    in adipose tissue, G3P must be made from glucose.
+
+    G3P cannot be made from glycerol.
+
+    thus, glucose is req'd in adipose tissue for synth. of TAG
+
+    fatty acids come from VLDLs (delivery from liver)
+
+    fatty acids -> fatty acyl-CoA -> combines w/ glycerol-3P to form triacylglycerols
+
+    fatty acids can be recycled in same fat cell
+    problem: glycerol cannot go back to form G3P
+
+    if you are low in carbs, you cannot store FAs
+
+
+
+--
+<lec. 25 ...body wt. ... .pptx>
+regulation of body weight
+
+obesity
+    assessed by body mass index (BMI)
+    BMI = body mass (kg) / height^2 (m^2)
+
+    ideal BMI - life expectancy is maximal
+    BMI 18.5-24.9 healthy
+        25-29.9 overweight
+        >=30 constutites "obesity"
+
+Ob gene and Leptin
+    1950 - two fat mice discovered: ob- (obesity) locus and db- (diabetes) locus
+        both homozygous -/-
+
+    1973 - cross-circulatory experiments
+        ob- mouse becomes lean from wt mouse
+
+        db- mouse stays fat, but wt mouse gets leaner
+
+        ob- mouse becomes lean; db- mouse stays fat
+
+    1994 - ob gene is isolated (cloned) - encodes blood-soluble protein: leptin
+
+leptin is absent in ob-/ob- mice, but elevated 20x in db-/db- mice (compared to wt)
+db gene encodes receptor for leptin
+circulating leptin levels highly correlated w/ adipose tissue mass
+leptin is the hormone that reg. body weight
+
+<both mice are ob-/ob->
+    mouse on right rescued by injecting leptin - lean
+    mouse on left was not and remains fat
+
+
