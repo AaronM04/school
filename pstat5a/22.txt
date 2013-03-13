@@ -1,0 +1,187 @@
+2013-03-13 Wed
+-----------------------
+Lecture 22 (but PDF says Lecture 23!)
+Inference on Two Proportions
+
+Are the proportions the same?
+    are men or women more likely to go to college?
+
+    ...
+
+What issue is most important to you?
+    5409 voters
+        economy most important
+        2867 support Obama
+
+            phat_1 = 2867/5409 = .53
+
+    859 voters
+        war in Iraq most important
+        507 voted for Obama
+
+            phat_2 = 507/859 = .59
+
+
+    Is there a difference in the support of Obama btwn these two groups?
+
+Stastical model
+
+    X1 ~ Bin(n1,p1)
+    X2 ~ Bin(n2,p2)
+    ###
+
+Null and Alternative Hypotheses
+    Null = proportions are the same
+
+        H0: p1 = p2
+
+    Three possible alternatives
+
+        H[alpha]: p1 != p2 (two-sided)  <-- most common
+        H[alpha]: p1 > p2 (one-sided)
+        H[alpha]: p1 < p2 (one-sided)
+
+Example: hypothesis
+    null:
+        ###
+
+Estimation
+    some algebra on our hypothesis
+        ###
+
+        H0: p1 = p2   =>  p1 - p2 = 0
+
+Comparing sample proportions:
+    ...
+    phat1 - phat2 = -.06 (?)
+
+Sampling distribution of phat1 - phat2
+    assumptions
+        np > 10 and n(1-p) > 10
+        the two samples are independent
+        under the null, expectation is 0
+        s.d.?
+
+    both n1 and n2; and p1 and p2
+
+X,Y are independent
+    Var(X+Y) = Var(X) + Var(Y)
+
+    we want to find Var(p1hat - p2hat)
+    Var(p1hat - p2hat) = Var(p1hat) + Var(p2hat)    <--- sign is always a plus!
+
+                                                        reason:
+                                                            Var(3X) = 3^2 * Var(X)
+                                                                    = 9 * Var(X)
+
+
+                      = 
+
+If H0 is true...
+
+        X1 + X2 ~ Binomial(n1 + n2, p)
+
+    where p = p1 = p2
+
+        pbar = (X1 + X2) / (n1 + n2)    (proportion if they are not independent)
+
+    under H0
+        n = n1 + n2
+        p = p1 = p2
+
+            X1 + X2
+
+        pbar = (# of voter support Obama) / (total # of votes)
+
+Standard Deviation
+    sd(p1hat - p2hat) = ###   (don't memorize this formula)
+
+X1 - X2 ~ Bin(n1 + n2, p)
+E(p1hat - p2hat) = 0
+sd(p1hat - p2hat) = ###
+
+Test statistic
+
+    z = ###
+
+    where phat = (X1 + X2) / (n1 + n2)
+
+    this is normal
+
+    p1hat - p2hat = -.05
+    ###
+
+Conclusion
+    p-value for a two sided test
+        P = 2P(Z < -3.28) = ... = .001
+
+    reject the null at level .05
+
+    there is a sig. diff. btwn the two samples
+        The voters most interested in the Iraq war were more likely to vote for Obama
+
+###
+
+Sources of bias
+    selection bias
+        problem in sampling scheme
+        diff btwn pop. of interest and effective pop
+
+    non-responsive bias
+        subjects don't answer
+        skip questions
+
+    response bias
+        subjects lie
+        interviewer effect
+
+Why those internet polls are worthless
+    self-selected sample
+        more passionate = more likely to respond
+
+        minority opinion = more passion
+
+        selection bias
+
+
+
+----
+Confidence intervals ###
+
+Large sample size, IID pop.
+    xbar +/- s/sqrt(n) : 68% CI for mu
+
+    xbar +/- 1.96*s/sqrt(n) : 95% CI for mu
+
+more generally
+    xbar - z_(alpha/2)*s/sqrt(n) < mu < xbar + z_(alpha/2)*s/sqrt(n)
+
+n > 30;
+    always use z
+n < 30:
+    IID normal, known sigma:
+        ***use z
+
+    IID normal, unknown sigma; known s
+        use t
+
+Small sample size, normal ###
+
+...
+
+phat +/- z_(alpha/2)*sqrt(p###
+
+*** new thing below: p0
+Test statistic & p-value
+    z-test
+        z = (phat - p0) / ###
+
+Is it a fair coin?
+    ...
+
+Is it a fair coin?
+    ###
+    z = ... = 1.34
+
+    what is the correct p value?
+        ###
