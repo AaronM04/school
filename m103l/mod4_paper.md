@@ -46,9 +46,16 @@ Results:
 
             % confluence
 
-            (protein count - already in .doc)
-
 Discussion:
+    chambered cells (see jeff_data/PC-12_JKB_24well.pdf):
+        effects of dbcAMP
+
+        effects of NGF
+
+        effects of EGF
+
+        effects of MIT
+
     are the results significant? no
     why didn't we get the results we expected?
         chambered slides:
