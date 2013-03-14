@@ -1,0 +1,61 @@
+2013-03-13 Wed
+------------------
+Lecture 26
+
+***Review session: HFH 1104 - Friday 5-7pm
+
+cross-circulation mice (review)
+    db-: defective in lectin receptor
+    lectin from wt mouse has no effect; stays fat
+
+    however, db- mouse has 20x as much lectin
+
+###
+
+target of leptin - ...
+    leptin targets hypothal - ctr for appetite & control
+
+    targets "eat less" neurons - turns them on
+
+    targets "eat more" neurons - turns them off
+
+leptin and obesity
+    in humans - all obese subjects express some leptin; most express high levels
+
+    therefore, not due to mutation in ob
+        - unknown form of leptin resistance (not necessarily leptin receptor)
+
+ob gene encodes leptin
+db encodes leptin receptor
+
+...
+negative feedback - adipose tissue can "sense" leptin levels
+
+
+---
+next slides: Lec._26...
+
+if we eat too much protein, we also get fatter - here's why:
+
+problems w/ getting rid of AAs:
+    too much N - urea
+    ###
+
+alpha-amino groups removed by transamination
+    transaminated onto an alpha-keto acid
+
+    all transaminases require pyridoxal phosphate (vitamin B6) as cofactor
+
+most transaminases transfer amino groups from an alpha-amino acid to alpha-ketoglutarate
+
+    alpha-ketoglutarate -> glutamate
+    ###
+
+only in liver:
+    glutamate converted back to alpha-ketoglutarate
+    N goes to ammonia, then to urea
+
+how do we make urea?
+    only know that ammonia combined w/ carbonic acid to form ... and finally urea
+
+

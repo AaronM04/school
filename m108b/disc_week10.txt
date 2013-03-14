@@ -1,0 +1,73 @@
+
+Problem Set 4 (continued)
+-----------------
+
+6d) rotenone inhibits complex I
+
+7) dinitrophenol
+
+    oligomycin: we will have O2 consumption w/ DNP; not necessarily phosphorylation
+    cyanide: no O2 consumption
+
+8) a) purpose of Q cycle: split electron pairs
+   b) because you have to undergo 2 rounds of Q cycle
+
+        two e- transferred per ubiquinol
+
+        4 H+ per full Q cycle
+
+9) a) add beta-hydroxybutyrate: pH change? go down, because ***ketone bodies are acidic
+            ^ ketone body
+
+        beta-hydroxybutyrate ----reduce NAD+---> acetoacetate ----> interact w/ TCA cycle
+
+        acetoacetate + succinyl-CoA ---> CH2-C=O-CH2-C=O-S-CoA + succinate
+
+        lehninger: "beta-hydroxybutyrate as fuel"
+
+        a little bit of O2 consumption, then flat line
+
+    b) add DNP: pH change? no change
+
+        (DNP destroys proton gradient)
+
+        O2 consumption? a lot, because of DNP keeps destroying proton gradient
+
+    c) ???
+
+10) B-OH & ADP - uses up all ADP, but we still have beta-hydroxybutyrate
+
+    succinate & more ADP & _rotenone_ - succinate adds e- to complex II
+        - O2 consumption: 60% of drop from beta-hydroxybutyrate
+
+    ***know general amounts of e- and H+ for each complex
+
+    if rotenone were omitted in the above? more of an O2 drop, because B-OH still present
+            (complex I is functioning)
+
+        look at proton ratios to get exact numbers
+
+
+-----------------
+PS 5
+
+4) 
+    glucagon:
+        how would glucagon affect F6P->F1,6BP? reduced activity in the liver, and no
+        effect in muscles
+
+        acetyl-CoA -> malonyl-CoA? go down, because ###
+
+        glycogen -> G1P? upregulated, because breaking down glycogen!
+
+        TAG ->###? up, because FA breakdown
+
+        cAMP levels? upregulate, because it's a messenger for low energy charge
+
+        HMG CoA -> mevalonate? "don't worry about this"
+
+    epinephrine:
+        F6P->F1,6BP in liver? ###
+
+        ...
+
