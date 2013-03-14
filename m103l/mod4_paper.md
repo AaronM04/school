@@ -11,31 +11,6 @@ Introduction:
             ###
 
 ...methylisothiazolinone is hydrophilic and so does not penetrate well into the skin (###cite), 
-Du, et al., 2002 - http://www.jneurosci.org/content/22/17/7408.full (in References)
-
-Results:
-    Data:
-        Part I (Neurite outgrowth):
-
-        Part II (Western blot):
-            neurite count for these cells
-
-            % confluence
-
-            (protein count - already in .doc)
-
-Discussion:
-    are the results significant? no
-    why didn't we get the results we expected?
-        chambered slides:
-            ###
-        -/+ NGF:
-            possibly we gave the cells normal media instead of diff. media
-
-        Western blot:
-            why two tubulin bands?
-            why no actin? possibly the ### (the anti-actin Ab) didn't work or was degraded
-
 
 Materials & Methods:
     (no Materials section; just include information inline)
@@ -62,6 +37,30 @@ Materials & Methods:
     Western blot:
         ###
 
+Results:
+    Data:
+        Part I (Neurite outgrowth):
+
+        Part II (Western blot):
+            neurite count for these cells
+
+            % confluence
+
+            (protein count - already in .doc)
+
+Discussion:
+    are the results significant? no
+    why didn't we get the results we expected?
+        chambered slides:
+            ###
+        -/+ NGF:
+            possibly we gave the cells normal media instead of diff. media
+
+        Western blot:
+            why two tubulin bands?
+            why no actin? possibly the ### (the anti-actin Ab) didn't work or was degraded
+
+
 References:
 
-
+Du, et al., 2002 - http://www.jneurosci.org/content/22/17/7408.full (in References)
