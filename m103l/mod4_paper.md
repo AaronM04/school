@@ -34,7 +34,7 @@ Discussion:
 
         Western blot:
             why two tubulin bands?
-            why no actin?
+            why no actin? possibly the ### (the anti-actin Ab) didn't work or was degraded
 
 
 Materials & Methods:
@@ -42,14 +42,11 @@ Materials & Methods:
     Neurite outgrowth under varying chemical conditions:
         ###
     SDS-PAGE:
-        ###Protean-II
-
-        BEFORE SDS-PAGE: protein assay:
-            nanodrop###
+        lysis buffer (###composition)
 
         volume and composition of solution loaded:
             loading buffer (###composition)
-            amount of protein (mass): ###
+            amount of protein (mass): 240ug
 
         the type of gel used (stacking; resolving; composition)
             ###
