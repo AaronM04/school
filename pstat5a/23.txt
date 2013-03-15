@@ -1,0 +1,64 @@
+2013-03-15 Fri
+----------------
+Lecture ??
+
+[ 10 min. late]
+
+Action movies
+***study slides
+either "reject the null" or "fail to reject the null"
+
+---
+
+Are the uninsured less informed?
+    3132 insured; 501 of these not able to answer all Q's
+    1218 uninsured; 337 of these not able to answer all Q's
+
+    sig. level 5%
+
+    --
+    insured: p1hat = 501/3132 = .16
+    uninsured: p2hat ... = 0.27...
+
+    null hypoth.: no diff. btwn populations:
+        H0 : p1 = p2
+
+    alternative: the uninsured are less informed:
+        H[alpha] : p1 < p2
+
+    --
+    test statistic
+        p1hat - p2hat = .16 - .2767 = .1167
+
+        pbar = ... = .1926
+
+        z = ###[huge formula] = 8.76
+
+    P-value & conclusion
+        P-value = P(Z > 8.76) = 1 - ... = 1 - 1 = 0
+
+        P-value < .05
+            therefore, enough evidence to reject the null hypoth.
+
+            with 5% confidence level, we can conclude that uninsured individuals are
+            less informed
+
+Vaccination
+    12 out of 34 small nursing homes: resident vaccination rate of less than 80%
+    17 out of 24 large nursing homes: resident vaccination rate of less than 80%
+
+    at 5% sig. level: difference in proportions of ...
+
+    --
+    the hypoth.:
+        H0: p1 = p2
+        Halpha = p1 != p2
+
+        test stat
+            p1hat - p2hat = ... = .35 - .71 = -.36
+
+            pbar = ### = .5
+
+            ###
+
+        ***study this
