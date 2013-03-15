@@ -52,8 +52,30 @@ Introduction:
         the amounts of actin and tubulin produced in the presence and absence
         of NGF. ###
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     What is missing from the above (see lab manual)?
         ###
+
+    end of intro: brief summary of work in this experiment:
+        
 ---
 
 
@@ -116,6 +138,8 @@ Results:
             neurite count for these cells
 
             % confluence
+
+            no actin band; tubulin band at 30kD as well as 55kD but actual mol wt is 30kD
 
 Discussion:
 
