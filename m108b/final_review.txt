@@ -1,0 +1,75 @@
+inside the membrane, there's a big pool of QH2
+
+transporting 4 H+ through Complex III (from matrix to intermemb. space)
+electrons passed one at a time to Cytochrome C
+
+how do we get get QH2:
+    NADH gets oxidized (2e- come off)
+    the 2e- go to Q => QH2; this consumes 2H+
+
+    4H+ pumped from matrix to intermemb. space
+        therefore 4+2 = 6H+ leave the matrix in total
+
+complex I: 4H+ per NADH
+complex III: 4H+ per NADH
+complex IV: 2H+ per NADH
+    total of 10H+ per NADH for all complexes
+
+    10H+ / 4H+ = P/O is 2.5
+            ^
+            one O atom, I think
+
+complex II: succinate oxidized to fumarate (2e- go to FAD) => FADH2
+    (consumes 2H+ from matrix)
+
+    2 electrons from FADH2 go to QH2, regenerating FAD
+
+complex IV: four CytC come in; O2 + 4H+ + 4e- (from CytC) -> 2H2O
+    and 4 H+ are pumped out of the matrix
+
+
+----
+beta-hydroxy-butyrate --(NAD+->NADH)--> ???  --(suc-CoA->Succinate)--> ???
+
+---
+NADH        1/2 O2      10H+    2.5 P
+FADH2       1/2 O2      6H+     1.5 P
+
+
+---
+high glucose => insulin => promotes formation of glycolysis
+
+***know what these hormones do
+    glucagon
+    epinephrine
+    insulin
+
+***memorize the TCA cycle
+
+---
+ATP synthase
+    open - no affinity for substrates
+    loose - some affinity
+    tight - forces the substrates together
+    ...and releases ATP as going back to open state
+
+    3ATP per 360 degree turn of F1 subunit
+
+    12 H+ considering 4 H+ per ATP
+
+
+***study glycogen phosphorylase and glycogen synthase
+
+phosphorylase gets phosphorylated
+
+
+from first MT:
+    know thermodynamics,
+    diff btwn alpha and beta decarboxylations
+    enzyme kinetics
+    basics for sigmoidal vs MM
+    R & T states
+    regulation of glycolysis: PFK 1 and 2
+
+problem 1 on the midterm: how buildings get built
+    maids <- potatoes <- sun
