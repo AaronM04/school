@@ -1,0 +1,119 @@
+2013-03-15 Fri
+---------------
+Lecture 27
+***end of course wil be leptin
+
+what if we don't eat proteins w/ the specific AA ratio we are made of? AAs get degraded(?)
+
+degradation of AA carbon skeletons
+    color coded red: carbon skeletons easily converted to intermediates of TCA
+    cycle, and pyruvate
+
+        (net synthesis of oxaloacetate -> form glucose)
+
+    color-coded yellow:
+        glucogenic + ketogenic
+
+        ketogenic: make acetyl-CoA or acetoacetyl-CoA
+            cannot make a net amount of oxaloacetate
+
+    Lys & Leu are the only ketogenic AAs - can _only_ make acetyl-CoA (and then
+    ketone bodies)
+        (all others are glucogenic or both)
+
+    need to take in 1g protein per kg body weight to replace ###
+
+
+---
+Review:
+
+kinetics of glucose transport
+    low vs high Km
+
+know PFK (F2,6BP vs substrate vs ### - effects on velocity)
+
+chemical strategy for C-C cleavage
+
+general decarboxylation
+    beta - easy, because carbanion can be stabilized
+    alpha more difficult; needs TPP
+        "know mechanism of TPP"
+
+"know oxidation states of carbon"
+    alcohol -> carbonyl group
+
+"know in detail NAD+ + alcohol -> ketone + NADH + H+ (e- movements)"
+    also FADH2
+
+***know experiments well; why being done; what information we get out of it
+    glycolysis:
+        yeast extract experiments
+
+know what drives cooperativity
+    R state binds ligand much more tightly
+    most of enzyme exists in T state
+    active sites talk to each other
+
+logic of TCA cycle:
+    carbon skeletons thrown away
+
+    oxaloacetate is catalytic
+    
+    know reactions, and why they occur
+
+"don't memorize any chemical structures"
+
+know evidence that TCA cycle model is correct
+    radiolabelling Acetyl-CoA carbonyl carbon
+    where does it go?
+
+gluconeogenesis - activated by high levels of NADH in the mitochondria
+
+oxidative phosphorylation
+
+40-50%
+    TCA cycle
+    oxidative phosphorylation
+    know how to work w/ redox potentials
+
+ox. phosphorylation experiments:
+    know why O2 consumption stops, and why it starts again
+
+know how to calc P/O ratios
+
+ox. phosph.:
+    complex III
+        - mechanism
+        purpose - convert 2e- to 1e- transport
+        stoichiometries - H+ pumped per e-
+        ***Q cycle
+
+inhibitors of o.p.
+    three types
+        1. ###
+        2. oligomycin
+        3. uncouplers - dinitrophenol - punch holes in inner mito. memb.
+            valinomycin & nigericin
+
+starvation
+    draw those fucking metabolism arrow charts
+
+    know what role of proteins are and FAs
+
+    skeletal muscle doesn't take glucose, but will take some ketone bodies
+        takes pyruvate from alanine
+
+ob/db mice - cross-circ experiments
+    leptin receptor vs. leptin presence
+
+G6Pase - membrane; transporters...
+
+
+----
+"the main problem of the world is divisiveness"
+
+are you looking for some hybrid btwn evolution & creationism? LOLZ
+
+Francis S Collins - The language of God
+    gjohnlew@gmail.com - Wed night @ ucen
+    "no agenda"
