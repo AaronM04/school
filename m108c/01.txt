@@ -11,9 +11,85 @@ Dr. Zachary Ruhe
     office hours:
         Wed 2-3pm LSB 3109 or by appt.
 
+Teaching assistants
+    Esther - esther.taxon@lifesci.ucsb.edu
+    Elijah - elijah.spina@lifesci.ucsb.edu
+
 Agenda:
     photosynthesis
     lipids/membranes
     nitrogen
     amino/nucleic acids
     transcription/translation
+
+Photosynthesis:
+    light reactions
+        (absorption - light-harvesting complexes)
+            an exciton is formed
+            they get shuffled around until they reach a reaction site
+
+        a proton-motive force is established (by pumping H+)
+            -> ATP
+
+        this is used to create reducing power
+            -> NADPH
+
+Absorbance
+    E_photon = h*c/lambda
+        h - Planck's constant
+        c - speed of light
+        lambda - wavelength
+
+    lambda_blue ~ 450nm
+    lambda_red  ~ 700nm
+
+chromophores
+    have conjugated pi systems - allow excited electrons to be delocalized
+        you end up with a hole and an electron - they want to come together
+        because of opposite charges
+            the energy of the exciton prevents them from coming together
+
+            the job of the chromophore is to stabilize the separation of
+            the electron-hole pair
+
+LHCs (light harvesting complexes)
+    - increased surface area
+    - transfer energy to reaction center
+
+    the exciton may be far away from the rxn center - exciton transfer
+        no loss of energy in this process - 100% efficient
+
+    exciton only stable for ~200ps - not enough time for a random walk to the rxn center
+
+    electrons in the chromophores are in a coherent state
+        - all the paths are taken simultaneously - quantum random walk
+
+---
+electron transport
+
+in rxn center: "special pair" of chlorophyll
+    - an ETC is connected to this (electron carriers sitting nearby)
+
+    likelihood of electron transport:
+        delta G of e- transport = z*F*(E0_end - E0_initial)
+
+    electrons want to move from an electronegative environment to an electropositive environ.
+    
+    going from rxn center (+1.0V) to pheophytin (-0.9V) is uphill; this happens because of
+    the energy from the exciton (which takes us from +1.0V to -1.0V)
+
+        delta G = (-1)(96.5 kJ/(V*mol))*(-0.9V - -1.0V)
+                = -9.7 kJ/mol
+
+Green plants
+    RC -> pheophytin -> Qa(immobile) -> Qb(mobile) -> Cyt b6f -> PS I
+                            ("exactly like the Q cycle")
+
+            the above is PS II (photosystem 2)
+
+Green plants have a z-scheme in PS I:
+    ETC hooked up in series with a way to reduce NADP+ to NADPH
+
+PS I: A0(iron-sulfur proteins) -> ferridoxin -> Fd-NADPH+ oxidoreductase
+
+proton motive force powers the f1f0 ATPase (as in oxidative phosphorylation)
