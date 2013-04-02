@@ -1,0 +1,138 @@
+2013-04-02 Tues
+-------------------
+Lecture 1
+
+*** read the research paper before each discussion section
+
+on mol. bio. of the cell: "the best use of paper that's ever been done; it's spectacular"
+
+papers:
+    1. what are the questions being asked, or what is the hypothesis being tested?
+
+    2. what are some possible answers?
+
+    3. how can I test it?
+
+    4. what are some outcomes of the testing?
+
+    5. what are the implications of the answers? are they consistent w/ the hypothesis?
+
+    6. given all that, what is the next question or hypothesis to be tested?
+
+three review topics:
+    1. a brief overview of the nervous system, because that is what we are building
+
+    2. a brief overview of signal transduction, because signaling is what drives much of
+        development
+
+    3. a brief overview of experimental strategies ###
+
+the nervous system
+    DETECTS changes in the environment
+
+    TRANSMITS this info to other cells
+
+    tells other cells how to respond
+
+what are we building? an adult nervous system w/ macroscopic "nerves"
+
+CNS
+    brain & spinal cord
+
+PNS
+    simply organized nerves
+
+    connects CNS to the rest of the body
+        31 pairs of spinal nerves
+        12 pairs of cranial nerves
+
+    nerves are macroscopic; inside of nerves: cells
+
+cells
+    neurons - receive, conduct, transmit to other cells
+
+structure -> function
+    1. cell body
+        - nucleus
+        - usual assortment of organelles
+        - DNA, RNA, protein synth.
+    
+    2. axon - long distance
+        single, unbranched long thin fiber
+        conducts nerve impulses
+            "signals" to a target
+        branch at the end
+
+        how to be less fragile?
+            1. very strong cytoskeleton
+                - dynamic
+                - MTs, microfilaments (MFs), and neurofilaments (NFs)
+
+            2. bundle together into macroscopic nerves
+
+    3. nerve terminal
+        synapse
+        biochemical intercellular communication
+            "signal transduction"
+
+Glial cells
+    outnumber neurons ~10:1 in the nervous system
+    most abundant: astrocytes
+    metabolically support neurons
+    important for blood-brain barrier
+    lots of other functions
+
+signal transduction is key to all of development
+    "cells talking to each other"
+
+ILGF-1 and ILGF-2 are very similar to insulin, and can also bind to insulin receptors,
+but not as well
+    - gene families; even if you knock out insulin, you may not see much of a phenotype
+
+cross-talk
+    it's too simple that there's one ligand for one receptor
+
+signal amplification is the main reason for so many intermediates in signal transduction
+
+four general types of intercellular signaling
+    contact-dependent
+        initially, scientists were very suspicious of this explanation - direct touching
+    paracrine
+        e.g., NGF
+        release some soluble protein
+    synaptic 
+        similar to paracrine, but closer and more intimate
+    endocrine
+        releases ligand into blood stream
+
+focusing on receptors: 3 classes of ligand-activated cell surface receptors
+    ion channel-linked receptors
+        almost always hetero-oligomers
+    G-protein-linked receptors
+    enzyme-linked receptors
+        homodimers### receptors or ligands???###
+
+combinatorial signaling
+    survive/divide/differentiate/die
+
+    die if no signals
+
+experimental strategies: how do we study the development of the nervous system?
+    - whole animals
+        most commonly rodents (rat, mouse),
+        chick, flies, worms, others
+
+    - cultured tissues from animals ("explants")
+        dorsal root ganglia
+        question: is NGF a neuronal survival and/or differentiation factor?
+            answer: yes, both
+    - cultured cells...
+
+ganglia come from the PNS
+    bag of neuronal cell bodies
+
+question: are microtubules important for axonal structure?
+
+cultured cells:
+    primary cells
+    transformed cells (e.g., PC12 cells)
