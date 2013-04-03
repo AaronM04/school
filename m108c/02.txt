@@ -1,0 +1,89 @@
+2013-04-03 Wed
+----------------
+Lecture 2
+
+(z-scheme continued)
+
+the special pair becomes positively charged - "bleached state" (chlorophyll looks white)
+    - the electrons are recovered from water (oxygen evolving complex)
+                - "this actually took a long time for life to figure out ~1e9 years"
+                    (previously sulfur was used)
+
+to convert NADP+ to NADPH requires 2e-
+
+H2O -> O2 gives off 4e-
+    if we do this 1e- at a time, we generate free radicals
+    O2 evolving center counteracts this by stabilizing the intermediates:
+
+        cubic calcium-manganese-oxide reaction center
+            manganese can stably have multiple different oxidation states
+            resonance structures!
+
+Quinones can hold 2e- at a time
+    take electrons from pheophytin (in PS II)
+        => free radical form = semi-quinone
+            (stabilized by resonance)
+    takes another electron and becomes quinol
+
+    deliver electrons to ferrodoxin, which has a disulfide bridge between two
+    Cys (sep. by 2 AAs)
+        the disulfide bond is reduced (and broken), resulting in two free thiols
+            after this, an electron is given up, reforming the disulfide bridge
+
+to deliver the electrons to NADP+ (which must be 2e- at a time), FAD is used
+    FAD becomes a free radical (on a nitrogen) - a semiquinone
+
+    gets another e- and becomes a hydroquinone (FADH2) => delivers 2e- to NADP+
+
+--------
+
+within the chloroplast are thylakoids
+intermembrane space is called the stroma
+
+very little is in the lumen of the thylakoid: water and protons
+
+thylakoid membrane:
+    ADP + Pi -> ATP
+    NADP+ -> NADPH
+
+dark reactions happen in the stroma
+
+grana stacks
+stromal lamella - "fingers" off the thylakoid(s)
+
+the different photosystems are in different parts of the thylakoid(s)
+    PS II is on the inside (within the grana stacks)
+        no access to stroma needed, just water
+        O2 evolved here
+    ATP synthase and PS I is on stromal lamella
+        plastocyanin is what's moving the longest distance here (stacks <-> lamella)
+
+-----
+
+480nm light -> e- in rxn center special pair goes from +1.0V to -1.0V
+    how much of the energy was transferred?
+
+energy of 480nm photon:
+    Ephoton = h*c/lambda
+
+    h = 6.626e-34 J*s/photon
+    c = 3e8 m/s
+    lambda = 4.8e-7 m
+
+    result: Ephoton = 4.141e-19 J/photon
+    L = 6.02e23 photons/mol             ("Einstein" instead of "mol" for particles)
+            283kJ/mol
+
+energy required for e- from +1.0V -> -1.0V
+    deltaG = z*F*(E'0_end - E'0_initial)
+    z = -1
+    F = 96.5 kJ/(V*mol)
+    (E'0end - E'0initial) = -1V - +1V = -2V
+
+
+    result: deltaG = 193kJ/mol
+
+
+therefore, we have 90kJ missing (32%)
+    => relaxation; dissipates some of the exciton's energy as heat
+    the benefit is that we stabilize the exciton; without this, we would fluoresce
