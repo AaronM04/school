@@ -1,0 +1,93 @@
+2013-04-04 Thur
+----------------
+Lecture 2
+
+how to decide between whole animals, cultured tissues, and cultured cells?
+    depends on the question you are trying to answer
+
+how about trying to understand the mol. basis of dev. phenomena?
+    localizing proteins of interest
+
+    determining the functions of proteins of interest
+
+immunofluorescence microscopy
+    antigen-binding site - recognizes epitope (region of some foreign molecule)
+
+---
+
+what cells express my protein of interest (POI) and when in development?
+
+build a plasmid:
+    CMV - very strong promoter
+
+    EYFP - a version of GFP
+
+most of our proteins don't function as monomers
+
+function-blocking Ab
+    "if we are really lucky, we might get an Ab that binds right to an active site"
+
+-------
+Slides: "Lectures 2-4"
+
+fertilization:
+    sperm & egg each contribute a haploid complement
+
+differential gene expression:
+    1.  asymmetric division: the starting cell isn't really homogeneous
+    2.  symmetric division: sister cells become different as a result of influences
+        acting on them after their birth
+
+cell proliferation, cell specialization, cell interaction, cell movement
+
+universal mechanism of animal devel.
+    all species use similar proteins
+        to define their specialized cells
+
+        to define differences in btwn body regions
+
+        to create the body's pattern
+
+compare cerebellums in:
+    normal mouse
+
+    mouse lacking Engrailed-1
+
+    mouse rescued by Drosophila Engrailed(!!!)
+
+this works more often than not
+the two Engrailed genes would be called homologs
+
+sources of asymmetry:
+    gray crescent
+
+    point of sperm entry
+
+induction
+
+blastula
+    "water balloon"
+    epithelial layer of cells
+        1-2 cells thick
+        on the inside is a sheet of ECM
+
+    fluid center
+        blastocoel
+
+gastrula
+    "very important, but kind of complicated, step"
+    3-layered structure
+    different from one organism to the next
+    complicated invagination event
+
+    change in shell shape
+    change in cell arrangements
+    filopodial-ECM interactions
+
+    epithelial cells at the bottom change shape and begin to invaginate, producing a broad,
+    flat dome
+        - mediated by actin filament changes
+
+        cells that are part of the invagination pull themselves by extending
+        filopodia to grab onto the ECM on the inside of the blastula to form
+        the gastrula
