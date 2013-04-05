@@ -1,0 +1,69 @@
+2013-04-05 Fri
+-----------------
+Lecture 3
+
+CO2 fixation
+Calvin Cycle
+    H2O -> O2
+
+ADP + Pi -> ATP
+NADP+ + H+ -> NADPH
+
+RUBISCO - ribulose-1,5-bis(P) carboxylase/oxygenase
+                            good thing      bad thing
+
+                    bad, because it evolved in the absence of oxygen
+
+ribulose-1,5-bis(P): CO(P)-C=O-COH-COH-CO(P)
+
+RUBISCO catalyzes:
+    ribulose-1,5-bis(P) + CO2 -> carboxyl on C2 --(+H2O)--> 2 x 3-phosphoglycerate
+
+    we go from 5 C's to 6 C's (because of adding CO2)
+
+happens in the stroma of the chloroplast
+
+we zoom in on C2 and C3 of ribulose-1,5-bis(P):
+    carbon-carbon bonds are hard to make
+    R-C=O-COH-R'  coordinated w/ Mg2+ and carbamoyl-Lys241 (carbamoyl is R-NH=COO-)
+
+    H on C3 gets plucked away => an enediolate (or enediole???): R-COH=COH-R'
+
+    CO2 coordinated w/ Mg2+ comes in (makes the C partially positive)
+
+    His takes a proton off of C3, causing electrons to be "pushed" onto the C of CO2
+
+    second stage: hydrolysis to form two 3-phosphoglycerates
+
+    RUBISCO is 3 or 4 cycles per second - extremely slow
+        therefore, must be present in a high number of copies
+
+    three rounds of this yields six 3-phosphoglycerates
+        one goes to biosynthesis
+
+        the remaining five go into the calvin cycle, ultimately regenerating
+        ribulose-1,5-bis(P)
+
+3 x ribulose-1,5-bis(P) + 3 CO2 -> 6 phosphoglycerates
+    the 3-phosphoglycerates are too oxidized to do anything useful with them
+
+    need to be reduced => consumes ATP -> get bisphosphoglycerate
+    bisphosphoglycerate -> consumes NADPH -> glyceraldehyde-3-phosphate
+
+triose-(P)-isomerase => dihydroxyacetone-(P)
+    one DHAP goes to biosynth.
+    five DHAP's go to the calvin cycle
+
+DHAP + G3P ---aldolase----> CO(P)-C=O-COH-COH-COH-CO(P) (fructose-1,6-bis(P))
+                                                                (deltaG = -1.7 kJ/mol)
+
+F1,6BP ----phosphatase---> F6P (huge and negative deltaG = -27.2 kJ/mol)
+
+F6P + G3P ---transketolase---> erythrose-4-(P) + xylulose-5-(P)
+
+transketolases:
+    thiamine pyrophosphate (vitamin B1)
+
+    (see TPP rxn in the book)
+
+*** study this in the book
