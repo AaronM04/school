@@ -1,0 +1,98 @@
+2013-04-08 Mon
+-------------
+Lecture 4
+
+1. aldolase, then dephosphorylation
+2. ketolase
+3. aldolase #2, then dephosphorylation
+4. ketolase #2
+
+    we end up w/ 2 molecules of xylulose-5-(P) and one ribose-5-(P)
+
+    the above two dephosphorylations have large negative deltaG's, making the rxn go forward
+
+---
+xylulose-5-(P) ---epimerase--> HO-C-C=O-COH-COH-CO(P) (ribulose-5-(P))
+
+ribose-5-(P) ---isomerase-->  also ribulose-5-(P)
+
+now, we have 3 ribulose-5-(P) + 3ATP ---ribulose-5-(P) kinase--> CO(P)-C=O-COH-COH-CO(P)
+                                                                ribulose-1,5-bisphosphate
+
+why large negative deltaG on dephosphorylation?
+    partly entropy, but mainly solubility
+    relative concentrations are also important
+    ("these three factors determine deltaG's for _all_ the rxns in the Calvin cycle")
+
+---
+we want to move this out of the chloroplast into the cytoplasm:
+    carbon
+    ATP
+    NADPH
+
+In stroma:
+    R-1,5BP + CO2 ---rubisco--> 3PG + ATP -> bisphosphoglycerate + NADPH --> G3P
+
+    G3P <---> DHAP
+
+    transporter ("Pi-triose-(P) antiporter") takes DHAP to cytoplasm in exchange for Pi
+
+In cytoplasm:
+    DHAP -> biosynth, but also:
+    DHAP <--> G3P
+    G3P + Pi + NAD+ ---G3P dehydrogenase--> bisphosphoglycerate
+    bisphosphoglycerate + ATP ---3PG kinase----> 3PG
+
+    3PG goes back into stroma in exchange for Pi
+
+
+------------
+In the dark, we want to shut down the Calvin cycle at night; biosynth continues
+
+we want to stop the enzyme(s) with the largest deltaG
+
+how do we know whether the light is shining?
+    PS II's ETC is a proton-motive force, pumping protons into the lumen of the thylakoid
+
+    the stroma becomes more alkaline (increased pH)
+
+    there is also a channel in the thylakoid membrane that allows Mg2+ to pass through
+        (balances charges)
+
+    as a result, the stroma has high Mg2+
+
+    disulfide exchange: in PS I's ETC:
+        ferridoxin has two -SH (free thiols)
+        thioredoxin (in stroma) has disulfide bond
+        the above two can be exchanged!
+
+        thioredoxin now hase two free thiols, and can "run off" => reducing environment
+                                                                    in the stroma
+                                                            ("electrons are up for grabs")
+
+        some enzyme is inactive when it has a disulfide bond
+            thioredoxin can come in and reduce it, resulting in free thiols on the enzyme
+
+            the enzyme is now active
+
+    we have three things: increased pH and [Mg2+], and disulfide exchange (thioredoxin)
+
+    increased pH                incr. [Mg2+]                disulfide exchg
+    ---------------             ---------------             -----------------
+    fructose-1,6-bis(P)ase      fructose-1,6-bis(P)ase      fructose-1,6-bis(P)ase
+    ribulose-5-(P) kinase       RUBISCO                     sedoheptulose-1,7-bis(P)ase
+    G3(P) dehydrogenase             (because cofactor)      ribulose-5-(P) kinase
+        (prevents taking ATP                                G3(P) dehydrogenase
+        back into stroma)
+    RUBISCO
+    RUBISCO activase
+
+RUBISCO:
+    carbamoylation of Lys201 is required for it to work
+        happens spontaneously at higher pH
+
+    dark inhibitor - 2-carboxyarabinotol, or something like it
+        synthesized at night
+        binds so tightly that ATP is needed; RUBISCO activase does this
+
+        why isn't it a substrate for RUBISCO?!?
