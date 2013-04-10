@@ -1,0 +1,59 @@
+2013-04-09 Tues
+------------------
+Lecture 3
+
+Review: fertilization -> gastrulation
+
+neurulation:
+    ectoderm:
+        neural plate -> neural groove
+        neural tube becomes entire CNS
+
+        the red cells (where the neural cells meet the ectoderm) become the
+        neural crest - PNS ("and a bunch of other stuff")
+
+    mesoderm:
+        becomes notochord
+
+<MTs and filaments>
+
+cytoskeletal changes are responsible for these changes
+
+cytochalasin
+    CAMs - cell adhesion molecules
+
+    cells have to be pretty close to one another in order for this to work
+
+animal cap becomes determined (for neural tissue) after exposure to mesoderm
+    experiment:
+        before exposure, it can be isolated, and becomes epidermis
+        after exposure, it can be isolated, and becomes neural tissue
+
+Noggin identified as a neural inducer using DNA recomb. tech
+    the approach was to look for the mRNA, not the protein
+
+mRNA from Li+ treated embryos
+    "expression cloning"
+    mRNA --RT--> cDNA -> E. coli library ~10000 -> a lot of mRNA
+
+    serial dilution to narrow down which E. coli has the right mRNA
+
+activin
+    member of a family of ligand called TGF[beta]
+        (family of receptors)
+    
+    blocking signaling via a dom. neg. activin receptor leads to neuralization
+    "maybe the default state is neural"
+
+dissoc. of animal cap cells prior to gastrulation causes them to differentiate
+into neurons in culture
+
+    the key is the dissociation step - without this, becomes epidermal
+
+    conclusion: neural, not epidermal, is the default of the ectoderm
+
+some secreted factor (signaling molecule) can inhibit signaling through activin
+receptors (or related receptors), and thereby promote neuralization by preventing
+epidermalization
+
+Xenopus is not amenable to genetic analysis
