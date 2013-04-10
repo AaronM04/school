@@ -1,0 +1,112 @@
+2013-04-10 Wed
+--------------
+Lecture 5
+
+Rubisco, oxygenase activity, C4 + CAM
+
+photorespiration! :(
+
+ribulose 1,5-bis(P) + O2  -> ### -> 2-(P)-glycolate (BAD) + CO(P)-COH-COO-
+
+all plants have a pathway to deal with 2-(P)-glycolate
+
+stroma:
+    2-(P)-glycolate made here
+    Pi comes off -> 2*glycolate
+    2*glycolate goes to the peroxisome
+
+peroxisome:
+    2*glycolate + 2*O2 --> 2*glyoxylate + 2*H2O2
+
+cytoplasm (or maybe peroxisome?!?):
+    transamination:
+    2*glyoxylate + 2*serine -> 2*glycine + 2*hydroxypyruvate
+    
+        (hydroxypyruvate gets recycled to serine)
+
+    2*glycine goes to mitochondria
+
+mitochondria:
+    2*glycine + NAD+ -> serine + NADH + NH3 + CO2    <--- the CO2 is kinda important
+
+    serine goes back to peroxisome
+
+peroxisome (again):
+    serine -> hydroxypyruvate (see above)
+    hydroxypyruvate + NADH -> glycerate + NAD+
+    glycerate goes back to chloroplast stroma
+
+stroma (again):
+    glycerate + ATP -> 3-PG + ADP
+    3PG goes back into Calvin cycle
+
+----
+total costs of photorespiration (per 2 O2):
+    CO2
+    1 ATP
+    1 NADPH
+    1 ATP
+    1/2 ATP
+
+carboxylase:
+    +3 CO2
+    -9 ATP
+    -6 NADPH
+
+costly!
+
+"we've mitigated some of our carbon loss"
+
+at 100F, 40% of Rubisco activity is oxygenase
+    +2 CO2
+    -7 NADPH
+    -11.5 ATPs
+
+-----
+Ways plants reduce this problem:
+    C4 system:
+        two different kinds of cells
+        mesophyll cells:
+            exposed on the surface; have gas exchange
+            CO2 + PEP -> oxaloacetate (4 carbons) + Pi
+            oxaloacetate + NADPH -> malate + NADP+    (the CO2 is "trapped" on here)
+            malate goes to bundle-sheath cells
+
+        bundle-sheath cells (stroma):
+            malate + NADP+ ----malic-enzyme---> CO2 "right in Rubisco's face"
+                                                        (+ NADPH + pyruvate)
+            pyruvate goes back to mesophyll cells
+
+            !!!no PS II in this cell (would make O2); no source of e-!!!
+                - good thing we made NADPH above!
+
+            PS I:
+                PS I -> ferrodoxin -> Cyt b6f (pumps H+) -> plastocyanin
+                plastocyanin shuttles electrons back into PS I
+                "run electrons around in circles to generate proton gradient"
+
+        mesophyll cells (again):
+            pyruvate + ATP + Pi -> PEP + AMP + PPi   (this drives the rxn fast forward)
+            production of PEP completes the cycle
+
+        C4 costs:
+            2 more ATP's... still more efficient
+
+        convergent evolution of plants on different continents
+
+        C4 problem: lose H2O
+
+    CAM system:
+        modified version of the C4 system; better for retaining H2O
+        temporal, rather than spatial, separation
+        gas exchange regulated by stomata
+        at night:
+            allow gas exchange
+            cooler, so don't lose as much H2O
+            make malate, store it in a vacuole
+
+        during day:
+            malate taken from vacuoles
+            CO2 released
+
+        CAM problem: you can't grow very fast
