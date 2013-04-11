@@ -18,7 +18,6 @@ stroma:
 peroxisome:
     2*glycolate + 2*O2 --> 2*glyoxylate + 2*H2O2
 
-cytoplasm (or maybe peroxisome?!?):
     transamination:
     2*glyoxylate + 2*serine -> 2*glycine + 2*hydroxypyruvate
     
