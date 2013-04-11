@@ -1,0 +1,178 @@
+2013-04-11
+-----------------
+Lecture 4
+
+Review:
+    focusing on gastrulation
+
+    fates of ectoderm:
+        surface
+            hair
+            dermis
+            nails
+        neural crest
+            PNS
+            various
+        neural tube
+            CNS
+
+    cell shape changes - think "cytoskel."
+
+    cell re-arrangements - think "cell adhesion molecules (CAMs)"
+
+    Hans Spemann
+    
+    inductive signal -> nearby cells directed to new developmental pathway
+
+    determination vs. differentiation
+        determination - the point at which a cell is committed
+        differentiation - the point at which the cell changes its phenotype
+
+    transplantation type of experiment for "determination"
+
+    embryonic fragments and determination/fates
+
+    Spemann and Mangold, 1924: transplant -> get two nervous systems
+
+    identification of noggin as a neural inducer
+        Bill Smith is now dept. chair in MCDB
+
+Neuralization factors
+    Noggin
+    Chordin
+    Follastatin
+
+Blocking signaling via a dom. neg. activin receptor leads to neuralization
+    it's the _absence_ of a signal that leads to neurons!!!
+
+Dissoc. of animal cap cells prior to gastrulation causes them to differentiate
+into neurons in culture
+
+universal mechanisms of animal dev.
+    sog (fly homolog of Chordin)
+        sog knockout -> expanded epidermal region and reduced neurogenic region
+        sog increase -> neuralization of non-neural regions
+
+    sog interacts genetically w/ dpp: they antagonize each other
+
+    dpp knockout -> exact opposite of sog knockout
+    dpp increase -> epidermalization of neural regions
+
+is there a dpp homolog in vertebrates: yes! BMP-4 (bone morphogenetic protein 4)
+
+we want to know what antagonizes noggin, chordin, and follastatin in mammals
+
+BMP-4:
+    widely expressed in gastrula
+    lower levels in Spemann's organizer and animal cap
+    if you add loads of BMP-4, it suppresses neural induction by chordin or noggin
+    mesoderm/notochord releases something that interferes with BMP-4 (suppress the suppressor)
+
+<figure 1.23 current model of neural induction> ***interesting
+
+the default fate of ectoderm is neural
+    ###
+
+why would inhibiting the activin receptor cause neuralization?
+    because the activin receptor is closely related to the BMP4 receptor
+    the truncated activin receptor can form a heterodimer w/ the BMP4 receptor
+
+    therefore, the truncated activin receptor is a dominant negative for both activin
+    receptor AND the BMP4 receptor
+
+TGF[beta] family of ligands
+    activin
+    BMP4
+    (others)
+
+functional redundancy:
+    noggin knockout mouse has same phenotype as wildtype mouse
+    noggin/chordin double knockout mouse has different phenotype!
+
+the bigger molecular picture
+    to become neural, we need to express neural genes
+        two major transcriptional activators: Zic1 and Zic3
+        Zic1 is on by default
+        Zic3 is activated by FGF (via sig. cascade involving ERK)
+
+        BMP-4 binds to BMP receptor => activates Smad => goes to nucleus => inhibits Zic1
+                                                                            transcription
+                            (Smad also activates other epidermal genes)
+
+neurulation occurs earlier in the anterior end
+    (embryo is now elongated like a finger)
+    neural tube does not form at same time over the whole length (earlier at anterior)
+
+    in humans around day 30, neural tube must seal up so that inside can have different
+    composition; if tube does not close up at anterior end, death; if tube is a little
+    open at posterior end, spina bifida
+
+--------------------------------------
+(next slides)
+
+proliferation and differentiation of the nervous system
+
+lots of:
+    proliferation
+    migration
+    differentiation
+
+neural tube at anterior end is going to start to get bigger (notochord is right under)
+
+neural tube develops into 3 regions:
+    forebrain
+        cerebral hemispheres
+    midbrain
+        adult midbrain
+    hindbrain
+        lower brain stem
+    
+    (the rest: spinal cord)
+
+    neural tube has ventricular zone inside
+    underneath the neural tube is the notochord
+
+    the neural tube cells divide to have layers / concentric circles
+
+    "cells that are dividing have to synthesize DNA"
+        10 minute "pulse" of radioactive thymidine
+        after washing, put the cells over X-ray film
+        you can see which cells were synthesizing DNA
+
+    embryo -> 3H thymidine for 10 min -> label the subset of cells that are prolif ->
+    wash out inincorporated thymidine -> photographic emulsion -> time -> develop film
+
+        Results: only the innermost layer has dividing cells
+            speculation: maybe there are factors on the inside inducing cells to divide?
+
+    proliferation occurs only in cells at inside of neural tube
+    possibilities:
+        1. new cells push the outer layers further outward
+        2. new cells migrate past outer layers to become the new outermost layer
+        3. combination of 1 and 2
+
+    "pulse chase" experiment:
+
+    embryo -> 3H thymidine 10min -> label dividing cells -> for 24 hours, add excess of
+    non-radioactive thymidine -> add photographic emulsion -> time -> develop film
+
+        Result: labeled cells in innermost layer, but also some labeled cells in the outer-
+        most layer -> the cells must have migrated through the layers
+            note that each labeled cell has half the radioactivity as in the previous expt.
+
+    increase chase time from 24 to 48 hours:
+        Result: labeled cells in innermost, outermost, and layer under outermost!
+                -> cells dividing multiple times in innermost layer, and some of the daughter
+                cells from each division migrate to form new layers
+
+                relative radiation levels tell you that the outer layer cells are not
+                dividing at all; formed only by migration from innermost layer
+
+    plane of division:
+        if radial, both stay
+        if not radial, one leaves
+
+    how do cells "wiggle on through" the layers?
+        radial glial cells - long skinny cells that run the whole width of the neural tube
+            (along a radius)
+            cells that need to migrate use these as a guide
