@@ -1,0 +1,101 @@
+2013-04-12 Fri
+----------------
+Lecture 6 - lipids
+
+lipids = insoluble in water because they are hydrophobic
+    many different structures, however
+
+hydrogen bonds are what keep H2O a liquid and not a gas at r.t.
+
+electronegative potential (physics)
+    deltaG = n*F(E1-E2)
+
+electronegativity (chemistry)
+    an atom's affinity for e-
+
+hydrophobic - cannot form H-bonds or ionic bonds w/ water
+
+fatty acids:
+    the carboxylic head can interact with water
+    the tail cannot form H-bonds w/ water
+    if we add a FA to water, it will disrupt existing H-bonds
+        water will form H-bonds with itself tangential to the FA interface
+
+        has surface tension; looks like an air-water interface! - hydrophobic effect
+
+hydrophobic effect
+    a conformation that minimizes disruption of H-bonds
+
+    strength is proportional to hydrophobic surface area
+
+a long-chain FA has more hydrophobic surface area than a shorter chain FA
+    to see this, use a partitioning experiment: H2O over chloroform; where is the molecule?
+
+in the absence of water, the only type of interaction is Van der Waals forces - very weak
+
+    proportional to surface area
+
+Tm = transition temp. from solid to liquid
+
+6 carbon FA: Tm = -3.7C
+8 carbon FA: Tm = 16.7C   <-- more surface area, stronger v.d.W forces
+
+---
+membranes
+
+properties:
+    compartmentalization
+        hydrophobic effect
+    fluid state
+        van der Waals
+        Tm
+
+if you have enough carbons to have good compartmentalization, your membrane is
+a solid => NOT GOOD; the solution is to have a kink - cis double bond
+
+cis double bonds
+    change the shape of FAs
+    no effect on hydrophobicity
+    lower Tm
+
+------
+lipids:
+    membranes
+    signaling molecules
+    storage
+
+TAGs
+    form lipid droplets in water
+    this is why we store our energy as fat
+
+    "we would have to be sedentary to store our energy as sugars instead of fats; too much
+    water needed to hydrate; fat is what allows animals to be locomotive"
+
+membranes -> glycerophospholipids
+
+(head group)-O-(P)-O-C1-C2-C3
+C1&2-O-C=O-hydrocarbon tail
+C2's tail has a cis double bond "kink" in it
+
+plasmalogen
+    has an ether-linked alkEne instead of ester: C3-O-C=C-tail
+
+pre-platelet activating factor
+    has an ether-linked alkAne instead of ester: C3-O-C-tail
+
+    phospholipase A2 cuts off the C2 tail, causing molecule to be more soluble
+    (becomes platelet activating factor); can diffuse out of the membrane a
+    short distance, causing platelets to start clotting
+
+cholesterol
+    lets you fine-tune membrane fluidity
+    precursor to many signaling molecules
+
+sphingolipids
+    amide linkage
+    head group - can be oligosaccharides
+    made by eukaryotes ("and even some sneaky bacteria")
+    used for cell-cell recognition
+        self-nonself
+        ABO blood groups
+        neuron firing
