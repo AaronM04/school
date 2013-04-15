@@ -1,0 +1,100 @@
+2013-04-15 Mon
+----------------
+Lecture 7
+
+fatty acid biosynth
+
+palmitate (hexadecanoic acid)
+
+put together from acetyl-CoA
+
+acetyl-CoA can lead to:
+    TCA
+    FAs
+    cholesterol
+
+pyruvate ---PDH+TPP--> acetyl-CoA + CO2
+
+acetyl-CoA + CO2 --acetyl-CoA carboxylase---> malonyl CoA      (first committed step)
+    consumes ATP
+    makes a C-C bond! not very favorable without coupling to ATP hydrolysis
+    biotin cofactor
+
+CO2 has two solution forms:
+    stay as gas, or
+    CO2 + OH- ---> CO3H-
+
+CO3H- takes a (P) from ATP -> carbonyl phosphate + ADP
+biotin attaches to the C of carbonyl phosphate, and Pi leaves
+biotin flips around to a separate active site within the enzyme
+
+it's believed that a proton in the methyl of acetyl-CoA gets abstracted, resulting in
+a carbanion, which attacks the C newly attached to biotin; biotin comes off
+
+-----
+fatty acid synthase
+    in bacteria, it's a complex of proteins w/ 7 activities
+    in humans, it's one protein (the above strung together)
+
+has a part that looks like CoA (thiol groups)
+    malonyl gets transferred onto these, forming thioester bonds
+    the COO- is a good leaving group; acetyl CoA gets plucked off the "arm"
+    result: a C-C bond is formed
+    CO2 leaves (no net loss of CO2 because it came in earlier)
+
+NADPH reduces the ketone, resulting in an -OH
+dehydration => we get a C=C double bond
+another reduction => we have a single bond
+
+next, transferase step:
+    "re-prime the system"
+    the chain gets moved onto the other thiol, and the cycle repeats
+
+--------------
+humans -> make FAs when well-fed
+plant -> light
+bacteria -> cell cycle
+
+the enzyme you should regulate is acetyl-CoA carboxylase, because:
+    reversible (consumes ATP)
+    first dedicated step
+
+plant acetyl-CoA carboxylase regulated by high pH and high Mg2+
+human acetyl-CoA carboxylase regulated by signal transduction from glucagon/epinephrine
+    when enzyme is phosphorylated, it is off
+
+"insulin involvement is more complicated"
+
+acetyl-CoA is made in the mitochondria, but FA synth occurs in cytoplasm
+    shuttling pathway:
+        in mito:
+            acetyl-CoA + oxaloacetate -> citrate + CoA
+            citrate goes into cytoplasm
+
+        cytoplasm:
+            citrate + ATP ---citrate-lyase--> oxaloacetate + acetyl-CoA + ADP
+
+            oxaloacetate + NADH -> malate + NAD+, and malate goes back, or:
+            malate + NADP+ -> pyruvate + CO2 + NADPH, and pyruvate goes back!
+
+        back in mitochondrion:
+            malate + NAD+ -> oxaloacetate + NADH, or:
+            pyruvate + ATP + CO2 -> oxaloacetate + ADP
+
+        shuttling system is ATP powered, so we only want to run it when well-fed
+
+epinephrine regulates acetyl-CoA->malonyl-CoA (as discussed above), but
+insulin regulates citrate lyase (citrate->oxaloacetate) in the shuttling system
+
+allosteric regulation:
+    citrate activates acetyl-CoA -> malonyl-CoA, and FAs inhibit this
+
+-------------------
+need membrane fluidity, so we need a cis double bind
+
+palmitate -> cis delta-9 hexadecanoic acid
+
+instead of using NAD+, we use a mixed function oxidase!
+    reduce O2 to water
+    O2 takes 4e- but we're only getting 2e-!
+    solution: also use NADPH: get 2e- to make O2 happy
