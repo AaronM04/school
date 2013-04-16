@@ -1,0 +1,114 @@
+2013-04-16 Tues
+---------------------
+
+*** midterm next thursday (4/25)
+
+epidermis
+neural crest
+neural tube
+ventricular zone (inside the neural tube)
+
+anterior
+posterior
+
+neuroblast proliferation occurs in the neural tube...
+where in the tube is cell division occurring?
+    3H thymidine "pulse" and "pulse-chase" labelling experiments
+
+birth-dating studies reveal "inside-out" org. of the cerebral cortex
+    pregnant female mice
+    inject one w/ tritiated thymidine at E11 (day 11 of preg.)
+    inject another at E13, and yet another at E15
+
+migration of neurons along radial glia
+    radial glia
+    if a cell near the VZ divides, one stays there, and the other migrates
+    along the radial glia
+
+    as the neural tube gets bigger, the radial glia stretch farther
+
+monoclonal vs. polyclonal Ab's
+
+migration of neurons along radial glia
+    CAMs - cell adhesion molecules
+    neuronal CAMs
+    ***3 good candidate CAMs
+        NCAM
+        N-cadherin
+        L1
+
+    function-blocking Ab's
+
+    if we measure the rate of control cells, we get 33 microns/hr
+    how would the rate change if we added:
+        Ab's against NCAM?          33um/hr
+        Ab's against N-cadherin?    33um/hr
+        Ab's against L1?            33um/hr
+
+    Ab's to all 3                   33um/hr :(
+
+    conclusion: maybe none of these are involved
+
+    what if we got some neuronal cell membranes, injected them into a rabbit, and
+    got antiserum against membrane proteins?
+        with luck, we would get a fcn-blockig Ab
+        we get a rate of close to zero :)
+
+    hypothesis: whatever the protein on membrane interacting w/glia is, it is present
+    on embryonic but not adult neuronal membrane
+
+        test: into the serum, they add neural memb. chunks from adult
+        incubate -> spin -> neuronal memb. chunks in pellet + Ab's that react w/ adult
+
+        in supernatant will be Ab's that do not react w/ adult memb.
+            one of these Ab's was found to be a fcn-blocking Ab against migration!
+
+        "low probability of payoff, but high payoff; they won the lottery"
+
+        result: found a protein called astrotactin: necessary for migration along glia
+
+astrotactin knock-out mice:
+    cerebella are 10% smaller than WT
+    decreased assoc. btwn. neurons & glia
+    reduced rate of neuronal migration
+    abnormal devel. of cerebella
+    poor balance and coordination
+
+amyloid precursor protein (APP)
+    transmemb. protein
+    RNAi knockdown leads to abberant migration & aberrant layer formation
+
+    if add excess APP, migration proceeds too far
+        goes right past end of radial glia
+
+    ###
+
+semaphorin 3A
+    not a CAM; it is a diffusable protein
+    forms a gradient, from ventricular zone to exterior of NT
+    chemoattractant for migrating neurons
+
+neuroblast prolif. occurs in the neural tube, but how do the "cortical layers" form?
+
+------
+what kinds of cells are derived from a single cell at VZ?
+    determined or not?
+
+retrovirus
+    infection of cells by retroviruses is very inefficient
+
+    once you infect a cell, it is forever marked
+
+    put lacZ in retrovirus => cells will turn blue
+
+mitogenic factors
+    FGF, EGF, Shh
+    paracrine interactions
+    in this case, they tell the cells that do not migrate to keep dividing
+
+    if you block Shh signaling, you get a big reduction in the number of neurons
+    if you increase Shh signaling, you get a big increase in the number of neurons
+
+adult neurogenesis in canary and rodents
+    olfactory bulb (but the new neurons migrate from elsewhere)
+    hippocampus
