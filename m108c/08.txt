@@ -1,0 +1,138 @@
+2013-04-17 Wed
+------------------
+Lecture 8
+
+*** midterm through this Friday (4/19)
+*** do all the problem sets!
+
+16-carbon --elongases--> 18-carbon
+elongases in ER; mostly for FAs destined for cytoplasm
+
+triacylglycerol:
+    3 acyl chains attached to a glycerol
+
+can't take a TAG into the cell - too hydrophobic (will get stuck in plasma membrane)
+biosalts in intestine - detergent - makes TAGs soluble
+pancreatic lipase catalyzes hydrolysis of the 1 and 3 acyl chains, leaving only the 2 chain
+
+in the intestinal cells, there are transporters for monoacylglycerol and FA
+    inside the cell, the TAGs are reassembled using ATP
+    packaged together into a chylomicron and exocytosed into the blood
+    "after you eat In N Out, your blood will be cloudy with chylomicrons"
+
+when the chylomicrons are actually used for energy, lipases cut off one FA at a time
+
+liver cells can endocytose the chylomicrons; repackaged as lipoproteins
+
+---
+
+ways of making glycerol-3-(P):
+    glycerol via glycerol kinase
+    from DHAP (using NADPH)
+    (???) from fatty acids (but need them hooked up to CoA)
+
+it uses up a lot of ATP to hook up an FA to CoA
+    FA + ATP -> adenosine-(P)-C=O-tail + PPi   (AMP-FA)
+    AMP-FA + CoA-SH -> CoA-FA + AMP
+
+    CoA-SH + FA -> CoA-FA  deltaG = +31 kJ/mol (very unfavorable due to less soluble product)
+    ATP -> AMP + PPi   deltaG = -45.6 kJ/mol
+
+    combining the two leaves something that is only slightly downhill, but
+    pyrophosphatase helps a lot: PPi -> 2 Pi (removes product of above rxn)
+
+3-(P)-glycerol + CoA-FA -> monoacylphosphoglycerol + CoA-SH
+monoacylphosphoglycerol + CoA-FA -> diacylphosphoglycerol + CoA-SH
+diacylphosphoglycerol -> diacylglycerol + Pi    ("I never really understood this" lolz)
+diacylglycerol + CoA-FA -> triacylglycerol + CoA-SH
+
+we regulate the production of glycerol-3-(P), surprisingly!
+
+---
+blood:
+    has chylomicrons
+adipose tissue:
+    fat is stored
+    has receptors on cell surface with lipase activity
+        cut off individual FAs from the chylomicrons
+        the FAs get transported in
+        the TAGs get reassembled, and packed into lipid droplets
+
+    when well-fed:
+        pyruvate -> -> ---PEP carboxylase(regulated step)--> 3-(P)-glycerol
+        promotes assembly of TAGs
+
+    when not well-fed:
+        TAGs get pulled out of lipid droplets
+        lipases cause FAs to be released
+        low PEP carboxylase activity, therefore low 3-(P)-glycerol => inhibit TAG assembly
+        FAs get released into blood (bound to proteins at hydrophobic tails)
+
+    the amount of FAs in the adipocyte determine whether they get released into blood
+    and this amount is dependent on the rate of TAG assembly
+
+the liver is another place where TAGs are made
+    centers around gluconeogenesis
+
+    endocytoses chylomicrons, or takes free FAs from blood
+    if 3-(P)-glycerol is around, assembles TAGs
+    TAGs get assembled into lipoproteins, which get endocytosed
+
+    if starving:
+        PEPCK activity is high (regulated by glucocorticoids) => we want fat in the blood
+        TAG assembly is promoted (the opposite of in adipocytes)
+    
+    the lipoproteins also contain cholesterol, which is why liver doesn't just release FAs
+
+---
+
+synthesis of glycerophospholipids for membranes
+    start off with some precursors as TAG
+
+    diacylphosphoglycerol -> diacylglycerol + Pi
+        DAG is not a good membrane lipid because head is not very hydrophilic
+        need to attach a head group
+
+    in Lehninger: strategy 1 & 2
+
+    strategy 1 (both prokaryotes & eukaryotes):
+        activate the oxygen in the -OH to react w/ head group
+        CTP is used
+        DAG + CTP -> CDP-lipid + Pi   (CDP is a very good leaving group)
+        head group has an -OH, which attacks one (P) of the CDP => CMP leaves
+        end up with HG-(P)-DAG
+
+    strategy 2 (only eukaryotes; sorry, prokaryotes!):
+        head-OH + CTP -> cyt-(P)-(P)-HG + Pi
+
+        DAH-OH + cyt-(P)-(P)-HG -> HG-(P)-DAG + CMP
+
+    strategy 3 ("strategy X" lol) - involves neighboring lipid; important for sphingolipids
+
+    why not use FAs in membrane?
+        they don't assemble in the right shape (we want planar)
+        head group is a bit wider than tail, so they add curvature - BAD - form micelles
+
+        this is also why FAs need to be protein-bound in the blood
+        free FAs can lyse cells by destabilizing membranes!
+
+----
+sphingolipids
+
+not based on glycerol at all
+"so important - neuron function; cell-cell recognition"
+
+CoA-FA(palmitate,C-16) + serine -> sphinganine
+"chemistry is almost exactly like FA elongation"
+serine carboxylic C attacks palmitate's ester C, and CoA leaves
+
+sphinganine + NADPH -> ??? + NADP+
+
+then we used mixed-function oxidase: get sphingosine (has C=C double bond)
+
+the NH3 attacks another palmitate, creating an amide linkage
+
+sphingosines get their head groups by stealing ("strategy X")!
+but they can also have oligosaccharides on them:
+    UDP-conj. sugar attacks phosphate bond => sugar attached to sphingolipid
+        (sugar moieties responsible for ABO blood types)
