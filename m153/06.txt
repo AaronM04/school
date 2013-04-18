@@ -1,0 +1,145 @@
+2013-04-18 Thur
+---------------------
+Lecture 6
+
+midterm will be through today (not tues 4/23 - lecture 7)
+
+review:
+    prolif. & diff. of nervous system
+    migration of neurons along radial glia
+    cell adhesion molecules mediate this - used polyclonal Ab's to determine this
+    amyloid precursor protein (APP)
+    semaphorin 3A - not a CAM; diffusable protein
+        gradient from ventricular zone (VZ) to exterior of NT
+        chemoattractant for migrating neurons
+
+--
+differentiation: intrinsic and/or extrinsic?
+
+the environment can influence the fate of neural crest cells
+    cholinergic(parasympathetic) vs. adrenergic(sympathetic) neurons
+
+    if move cells from cholinergic region to adrenergic region - they change!
+
+    unlike chick cells, quail cells have very prominent nucleoli, so it can be
+    ruled out that the transplanted cells simply died from the trauma, and
+    neighboring cells filled in
+
+determining position in a fly, or how do cells "know" where they are in embryo?
+    maternal effect genes:
+        bicoid protein - very high abundance in anterior end; very low in posterior end
+        nanose protein - opposite
+    very asymmetric right from the start
+
+    cyto. polarity => gap genes => pair rule genes => seg. polarity genes & homeotic genes
+
+anterior-posterior polarity of the nervous system: retinoic acid
+    different levels of retinoic acid activate different genes
+    about a 10 fold gradient - highest at the posterior end of the notochord
+    extra RA - defects in anterior NT devel.
+    RA promotes posterior nervous sys. devel.
+
+    animal caps (dissoc or not)--treat w/ noggin-> _anterior_ neural fate ->
+        FGF -> posterior fate
+
+        conclusion: RA and noggin are opposites (FGF is also posteriorizing)
+
+dorsal-ventral organization of neural tube
+    most dorsal cells of NT are roof plate; most ventral cells are floor plate
+
+    influence of notochord on dorsal-ventral polarity of neural tube cell fate
+        remove notochord - no floor plate and no motor neurons
+        move notochord to side - ectopic floor plate & ectopic motor neurons
+
+        protein responsible: Shh - induces ventralization of the neural tube
+            note: once the floor plate develops, it _also_ produces Shh
+            meaning of BMP changes: earlier, it was: "don't become a neuron"
+                                        now, it is: "become a dorsal neuron"
+
+        BMP causes roof plate to form; Wnt involved somehow ###
+
+        cells are sensitive to very small differences in Shh concentration
+
+growth factors present in different regions of the CNS can influence cell fate determination
+
+
+---------------------
+Lecture set 4 - axonal outgrowth and guidance
+
+course outline:
+fertilization -> blastula -> gastrula -> neurula
+    neuroblast prolif.
+    neuroblast diff.
+
+    neuroblast migration
+        nav.
+        mechanical movement
+    ***axon outgrowth
+        nav
+        mech. movement
+
+    synaptogenesis
+    prog. cell death
+    synaptic rearrangements
+    active cell maintenance
+    neurodegeneration
+
+--
+migration
+    cell-cell contact
+    soluble gradient
+
+target(1)   <--------neuron----
+            ^ growth cone
+
+neuron is searching for environmental cues ("five dollar word for 'road signs'")
+    the growth cone projects fingers called filopodia - the little spikes
+    in between the spikes are veils of membrane - lamellopodia
+    
+    these are very big - avg. cell body ~15um in diameter; filopodia are ~50-100um long
+
+cell/growth cone movement involves reaching forward, grabbing the surface,
+pulling and reaching forward again - tension is generated
+
+diff. shapes & speeds of growth cones in diff. environments
+    when you approach a fork in the road, you slow down to buy yourself time to decide
+
+important nav. "roadsigns": guidepost/stepping stone cells
+    sensory neurons in grasshoppers
+    Ti1 is extending an axon towards the CNS - bumps into guidepost cells along the way
+    guidepost cells
+
+axons grow from retina to tectum using growth cones ###
+    you can cut the axon, and it will continue migrating for a bit
+
+time lapse images of two neurons growing in optic tract
+    GFP-labeled growth cones
+
+single filopodia can direct growth cones
+    the filopodia touching the target (or guide post) gets stronger and the others get weaker
+
+short- and long-range guidance cues
+    contact repulsion - "guard rails on the freeway; stay on the road"
+
+two mechanisms for cell/growth cone nav.
+    1. guidance by differential prefs for insoluble roadways
+        growing axons encounter many diff. microenvironments
+        growth cones are attracted to some and repelled by others (some are neutral)
+            if neutral, probably doesn't have a receptor
+        attractants are like "molecular roadways"
+        repellants can be viewed as "guardrails on a road"
+
+        growth cones preferentially migrate on the most adhesive surface:
+            polyornithine - very sticky; neurons like this
+            palladium - very unsticky
+        growth cones and adhesion
+            when growth cones hit the palladium, they just leave
+
+        examples of adhesion molecules expr. on growth cones (all assoc. intracellularly
+        w/ cytoskel. elements)
+            cadherins, CAMs, integrins, etc.
+
+        if there is a roadway of laminin, after receptor attachment, the cytoskel. needs
+        to change
+
+    2. ###
