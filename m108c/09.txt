@@ -1,0 +1,84 @@
+2013-04-19 Fri
+----------------
+Lecture 9 - eicosanoids
+
+*** midterm through today
+
+prostaglandins and thromboxanes:
+
+arachidonic acid - we can't completely synthesize it (because of 11 and 14 double bonds)
+    humans can only go up to the #9 carbon
+    plants do 11 and 14 for us
+
+arachidonic acid converted to:
+    prostaglandins/thromboxanes
+    leukotrienes
+
+arachidonic acid ---Cox--> PGH2 (prostaglandin H2)
+
+PGH2 -> various signaling molecules depending on the cell type
+
+peripheral neural cell:
+    --PLA2--> arachidonic acid --Cox-2-> PGH2 -> PGE2 (the actual signaling molecule)
+                                                    hyperalgesia, fever
+
+gastric epithelium:
+    --PLA2--> arachidonic acid (AA) --Cox-1-> PGH2 -> PGE2
+                                                        decrease gastric acid production,
+                                                        increase mucus production
+
+    replacement for aspirin that doesn't cause upset stomach:
+        direct Cox-2 inhibitor: Vioxx, but problems such as heart disease
+
+vascular endothelium:
+    --PLA2--> AA --Cox-2-> PGH2 -> PGI2
+                                    in the absence of injury, inhibition of platelet
+                                    aggregation; also, vasodilation; "cardioprotective"
+
+platelet:
+    --PLA2--> AA --Cox-1-> PGH2 -> TXA2
+                                    signal that we've been injured; promote aggregation
+                                    of platelets; promote vasoconstriction
+
+aspirin inhibits both Cox-1 and Cox-2
+    how can we have a cardioprotective effect when both are inhibited?
+
+    aspirin is a suicide inhibitor - destroys Cox-1 and platelets are not full cells
+    so they can't make any more
+
+------
+leukotrienes:
+
+arachidonic acid --lipoxygenase--> HPETE: has hydroperoxy group!
+
+    HPETE used to make many different things
+
+LTD4
+    overproduced in people w/ asthma
+
+---
+anandamides
+
+lecithin: arachidonic acid attached to C2 carbon
+
+lecithin + some phospholipid w/ ethanolamine head group??? -> NAPE
+
+NAPE -> anandamide
+
+cannabinoid receptors:
+    feeding behavior
+    perception
+
+---
+cholesterol
+
+almost no dedicated steps
+
+2 * acetyl-CoA <--thiolase--> CoA-S-C=O-C-C=O-CH3 (acetoacetyl-CoA) + CoA
+
+acetoacetyl-CoA + CoA with carbanion?!? --HMG-CoA synthase--> ??? --HMG-CoA synthase-> HMG-CoA
+ + CoA
+
+HMG-CoA + 2 NADPH --HMG-CoA reductase->  mevalonate + 2 NADP+ + CoA
+
+mevalonate + 3 ATPs --> isopentyl pyrophosphate + 3 ADPs -> ### + Pi + CO2
