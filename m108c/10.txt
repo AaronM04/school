@@ -1,0 +1,73 @@
+2013-04-22 Mon
+-----------------
+Lecture 10 - cholesterol (cont.)
+
+### + NADPH --HMG-CoA reductase--> mevalonate + NADP+ --(3 ATP used)--> ### + CO2 + Pi
+
+### -> isopentyl pyrophosphate <-> dimethylallyl pyrophosphate
+
+head-to-tail condensation
+
+2 isopentyl pyrophosphate -> -> geranyl pyrophosphate (10C)
+
+another 5-carbon unit replaces the PPi in geranyl pyrophosphate-> farnasyl pyrophosphate (15C)
+
+2 farnasyl pyrophosphate ---(head-to-head)--> ???
+
+??? => 3-carbon ring! => PPi leaves, have carbocation => carbocation moves => NADPH reduces
+    "and that's how the head-to-head condensation works"
+
+now we have squalene; just a few bonds away from cholesterol
+
+squalene + O2 + NADPH -> H2O + NADP+ + an epoxide   (condensation, NOT oxidation!)
+
+the epoxide -> many carbocations!!! "carbocation cascade" -> pre-sterol cation
+    (all of the preceding reactions are the same across plants, animals, and fungi)
+
+
+pre-sterol cation -> -> -> -> -> stigmasterol   (plants)
+pre-sterol cation -> -> -> -> -> cholesterol    (animals)
+    (12 NADPH -> 12 NADP+)
+pre-sterol cation -> -> -> -> -> ergosterol     (fungi)
+
+Accounting:
+    18 Acetyl-CoA + 12 NADPH -> -> -> 12 NADP+ + 6 mevalonate
+    6 mevalonate + 18 ATP -> -> -> 18 ADP + 6 isopentyl-PPi + 6 CO2
+    4 isopentyl-PPi -> 2 geranyl-PPi + 2 isopentyl-PPi -> 2 farnesyl-PPi
+
+    2 farnesyl-PPi + NADPH -> 1 squalene + NADP+ + 2 PPi
+
+    1 squalene + NADPH + O2 -> pre-sterol cation + NADP+ + H2O
+
+    pre-sterol cation + 12 NADPH -> -> -> -> cholesterol + 12 NADP+
+    -----------
+    one cholesterol costs 18 ATPs + 26 NADPHs => costs alot
+    therefore, very heavily regulated (at formation of mevalonate)
+
+dolichol - flips sugar back and forth between sides of ER membrane (cytoplasm->lumen)
+
+---
+regulation of cholesterol pathway:
+
+HMG-CoA + NADPH --HMG-CoA reductase--> NADP+ + mevalonate
+
+insulin causes dephosphorylation of HMG-CoA reductase, and glucagon causes phosphorylation
+
+cholesterol is made on the surface of the ER
+    HMG-CoA reductase is tethered to cytosolic side of ER membrane
+
+"not in book!!! new - 2011"
+    Insig-1 gene turned on by insulin - binds cholesterol
+    when binds cholesterol, also binds HMG-CoA reductase
+    leads to ubiquination of HMG-CoA reductase => HMG-CoA reductase gets degraded
+    result: "if we already have cholesterol, we don't make more"
+
+    SREBP and SCAP
+        also mediated by Insig-1
+        transcriptional regulators of cholesterol biosynthesis
+        if no cholesterol, SCAP cuts SREBP, releasing a cytoplasmic domain of SREBP
+        SREBP fragment goes into nucleus, and turns on cholesterol synth transcription
+
+        when there is cholesterol, SCAP and SREBP bind tightly to each other
+
+cholesterol permits LDL-mediated endocytosis
