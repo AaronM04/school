@@ -1,0 +1,44 @@
+2013-04-23 Tues
+-------------------
+Lecture 7
+
+[20 min late]
+
+Review:
+    Anterior-posterior polarity of the nervous system:
+        retinoic acid
+
+    the notochord is secreting Shh
+
+examples of adhesion molecules expressed on growth cones (all assoc.
+intracellularly w/ cytoskel. elements)
+
+two mechanisms or cell/growth cone navigation
+    (we already covered 1)
+
+    2. guidance by gradients of diffusable molecule
+
+how does it all fit together?
+    "as devel. proceeds, the growth cone preferences may change"
+
+LN(laminin) spots
+    guide-post spots that disappear after they are no longer needed
+    but "just a correlation"
+    "experimentally, you want to perturb the system, and see what happens"
+    Result: laminin is necessary for neural crest migration
+
+---
+mix & match alpha & beta:
+alpha1 beta1 is a receptor for collagen
+alpha6 beta1 -> LN (laminin)
+alpha4 beta1 -> fibronectin
+alphaV beta3 -> vitronectin
+
+these are transmembrane receptors
+    ***bind ECM on the outside of the cell; when they do, causes assoc. w/ cytoskel. on inside
+
+signaling molecules
+    LN bound its integrin (alpha6 beta1) => activates FAK125 (a focal adhesion kinase) =>
+        activates signaling cascade
+
+integrins "integrate" the ECM and the cytoskel.
