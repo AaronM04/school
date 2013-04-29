@@ -1,0 +1,89 @@
+2013-04-29 Mon
+-----------------
+Lecture 12
+
+fluidity
+selective permeability
+50%+ protein component
+asymmetric
+
+dielectric constant
+    permittivity of a medium to charge
+    minimizing an electric field is favorable
+
+H2O has a high dielectric constant, meaning it can permit a charge - minimize electric field
+
+when counter-charges come near, the electric field is reduced
+
+lipids have a very low dielectric constant
+
+deltaG = 167 kJ/mol to move Na+ from water into lipid ~ 5 ATPs worth of energy
+    this is why ions don't go through membranes
+
+consider water moving across a membrane:
+    the main thing is breaking of H-bonds
+    1 H-bond -> 0 H-bonds  deltaG ~ 6 kJ/mol - unfavorable, but not terribly so
+    for a whole water molecule, it's about 6-20 kJ/mol
+
+hydrophobicity
+    the more hydrophobic you are, the more permeable you are
+
+size
+    if you have something big, and you put it in the membrane, it will affect its properties
+
+    must find "free volume"
+    the membrane has to distort to make room
+    this distortion leads to an inc. in surface area btwn. water and lipid components
+
+movement of a proton across a membrane down its gradient
+    deltaG = RT ln [Cend]/[Cinitial] + z F (E'0end - E'0initial)
+    R = 8.315 J/(mol K)
+    T = absolute temp.
+    Cend and Cinitial are ending and initial concentrations, respectively
+    z = charge of solute
+    F = 96.5 kJ/(mol V)
+
+    common membrane potential: E'0inside - E'0outside = -0.07 V
+
+---
+transporters
+    ion channels
+    "facilitated diffusion" channels
+
+    ion channels - discriminates among solutes
+
+    glucose transporter in RBCs
+        blood has higher conc. than cytosol
+        glucose passively diffuses into cell
+
+    primary active transporters
+        ATP -> ADP + Pi
+        moves solute against its electrochem. gradient
+        Na+/K+ ATPase - most important of these
+            burns 1 ATP, moving 3 Na+ from inside to outside, and 2 K+ from outside to inside
+            Na+ is uphill both chemically and electrically; K+ is about even
+
+    secondary active transporters
+        move two solutes, either in same or in opposite directions
+        one moves against electrochem gradient, and other is moving with electrochem grad.
+            coupled!
+
+        AA import coupled to Na+ import - the Na+ gradient was created by Na+/K+ ATPase
+
+    gram negative bacteria
+        two membranes
+        fiercely compete for vitamin B12; not easy to synthesize
+            how to transport?
+                no primary transport since no ATP between the membranes
+                no secondary transport because ???
+                answer: colicins
+
+            colicins are toxins; they kill other bacteria (their competitors)
+                bind receptor on outer membrane, get through, use proton motive force to
+                get through inner membrane
+
+            the TonB mutant can't take up vitamin B12
+
+        new type of transport discovered!
+            ExbB and ExbD in inner membrane - harvest proton-motive force
+            TonB is a long rod that moves back and forth - mechanical transport

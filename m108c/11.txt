@@ -1,0 +1,91 @@
+2013-04-26 Fri
+---------------
+Lecture 11
+
+Liver
+    VLDL - very low density lipoprotein
+    exocytoses chylomicrons into the blood
+
+chylomicron:
+    inside: TAGs
+    apolipoproteins and glycophospholipids in the outermost layer
+
+apolipoproteins we will cover:
+    ApoB100
+    ApoE
+    ApoCII
+
+chylomicrons travel through blood
+when they get to cell membrane:
+    lipase binds to ApoCII
+
+VLDL gets converted to LDL, because it lost some fat - hydrophobic core shrinks
+    this shrinking causes ApoB100 to become accessible on the surface
+    this is a cell that is hungry
+
+ApoB100 interacts w/ LDL receptor, causing endocytosis of the whole thing
+    this is a cell that needs cholesterol
+
+but suppose that cells are well fed - ApoE mediates endocytosis into the liver
+
+what happens if there's too much cholesterol in a cell?
+    liver makes HDLp - HDL precursor - just protein
+    a cell endocytoses HDLp, packs w/ cholesterol, and exocytoses - actual HDL
+
+specialized transport system for adrenal glands and gonads:
+    take cholesterol from HDL without endocytosis
+    cholesterol used to make steroid hormones
+
+VLDL -> free FA
+    or
+FA bound to albumin -> free FA
+
+the free FA gets transported by the FATPs (fatty acid transport proteins)
+    we don't know much about this
+    albumin has very high affinity for FAs - how do we get the FA off?
+
+on the cytoplasmic side, CoA + ATP + FA -> CoA-FA thioester
+
+CoA-FA + carnitine -> acylcarnitine + CoA
+
+carnitine is the transporter through the mitochondrial membrane
+    antiporters on both outer and inner membrane have free carnitine going the other way
+    once inside, beta-oxidation
+
+---
+steroid hormones
+
+cholesterol - very hydrophobic - only has an -OH
+    increase membrane stability at interface
+    increases membrane fluidity
+
+cholesterol + NADPH + 2 O2 ---mixed-fcn-oxidase--> (two -OH added) + NADP+ + 2 H2O
+
+(two -OH added) + O2 ---desmolase--> pregnenalone + 2 H2O + NADP+ (book has
+                                                                typo - only one H2O in book)
+
+pregnenalone is precursor to all steroid hormones - has carbonyl
+    many pathways off of it
+
+testosterone vs. estradiol
+
+7-dehydroxycholesterol --UV light--> ??? -> vitamin D3 (not done yet)
+    vitamin D3 need for:
+        calcium transport
+        immune system function
+
+hormones need to be more hydrophilic than cholesterol
+
+---
+phospholipids can flip from one leaf to the other - not favorable
+rapid lateral diffusion, on the other hand
+
+membranes
+    - fluids
+    - lateral diffusion
+    - ~50% of mass is protein
+        perhaps most of biology happens here, but membrane biochemistry not well studied
+    - selectively permeable
+
+leaflets are asymmetric - head groups, protein content, glycosylation
+    glycosyl groups only presented to outside of cell
