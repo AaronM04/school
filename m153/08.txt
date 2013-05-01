@@ -1,0 +1,112 @@
+2013-04-30 Tues
+-------------------
+Lecture 8
+[10min late!]
+
+Adhesive gradients do not direct growth cones (laminin gradient)
+    above the minimum, growth cones are happy, regardless of level
+
+Netrin-1 - synthesized by floor plate
+    dorsal commissural interneurons send axons down to floor plate
+
+    experiments:
+        cut out these neurons, along with floor plate => axons migrate to floor plate
+        cut out these neurons, put next to Cos cells
+        expressing Netrin-1 => axons migrate toward Cos cells!
+
+wnt-4
+    once dorsal cell axons get to the floor plate, they move up wnt-4 gradient (anterior)
+    evidence: can place Cos cells expr. wnt-4 at posterior => axons move posterior
+        tz3 knockout => axons move randomly
+
+ventral neurons are repelled by a netrin gradient
+
+cAMP levels in the growth cone control whether Netrin is attractant or repellant
+    high - attractant
+    low - repellant
+
+----
+cytoskeleton
+
+microtubules
+actin filaments
+neurofilaments
+
+non-ionic detergents can solubilize plasma membrane, but do not denature proteins
+    you get a fibrous network that goes all the way out to the p.m. - cytoskel.
+
+MTs are non-covalent polymers
+    assembled from alpha- and beta-tubulin subunits, plus "MAPs"
+    ~25nm in diameter
+    alpha-beta-tubulin heterodimer - main component
+    MAPs - microtubule associated proteins
+        also tau, hi MW MAPs - these regulate MT dynamics
+        kinesin, dynein - molecular motors
+
+    MTs are found in bundles in the axons
+
+MFs - actin and actin-assoc. proteins
+    8nm diameter
+    actin polymers
+    G-actin ~ 43 kDa protein
+    also very dynamic
+
+neurofilaments - "a very small part of our story"
+    more relevance in adult than in developing neurons
+    3 NF proteins
+    relatively static
+
+filopodia "are all about the actin cytoskeleton"
+    need ligands binding to receptors to maintain the actin
+
+in axons, around the MTs - just underneath the membrane:
+    cortical sheath of actin filaments
+
+a small number of MTs _are_ making their way out to the edge of the growth cones
+
+rhodamine-tubulin (fluorescent)
+    microinject into axon
+    take laser beam, blast area in center - tubulin is fine, but rhodamine is bleached
+    let some time pass...
+    where is the bleached region now? in the same place!
+        easy interpretation: MTs are being built up at the growth cone (not sliding along)
+
+what about the membrane?
+    look at specks of dust on the membrane - do they move over time? yes!
+        easy interpretation: membrane is being added everywhere, not just near growth cone
+
+how does cytoskel. promote growth cone mobility?
+    drug studies:
+        neurons in culture, treat w/ NGF => nice neurite outgrowth => add drugs that disrupt
+        the cytoskel => what happens?
+
+        add colchicine/vinblastine/... (MT disruptors):
+            2 hrs of vinblastine => neurites are gone
+        
+            interp: need MTs to maintain neurite structure, BUT this is too
+            dramatic to be helpful
+
+        neurons on plastic dish
+            treat w/ cytochalasin - disrupts actin MFs => complete collapse of neurites
+            therefore: MFs are also necessary to maintain neurite structure
+                again, too dramatic to be sure
+        
+        now, put neurons on polylysine (basic, cells love it b/c of sialic
+        acid), rather than plastic
+
+            repeat w/ cytochalasin => growth cone collapses, but neurites remain intact, and
+                                      still grow outward (but slowly)
+
+                this tells us: 1) MFs are essential for growth cone struct.
+                               2) MFs likely involved in outgrowth, but so is something else
+
+how do you move in a directed manner?
+    actin & MTs steer growth cones
+        growth cone turns in direction of most stable actin filaments
+        taxol - MT stabilizer - axon turns in direction of taxol
+        nocodazole - MT destabilizer - axon turns away from nocodazole
+
+    actin filaments are necessary to guide growth cones
+
+    MTs invade the "winner" filopodia
+
