@@ -1,0 +1,116 @@
+2013-05-02 Thurs
+------------
+Lecture 9
+
+PDF: IV Axon Outgrowth (continued)
+
+MTs grow and invade the "winner" filopodia
+
+if you take cells in culture and give them NGF, so you get nice neurites, and then give
+them a drug...
+    cytochalasin (targets actin MFs) + polylysine in dish => lose growth cone, but still
+                                                    get outward growth
+
+                            conclusion: need both MTs and actin MFs for growth cone
+
+need:
+    1. need recognition of good navigational cues by "winner" filopodia
+    2. mechanism for outgrowth of "winner" filopodia
+        requires both MFs and MTs
+
+        tension???
+
+dynamic polymers; always growing and shrinking - actually treadmilling
+
+inverse correlation btwn rate of MF retrograde flow
+and rate of forward growth cone movement
+
+suppose the following (made-up data):
+    1. cells on a plastic dish - flux rate = 1um/hr (rate of retrograde flow (treadmilling))
+                                    no neurite outgrowth
+
+    2. cells on polylysine surface - flux rate = 0.7um/hr
+                                    outgrowth = 0.3um/hr
+
+    3. cells on laminin           - flux rate = 0.2 um/hr
+                                    outgrowth = 0.8um/hr
+
+in winner filopodia:
+    integrins bind ECM (outside) and
+    integrins bind MFs (inside)
+        result: no more useless treadmilling! instead, pushing filopodia outward
+
+MTs growing toward the "winner" filopodia need to be stabilized
+somehow we need to crosslink the MTs and MFs
+    some protein is doing it, but we don't know which
+
+actin fibers in the central domain of the growth cone may physically restrict 
+the dynamic growing MTs from invading the the outer reaches of the growth cone,
+BUT the large stable MFs in the winner filopodia could make a channel/tunnel for
+those MTs headed in its direction
+
+    this may be analogous to chromosome capture by MTs during mitosis...
+
+MAPs - MT assoc. proteins
+AAPs - actin assoc. proteins
+    "these are really the regulatory proteins"
+
+MAPs -
+    tau - stabilizes MT dynamics
+          present in the growth cone
+          reduce tau => reduce outgrowth
+    SCG10 - destabilizes MTs
+          also critical for neurite outgrowth
+
+AAPs
+    >50 AAPs known
+    cofilin depolymerizes MFs
+    AAPs promote MF branches,
+    AAP tips/ends
+
+regulation of MAP+AAP
+    phosphorylation
+    multiple phosphorylation sites: "turn the light switch into a dimmer"
+
+---
+what about the tension?
+consider chromosome capture during mitosis:
+    how does the chromosome get pulled by the MT toward the polar body? MAPs!
+    maybe MAPs work the same way for filopodia tension
+
+---
+next PDF: V Target Selection
+
+fasciculation
+    pioneer axon
+    later axons just ride along the pioneer
+    the set of all these axons is called a fascicle
+
+defasciculation
+    <A wild type; B beat-1a mutant...>
+    CAMs
+        post-translational modification
+        CAMs - sialic acid => decrease the strength of CAM-CAM association
+
+visual system
+    ganglion cells in the retina send axons back through the optic nerve to the tectum (brain)
+
+    how is positional information from the retina conveyed to the brain (tectum)?
+        you get a topographic map
+        the growth cones of the ganglion cells have very specific targets in the tectum
+        Roger Sperry
+            control:
+                in a frog, you can cut the optic nerve; everything on the tectum side
+                will degenerate
+                after a while, the whole thing regenerates, and the frog gets perfect vision
+            experimental:
+                1. let the optic system set up
+                2. cut optic nerve
+                3. rotate retina 180 degrees
+                4. let regeneration proceed
+
+                if there are sites on the tectum that are molecularly recognized by the
+                growth cone, then vision should be altered by 180 degrees
+                
+                    this is in fact what happens: the frog with the rotated retina sticks
+                    its tongue in the wrong direction
