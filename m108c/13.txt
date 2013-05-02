@@ -1,0 +1,117 @@
+2013-05-01 Wed
+-------------
+Lecture 13
+
+membrane proteins
+
+integral membrane proteins - can't be removed without disrupting the membrane
+    lateral diffusion, just like phospholipids
+    flipping is unfavorable
+
+peripheral membrane proteins - weakly assoc. or tethered to some hydrophobic group
+
+consider one step of ETC in green plants:
+    electrons coming thru cytochrome b6f (pumping protons) => plastocyanin => PS1 (where they
+                                                                recharge special pair)
+
+        constraining diffusion to 2 dimensions makes the "searching" more efficient
+
+if there's an alpha helix going through the plasma membrane, the AAs will be hydrophobic
+
+hydrophobic AAs
+    leucine
+    isoleucine
+    valine
+    phenylalanine
+    methionine
+
+weakly hydrophobic AAs (weak mostly because of less surface area)
+    alanine
+    cysteine
+
+bioinformatically, you can identify the alpha helices going through membrane:
+    13-16 hydrophobic AAs
+
+amphipathic AAs (preferentially in interface btwn membrane and water):
+    arginine
+    tyrosine
+    lysine
+
+(for transporters only or for all trans-memb. proteins?)
+    you have a cylinder made of ~6 alpha helices
+        the inside has hydrophilic AAs
+        the outside has hydrophobic AAs
+
+---
+there's another class of integral memb. protein
+    found in outer membranes of Gram-negative bacteria and mitochondria
+    integral membrane beta barrels
+    beta sheet rolled into a cylinder
+
+    no long stretches of hydrophobic AAs - instead, alternating(?)
+
+---
+peripheral membrane proteins
+
+covalent modification
+    palmitoylation (palmitic acid)
+        internal cysteine forming a thioester bond to palmitate
+        reversible process!
+
+    myristoylation
+        common in bacteria
+        protein's N-terminal
+        irreversible
+
+    farnesyl/geranylgeranyl
+        C-terminal cysteine
+
+can have a hydrophobic alpha helix tethering protein to membrane
+also ionic interactions with head groups
+
+the above are intracellular because not really stable
+
+can also have extracellular:
+    GPI-linkage - tether a protein to the outside of the cell
+    C-terminal of protein hooked up in an amide bond to ethanolamine
+
+----
+membrane asymmetry
+
+lipid rafts - common in animal cells (not present in bacteria)
+    a little piece of the membrane that is a bit thicker
+    larger hydrophobic domains
+    rich in sphingolipids with long acyl chains attached to them
+    also higher cholesterol content
+
+    purpose:
+        transmembrane proteins with longer hydrophobic domains are stuck in the lipid rafts
+            GPCRs (G-protein coupled receptors)
+                advantage: more rapid responses
+        likewise, transmemb. proteins w/ shorter ones can't get in
+
+another kind of asymmetry is inside vs. outside
+    only well characterized in animals
+    
+    sphingolipids, phosphatidylcholine
+
+    glycosylated lipids preferentially on outer face
+
+    inner membrane tends to have phospholipids
+        preferential head groups: serine, ethanolamine, inositol
+
+    also, integral membrane proteins have a preferred orientation, and can't flip around
+
+----
+E'0inside - E'0outside = -0.07 V
+
+145mM Na+ outside
+12mM Na+ inside
+
+consider the deltaG of transporting Na+ from outside to inside
+    deltaG = RT ln [Cout]/[Cin]  +  z F (E'0out - E'0in)
+                ln 12mM / 145mM
+                    -2.5
+                -6.44 kJ/mol
+                                    +1 * 96.5 kJ/(V mol) * -0.07V
+                                            -6.76 kJ/mol
