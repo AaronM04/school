@@ -1,0 +1,100 @@
+2013-05-03 Fri
+---------------
+Lecture 14 - nitrogen assimilation
+
+huge source of nitrogen on earth (N2 gas), but most organisms can't use it because of
+triple bond
+
+plants
+    absorb NH4 or NO3 through roots
+    or symbiotic relationship w/ bacteria
+
+bacteria
+    assimilate NH4
+    start or end e- flow
+    fix N2 -> 2 NH4 (symbiosis w/ plants)
+
+heterotrophs (e.g., humans)
+    eat nitrogen - glucosamine, AAs, nucleotides
+    problem: excretion of nitrogen waste
+
+Nitrosamonas - bacteria that take e- from N (NH4 or other forms)
+    NH4 + O2 + 2e- -> NH2OH (hydroxylamine) + H2O -> NO2 + 2e- (feeds back into beginning)
+                                                    plus another 2e- we can use,
+                                                                (Q cyc=>reduces NAD+ to NADH)
+                                                    plus 5 H+
+        builds proton gradient
+
+voltages:
+    NH4     -0.1V
+    NH2OH   +0.2V
+    NO2     +0.4V
+    Q cycle +0.5V
+
+    problem: NAD+ is -0.33V
+    solution: reverse electron transport - energy from proton-motive force is
+        used to power the reduction of NAD+ to NADH
+
+        another problem: where does the energy come from?
+        soln: actually, only a small percentage of electrons used for this purpose; most
+        of them go to another complex, where O2 is reduced to H2O (+0.8V)
+
+    "all this is inefficient, so these bacteria grow really, really slowly"
+
+    a second bacteria (nitrobacter) grows "in cahoots w/" Nitrosomonas that does NO2 -> NO3
+
+another kind of bacteria, which we won't cover, takes NO3 to N2
+
+rhizobia + cyanobacteria can fix N2, but activation energy is +932 kJ/mol
+    N2 + 8 H + 8e- -> 2 NH4 + H2
+        consumes 16 ATP
+        -33 kJ/mol - favorable rxn, so why using ATP? activation energy!
+
+    dinitrogenase - "shoves" e- onto N2; has molybdenum (Mo)
+    dinitrogen reductase - gets high energy e- onto dinitrogenase, one electron at a time
+        2 ATP's bound to dinitrogen reductase
+        the hydrolysis of ATPs "lifts up" the e- to a high energy
+
+    after dinitrogenase, we have H-N=N-H
+        H-N=N-H + 2e- + 4 ATPs -> H2N-NH2 (hydrazine)  + 2e- + 4ATP -> 2 NH4
+
+    because of this energy cost, no organism can fix nitrogen without being fed!
+        requires symbiosis
+
+    rhizobia recruited into root nodules in some plants (legumes)
+        the outside of the nodules has heme to capture oxygen, keeping it out
+        the bacteria get sugar from the plants
+        the plants get NH4 from the bacteria
+
+    cyanobacteria (in ocean):
+        every 9 or so green cells, you'll see one clear cell
+        the clear cell is a heterocyst - fixes N2
+        differentiation, not symbiosis, since they have same genetics (from common ancestor)
+
+---
+how plants use nitrogen
+
+if they get NO3, they just reduce it to NH4 before assimilation
+
+glutamine synthetase
+    -OOC-C-CH2-CH2-COO- + ATP -> glutamyl-(P) (phosphate on R group carboxyl)  + ADP
+         |
+        NH3
+    
+    phosphate is a good leaving group, so NH3 replaces it => you get glutamine
+
+glutamate synthase (not a "synthetase" since doesn't use ATP)
+    (reductive amidotransferase)
+
+    alpha-ketoglutarate (like glutamate but ketone instead of amine group)
+
+    alpha-ketoglutarate + glutamine -> 2 glutamates (one is used, one goes back into cycle)
+
+why do we have glutamine synthetase? because ammonia needs to be detoxified
+
+one big enzyme with two active sites and a channel between them:
+    glutamine at one active site; alpha-ketoglutarate at the other
+    cysteine near glutamine R group attacks the ketone C, releasing NH3
+    the ammonia travels through the channel and attacks alpha-ketoglutarate => imine
+    the imine gets reduced to glutamate using NADPH
+    then, release glutamate from the Cys at the other site
