@@ -1,0 +1,152 @@
+2013-05-07 Tues
+---------------------
+Lecture 10
+
+[15 min late!!!]
+
+Neuronal Specificity Theory
+    ###
+
+Size Disparity Expts.
+    retina vs tectum
+    cell bodies in left retina form synapses on right tectum, etc.
+
+    half a retina - early(what you expect) - late: "expansion" - fill whole tectum
+    half a tectum - early: one half of retina is "out of luck" - late: "compression":
+                                                            the other half squeezes in
+
+    result: clearly not a lock-and-key, or we would not get expansion/compression
+        axons are retaining their _relative_ positions
+
+Sperry postulated the existence of two or more cytochemical gradients "that spread across
+and through each other w/ their axes perpendicular"
+    maybe an axon needs to be high-green low-red or high-green high-red, etc.
+
+    ephrines - viewed as ligands
+    eph      - viewed as receptors "this is arbitrary, because both are
+                                    membrane-bound proteins"
+    ephrines repel the axons w/ eph
+
+    in tectum (see book figure):
+        high conc. of ephrins in posterior region; low ephrin in anterior region
+
+    need two sets of gradients: one gradient set in retina and one set in tectum
+
+somatosensory representation of the motor cortex
+    topographic map
+    changeable! [see slides on amputation]
+
+summary
+    1) gradients and cell adhesion molecules (CAMs) guide target selection
+    2) topographic maps
+
+
+--------
+new PDF - lecture set 6
+
+developmentally regulated neuronal survival and neuronal cell death
+
+what has happened so far? (recurring slide)
+    ...
+    axon outgrowth
+    ***programmed cell death
+    ***target selection & synaptogenesis
+    ...
+
+outline
+    ###
+
+1909 - ML Shorey
+    ~3 day chick embryo
+        has limb buds
+        can take a fine needle and remove a limb bud
+        can take a limb bud off one embryo and attach it somewhere on another embryo
+            "supernumerary limb"
+
+        is there relationship btwn targets of innervation and the pool of innervating neurons?
+            result: many fewer neurons in the region of the spinal cord that would
+            normally innervate ###
+
+            not very quantitative, unfortunately
+
+1920 - Detwiler
+    does both limb ablation and limb addition
+    "didn't even try to count"
+
+model:
+    targets of innervation "recruit" otherwise naive cells to become neurons
+
+    one possible mechanism ###
+
+---
+2. viktor hamburger - naturally occurring cell death
+    rigorously quantitative!
+
+    key Hamburger expts in the 1940s - reduced and extra target material
+
+    data from supernumerary expts:
+        no diff for 6 day embryos
+        12d - significantly more neurons for experimental than for control
+        19d - also sig.
+
+        something here is very inconsistent w/ recruitment model:
+            the total number of neurons drops 6d -> 12d -> 19d
+
+    Hamburger proposes:
+        neuron degeneration causes reduced numbers, not lack of "recruitment"
+        also, cell death occurs not only as limb ablation, but as a normal feature of devel
+            (received w/ hostility!)
+
+    additional Hamberger expts in 1940s:
+        <limb buds @ day 4.5; less cell death in limb DRG>
+        you get more cell death when there is less to innervate
+
+    lots more data starts being acquired
+
+clues: cell death occurs over fairly brief window of time
+    around time when growth cones are newly arrived at target
+
+    also, all neurons appear to have equal chance of survival in the beginning
+
+summary
+    1. cells send axons to targets
+    2. some percentage of them die
+    ###
+
+    maybe there is a target-derived "survival factor" which is present in
+    limiting supply
+
+    predictions:
+        1. if number of neurons arriving at a single target increases, the
+        percentage of survivors should go down
+
+        2. if number of neurons arriving at a single target decreases, the
+        percentage of survivors should go up
+
+    testing 1:
+        each target can support only N neurons
+
+    ...
+
+    what is the rationale for this cell death?
+        really important to get it right, since nervous system is so important
+        the expense is justified
+
+        also an element of quality control - may the best neuron win
+
+3. defining molecular mechanisms
+    what molecules? are there lots of them? how do they work?
+
+    originally called "trophic factors" implying a nutritive function...
+
+    1948 - Bueker, working w/ Hamburger
+        big goal: identifying the molecules that regulate neuronal cell death in devel.
+
+        used fractionation to purify proteins - goes through sizing columns
+            different sizes in different tubes
+            the factor is in one of these tubes!
+            how could you know if a particular tube has the trophic factor?
+                inject into chick embryo and check for more survival - NOT PRACTICAL
+
+        problem w/ fractionation - it's not enough to isolate individual proteins
+        separate not just by size, but also charge, hydrophobicity, etc.
