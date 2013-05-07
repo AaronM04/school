@@ -1,0 +1,108 @@
+2013-05-06 Mon
+----------------
+Lecture 15
+
+NH4 + glutamate + ATP ---glutamine-synthetase--> glutamine
+    phosphate is a leaving group to allow ammonia to attach to glutamate
+
+glutamine + alpha-ketoglutarate + NADPH --glutamate-synthase--> 2 glutamate
+
+alpha-ketoglutarate + NH4 + ATP + NADPH --> glutamate
+
+glutamine synthetase regulation
+    responsive to biosynth. pathways that require N
+
+    responsive to energy needs of the cell
+
+    "one of the cooler, really efficient mechanisms of reg."
+    "incredibly elaborate"
+
+    allosteric inhibition
+        sort of like a rheostat (multiple binding sites, variable levels of activity)
+
+        glycine/alanine -> AAs - no nitrogen in their side chains
+
+        AAs w/ nitrogen in side chains:
+            histidine - 9 dedicated steps
+            tryptophan - ~12 dedicated steps
+
+        AMP - purine biosynth. (nucleotides)
+
+        CTP - pyrimidine biosynth. (nucleotides)
+
+        carbamoyl-(P) - required for synth. of arginine, and pyrimidines
+
+        glucosamine-6-(P)
+
+uridylyl transferase
+    inhibited by Pi (a sign we don't have much ATP)
+    inhibited by glutamine (a sign we have a lot of N)
+    enhanced by ATP and alpha-ketoglutarate
+
+
+P_II --UT--> P_II-UMP (conjugated to a tyrosine)
+P_II <--UR-- P_II-UMP     (UR is not regulated, but slow)
+
+Gln synth has active and inactive form based on adenylation on a Tyr
+
+AT = adenylyl transferase
+Gln synth active + ATP --P_II-AT--> Gln synth inactive (conj. to AMP)  + PPi
+
+Gln synth inactive + H2O --P_II-UMP-AT--> Gln synth active  + AMP
+
+so, AT has hydrolase activity OR transferase activity, depending on presence of UMP
+
+high ATP and high alpha-ketoglutarate (low N)
+    UT is active
+
+    P_II -> P_II-UMP
+
+    P_II-UMP binds AT, gives AT hydrolysis activity
+
+    AMP is hydrolyzed from Gln synth
+
+    activation of Gln synth
+
+    UT is inhibited; we only have P_II activity => binds AT and promotes transferase activity
+        P_II-AT adenylates Gln synth => inactivation of Gln synth
+
+NR_I (inactive state)  <-- transcription factor
+    gets phosphorylated by NR-II (a kinase), becomes active
+    NR-I-(P) activates transcription of Gln synth
+
+    but if NR-II is bound to P_II, it has phosphorylase activity, not kinase activity
+        deactivates NR-I by dephosphorylation
+
+    P_II-UMP cannot bind NR-II
+
+putting it all together:
+    P_II-UMP cannot bind NR-II
+    NR-II is a kinase
+    NR-I -> NR-I-(P)
+    NR-I-(P) is active transcription factor
+    increased expr. of Gln synth gene
+    more nitrogen assimilated!
+
+    -----OR-----
+    P_II binds NR-II
+    P_II-NR-II complex is a phosphorylase
+    NR-I-(P) -> NR-I
+    NR-I is inactive
+    no transcription of Gln synth gene
+    less nitrogen assimilated!
+
+
+
+---
+
+test:
+    avg 63.7   - divider btwn B and B-
+    s.d. 10.7
+    hi 89
+    lo 36
+
+    considering only digital media users:
+        smaller sample set
+        avg 59.5  (not significant diff)
+        hi 76
+        lo 36
