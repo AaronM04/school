@@ -1,0 +1,70 @@
+2013-05-08 Wed
+-----------------
+Lecture 16 - amidotransferases + transamination reactions
+
+amidotransfer reactions
+    N comes from side-chain of glutamine
+
+    NH3 lone pair attacks a ketone -> -> an imine (H2O comes off)  [look in book]
+
+    what if an N is neighboring the ketone instead of C? resonance:
+        R'-N-C=O-R <-> R'-N=C(-O-)-R + ATP -> R'-N=C(-R)-O-(P) + NH3 -> R'-N=C(-R)-NH2
+
+transaminations
+    usually use glutamate (becomes alpha-ketoglutarate)
+    cofactor: pyridoxal phosphate
+    -OOC-C=O-R' -> -OOC-C(-NH3)-R'
+
+    pyridoxal phosphate:
+        Enzyme's Lys-N=C-(complicated substituted benzene) + glutamate
+        glutamate's -NH3 lone pair attacks a C
+
+    a C in pyridoxal phosphate gets reduced, and the C in glutamate gets oxidized
+
+    now, let's bring in pyruvate; "now, all the reactions go backwards"
+
+alpha-amino acids
+    pyruvate + glutamate -> alanine + alpha-ketoglutarate
+    hydroxypyruvate + glutamate -> serine + alpha-ketoglutarate
+    oxaloacetate + ... -> aspartate + ...
+
+---
+tryptophan: -OOC-C(-R)-NH3
+    the R is pretty much built one carbon at a time
+    12 dedicated reactions
+
+histidine
+    also hard to make
+    9 dedicated reactions
+
+Essential AAs
+    "pretty much any AA that's hard to make, we don't do it"
+    W tryptophan
+    T threonine
+    F phenylalanine
+    H histidine
+    V valine
+    Y tyrosine
+    M methionine
+    I isoleucine
+    L leucine
+    K lysine
+    also arginine, kind of - we can make most but not all of what we need
+
+purines: adenosine + guanosine (inosine)
+pyrimidines: cytosine, thymidine, uridine
+
+"part of pentose phosphate shunt"
+
+ribose-1-(P) + ATP -> PRPP: ribose-1-(P)-(P) + AMP
+        PRPP not just for nucleotide synth, but also for other things (at least in bacteria)
+
+PRPP ---amidotransfer--> phosphoribosylamine + PPi
+            or
+PRPP + base -> ribose-base + PPi
+
+-> -> -> -> -> -> inosine monophosphate (2 N came from amidotransferases)
+                    also contains an entire glycine
+
+inosine monophosphate + ATP -> ??? + aspartate -> adenylsuccinate + Pi
+adenylsuccinate ---lyase--> fumarate + ???
