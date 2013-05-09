@@ -1,0 +1,134 @@
+2013-05-09 Thur
+-----------------
+Lecture 11
+
+[5 min late!]
+
+review:
+    earliest model - "recruitment"
+    key Hamburger expts in 1940's
+        reduced and extra target material
+
+    not recruitment! cell death
+        and not just in experiments, but also in normal devel!
+
+    cells/axons that have at least a threshold amount survive; the others die
+    "competition model" - competition for a limited amt. of survival factor
+
+3. defining mol. mechanisms
+
+1948 - Bueker, working w/ Hamburger
+    goal: what is this target factor?
+    need a lot of starting material!
+        why not use tumor cells? weird - sometimes make proteins they shouldn't
+            mouse sarcoma 180 worked
+                grew well; axons changed direction to go into tumor!
+                maybe it's making a survival factor
+    
+    is survival factor a diffusible substance?
+        put tumor on other side of allantoic membrane instead of in embryo
+        still get an effect on ganglia? yes, so not dependent on direct contact
+
+    biochemical purification:
+        1) abundant starting material - sarcoma 180
+        2) fractionation procedures
+        3) a reliable, quick, and at least semi-quantitative assay
+        they were not very good biochemists - brought in Stanley Cohen
+
+    fractionation procedures (not in PDF prior to today):
+        material --homogenize--> column w/ resin for size -> many tubes ("fractions")
+        take tube we want -> another column - resin for hydrophobicity -> many tubes
+        ...eventually you have a purified preparation of a molecule of interest
+
+    need an assay:
+        take dorsal root ganglia and put into culture
+        with survival factor - they will put out axons overnight
+        from one animal you can get a lot of ganglia
+
+<so, what happens next?>
+    preparation had both protein and nucleic acid
+    Washington University - Arthur Kornberg:
+        one of early pioneers to understanding enzymology and DNA replication
+        PDE (phosphodiesterase) - chews up and breaks phosphodiester bonds
+        snake venom
+
+take sample --"halo assay"--> halo
+take sample --treat w/ PDE--> if nucleic acid, won't get halo, but will if protein
+
+result, treating w/ PDE gives us a much bigger halo! wtf!
+
+new experiment: just treat with PDE -> huge halo
+    hmmm, maybe PDE itself can act as a survival factor
+    the preparation of PDE was crude! maybe a contaminant is responsible
+    what was starting material for this phosphodiesterase? snake venom
+    turns out snake venom has way more neural survival factors than sarcoma 180
+    lots of survival factor in _male_ mouse salivary glands
+
+what's the effect of NGF in a real animal?
+    if we add extra NGF, neuronal cell death should decline and neuronal survival
+    should increase
+        observations:
+            1. increased neuronal survival
+            2. chemotaxis - growth of axons to site of injection (just like the tumor)
+        so, prediction #1 is fulfilled
+    how about eliminating NGF? no knockouts in 1960's
+    first use of function-blocking Ab's!
+    (at the time, they didn't know fcn-blocking Ab's were rare)
+    the ganglia were pretty much obliterated
+
+    immunosympathectomy - complete destruction of sympathetic nervous system
+    no effect on motor neurons or brain
+
+    this expt. provides physiological relevance to NGF
+
+NGF is a target-derived trophic factor
+people very happy w/ this model in the 1970's even though:
+    predictions 3 and 4 had not been addressed, because of tech limitations
+    no info on how NGF works
+    what about CNS?
+    eventually, learned how to make mg quantities of NGF...
+
+mid-1980's:
+    devel. of more sensitive assays - detect low quantities of NGF and NGF mRNA
+    1. isolation of NGF cDNA for use as a probe to detect NGF mRNA on RNA blots
+        (i.e., "Northern blots")
+        "this was all happening at UCSF"
+
+in Germany (Max Planck inst.):
+    mAb's against NGF that were very sensitive
+    where is NGF synthesized? does it correlate w/ symp/sensory innervation?
+        even in adults, neurons are totally dependent on NGF
+        densely innervated targets
+            ~1ng NGF per gram wet weight
+        poorly innervated targets
+            below detection threshold (0.3ng/gm wet weight)
+
+    in ganglia:
+        despite the very high levels of NGF in these ganglia, there is _no_
+        NGF mRNA! how is this possible?
+            transported back along axon toward cell body
+            (where it gets degraded, but a lot accumulates)
+
+UCSF - Lou Reichart
+    first American to climb K2 (also without O2)
+    "a little idiosyncratic"
+
+    found lots of NGF mRNA in a couple of regions of the brain, incl.
+    hippocampus and neocortex (cholinergic); why no effects in immunosympathectomy expt.?
+        couldn't cross blood-brain barrier (BBB)!
+
+Alan Davies - England
+    prediction #4 - NGF must be synth. in targets at the right time in devel.
+        yes!
+        but, it can't be NGF that is attracting the axons - NGF protein synth happens too late
+
+        either another attractant or another source of NGF
+
+    hypothesis: might the arrival of the first growth cones be a signal to start making NGF?
+
+Dennis Clegg - UCSB:
+    heart devel./innervation
+    neurons innervate the heart; heart releases NGF
+    if you kill off these neurons, then you prevent growth cones from ever reaching heart
+    does heart still make NGF at the right time? yes, it does!
+        the hypothesis is wrong
