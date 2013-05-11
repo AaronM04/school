@@ -1,0 +1,93 @@
+2013-05-10 Fri
+------------------
+Lecture 17 - purine & pyrimidine biosynth.
+
+ribose-5-(P) + ATP ---> PRPP + glutamine + H2O -> phosphoribosylamine + glutamate + PPi
+
+phosphoribosylamine -> -> -> -> -> IMP -> -> -> AMP or GMP
+            (there are 3 steps that burn ATP without being required - makes go faster!)
+
+they never saw the phosphoribosylamine product accumulate
+    the problem is that it hydrolyzes very rapidly
+
+purinosome
+    all the above enzymes in a complex
+    the enzymes appear to have substrate channels "that go to nowhere" (unless in complex!)
+
+--
+
+IMP (inosine monophosphate) is common precursor for AMP and GMP
+
+IMP + GTP -> ### -> ---lyase--> ###     [AMP path; look up in book]
+
+can also make GMP [look up in book]
+    we gain reducing power (NAD+ -> NADH)
+
+if we want to make more AMP, we use GTP power
+
+--
+regulation:
+
+AMP and GMP get phosphorylated to ATP and GTP
+
+"at any time, we need a reasonable pool of purine triphosphates around"
+
+when we're low on energy:
+    ADP --| (ribose-5-P -> PRPP)
+
+but just for regulation of purines:
+    PRPP -> phosphoribosylamine
+        inhibited by AMP, GMP, and IMP
+
+IMP -> -> -> AMP   <== first step inhibited by AMP
+    (and likewise for GMP)
+
+
+----
+pyrimidines
+"way easier than purines" :)
+
+carbamoyl-(P) + aspartate -> ??? + Pi
+??? -> dihydroorotate + H2O
+dihydroorotate + NAD+ -> orotate + NADPH     ("get a little reducing power")
+orotate + PRPP -> orotitilate(sic?) -> UMP + CO2
+    ("CO2's a fantastic leaving group")
+    UMP - first usable monophosphate
+
+for the pyrimidine biosynth, it's all linear
+
+UMP ---phosphorylate-twice--> UTP
+
+amidotransferase:
+    UTP + glutamine + H2O + ATP -> CTP + glutamate + ADP + Pi
+
+---
+need to make dNTPs for DNA!
+
+RNA can self-hydrolyze, because of its 2' -OH groups
+    promoted by heat
+
+therefore, for a stable storage medium, we must get rid of the 2' hydroxyls:
+    works with NDPs, not NTPs or NMPs (NDP -> dNDP)
+    (P)-(P)-ribose-base --ribonucleotide-reductase--> (P)-(P)-deoxyribose-base + H2O
+
+    ribonucleotide reductase:
+        primary allosteric reg. site  - on/off switch: ratio of ATP to dATP; turned on by ATP
+        secondary allosteric reg. site
+        active site
+
+    ###
+
+secondary regulatory site           active site specificity
+-------------------------           -----------------------
+    ATP/dATP bound                will only accept CDP&UDP -> dCDP&dUDP
+                                                    other enzymes do dUDP -> -> -> dTTP
+                                                        (targeted by some antibiotics)
+    dTTP                          will only accept GDP -> dGDP
+    dGTP                          will only accept ADP -> dADP
+
+result - approx. equal concentrations of all deoxynucleotides
+
+----
+MT 2 - a week from monday
+    second room!!! I will be in Buch 1910
