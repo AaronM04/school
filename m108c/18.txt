@@ -1,0 +1,120 @@
+2013-05-13 Mon
+----------------
+Lecture 18 - thymidilate synthase & nitrogen waste
+
+*** MT 2 is through first part of today (thymidilate synthase NOT nitrogen waste)
+*** through week 6-2 discussion sections
+
+CDP --ribonucleotide-reductase--> dCDP (+ NTP) --> dCTP (+ NDP)
+...and likewise for UDP, GDP, and ADP
+
+dCTP --deaminase--> dUTP    (helps maintain balance)
+dUTP --dUTPase--> dUMP      "important because we don't want uridine in our DNA"
+dUMP --thymidilate-synthase--> dTMP (+ NTP) -> -> dTTP (+ NDP)
+    (and this last product (dTTP) is what we want in our DNA)
+
+thymidilate synthase:
+    need source of fully reduced carbon to do methyl transfer to make dTMP from dUMP
+    cofactor (supplies the C): N5,N10-methylene THF
+    "pretty gnarly chemistry"
+
+    problem: the cofactor methylene is partially oxidized: N-CH2-N, but
+        we need fully reduced (-CH3)
+
+        soln: oxidize a C within the cofactor in the process (making double bond)
+            product is dihydrofolate; after this, reduced by NADPH to form THF;
+            then, get the methylene back from serine to get original cofactor
+            (+ glycine and water; catalyzed by serine hydroxymethyl transferase)
+
+this cycle is a good target for chemotherapeutics (especially thymidilate synthase)
+    also, THF involved in a lot of 1C transfers
+    ex: 5-fluorouracil; gets taken up by scavenging pathways => attached to ribose
+        we have 5-fluoro-dUMP; suicide substrate for thymidilate synthase!
+
+    dihydrofolate reductase is specific to thymidine production, so we can also target this
+        drugs: methotrexate - competitive inhibitor
+               trimethoprim - only binds bacterial enzyme
+                    an "end of the world" antibiotic
+
+
+----------------
+nitrogen waste
+
+amino acid catabolism
+metabolism of nucleotides
+
+stomach: protein ---pepsin--> 4 AA pieces (pH 0.8)
+duodenum: trypsin & chymotripsin: now at most 4 AA pieces (pH 7.0)
+small intestine: absorbed
+    in intestinal cells: broken down to individual AAs
+dietary AAs
+    recycle
+    metabolize for energy
+
+"drink a lot of water if you're on protein shakes - NO kidney stones!"
+
+AAs from blood:
+    first step is usually to get rid of the N somehow; ways we could do this:
+        transamination reactions
+        hydrolases/dehydrogenases - release NH4, which must be done sparingly (toxic)
+
+then, what do you do with the N?
+    NH4 + glutamate --glutamine-synthetase--> glutamine
+        (our version of Gln synthetase is always on, unlike in bacteria and plants)
+    glutamate and glutamine go into blood -> liver -> urea
+
+    but in muscle:
+        any glutamate around gets its N transferred, to make alanine
+        alanine -> blood -> liver
+
+in liver:
+    goal: lose as little C as possible (and preferably lose completely oxidized C)
+    glutamate + alanine -> alpha-ketoglutarate + pyruvate
+    also uptake glutamine
+
+    mitochondria takes Glu and Gln from cytoplasm:
+        to run urea cycle: need 1 aspartate and 1 NH4
+        Gln + H2O -glutaminase-> glutamate + NH4
+        glutamate + oxaloacetate -> aspartate + alpha-ketoglutarate
+
+        secondary rxn to keep balance btwn Asp&NH4: Glu -dehydrogenase-> NH4
+        
+    any steps w/ free NH4 must happen in mitochondria, but must steps of urea cycle
+    happen in cytoplasm
+
+    urea cycle:
+        [read book!]
+        mitochondria:
+        ### -(consume-ATP)-> carbamoyl phosphate
+        carbamoyl phosphate + ornithine -> citrulline + Pi  (ornithine comes from cytoplasm)
+        citrulline goes to cytoplasm
+        citrulline + ATP -> citrulline-AMP + PPi
+        citrulline-AMP + aspartate -> arginosuccinate + AMP
+        arginosuccinate(sic?) --lyase--> arginine + fumarate
+            ("this is how all organisms synth arginine; we only stop here
+              if we need arginine")
+
+        arginine + H2O -> urea + ornithine     (the ornithine completes the cycle)
+
+        urea is much less toxic than NH4
+
+        urea's carbon is completely oxidized :)
+
+---
+how do plants get rid of their nitrogen waste?
+    trick question: they don't ever have nitrogen waste! they _want_ nitrogen!
+
+how do fish get rid of their nitrogen waste?
+    NH4 diffuses from their gills
+
+    aspartate + IMP -> adenylsuccinate -> fumarate + AMP
+    AMP --deaminase-> IMP + NH4    (the IMP completes the cycle)
+
+how do birds & reptiles get rid of their nitrogen waste?
+    problem: waste must not be water soluble
+
+    uric acid! no urea cycle
+
+    aspartate + glutamine  -> -> -> (purine biosynth) -> IMP
+    IMP -> ribose-5-(P) -> hypoxanthine
+    hypoxanthine --hypoxanthine-oxidase-> uric acid
