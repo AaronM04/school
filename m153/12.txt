@@ -1,0 +1,119 @@
+2013-05-14 Tues
+----------------
+Lecture 12
+
+Review:
+    ppl very comfortable w/ this model in the 1970's even though parts have not been
+    verified
+
+    assays got better...
+
+    isolation of cDNA, then better antibody procedures
+
+    result: it looks like NGF is being synth in right place at right time, and in
+    right proportions
+
+NGF promotes cell survival for sympathetic and sensory neurons
+what about the CNS?
+
+Hans Thoenen and Yves-Alain Barde:
+    pig brain (1.5kg) -> fractionate and halo assay, repeatedly -> 1.5 ug BDNF
+
+    BDNF = brain-derived neurotrophic factor
+    MW = 12.3 kDa
+    pI = 10
+
+    they chemically determined the AA seq of a small region of BDNF, and then used that
+    to isolate a cDNA => provided the entire AA seq of BDNF
+
+    65% homology to NGF! gene family: Neurotrophins
+
+    brain cDNA library:
+        brain => isolate mRNA => RTase => cDNA => ligate into plasmids => E. coli
+        look for BDNF in E. coli
+
+    BDNF expr patterns:
+        very high levels in ###
+
+are there more members of the Neurotrophin family?
+    synth oligonucleotide primers corresponding to regions of homology
+    use the primers to amplify a brain cDNA library
+    sequence amplification productes
+        should get NGF PCR products, BDNF PCR products, anything else???
+        yes: NT3 and NT4
+
+---------
+how do NGF and the other neurotrophins work molecularly?
+
+signal transduction is key to all of development
+
+the hunt for the NGF receptors - Pamela Maher
+    tyrosine phosphorylation and signal transduction
+        a very big deal in oncogenesis
+        maybe involved in NGF action?
+
+    big and rapid increase in tyrosine phosphorylation correlates w/ NGF treatment; maybe
+    involved in NGF action?
+
+is tyrosine kinase activity part of NGF action?
+
+Abl untreated, and treated w/ a Tyr kinase => put in rabbit => got Ab's
+    the Ab's recognized everything on Abl, but some recognized the right region
+    put through a column w/ beads covalently coupled to control Abl!!! clever as fuck
+    the only thing that should come through is anti-phospho-Tyr
+
+Bradshaw, Shooter, Greene
+    the hunt for the NGF receptors: cross-linking strategies
+
+    pc12 cells -> add radioactive NGF -> add covalent cross-linker ->
+    fractionate proteins on SDS gel -> detect radioactivity
+
+###
+
+is this 85 + 60 model correct?
+    column w/ anti-NGF Ab's
+    ...
+    if model is right, see 85 and 60 kDa bands
+
+so, what is the 135 kDa band?
+    convergence of neurobiology w/ cancer biology
+
+    "orphan receptors" - receptors w/ no known ligand
+
+    TrkA - transmemb. protein
+
+expts supporting the conclusion that TrkA is the 135kDa NGF receptor
+    pc12 cells -> ###
+
+    trkA rescues mutant PC12 cells unable to respond to NGF
+
+dimeric ligands - bring two receptors together
+    => change struct => activate kinase domains => phosphorylate each other
+
+TrkA is also part of a family
+    coevolution of ligands and receptors
+
+---
+###
+The NGF signal can be acquired at the tips of growing neuronal processes to promote
+neuronal cell survival
+    the only place you need NGF is out at the extremities
+
+How is survival signal relayed back to cell body?
+    the signaling endosome hypothesis
+        forms claithrin-coated vesicle from p.m. containing receptor-ligand complex
+        => CREB activated => transcription
+
+
+---
+5. target-mediated apoptosis
+
+two kinds of cell death
+    apoptosis - purposeful act of suicide
+    necrosis - withering away, from lack of nutrients
+        initial swelling of the cell
+        major inflammatory response
+
+neuronal cell death can be delayed by blocking protein synth
+    cells in a dish that have NGF => remove NGF => cells die
+    but if treat w/ protein synth. inhibitors first, they don't die
