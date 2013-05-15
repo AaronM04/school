@@ -1,0 +1,72 @@
+2013-05-15 Wed
+------------------
+Lecture 19 - nitrogen waste (cont.)
+
+mammals, terrestrial animals - urea
+fishes, marine invertebrates - NH4
+birds + reptiles - uric acid
+
+purine catabolism
+    nucleotide monophosphates + H2O -> ribose-5-(P) (or more phosphates) + purine base
+    
+    purine base can be absorbed by intestinal cells or broken down in liver (?)
+
+    AMP + H2O -deaminase-> IMP + NH4    (basically the reverse of purine
+                                         biosynth, but diff. enzymes)
+    IMP + H2O -> ribose + hypoxanthine   (free base of inosine)
+    hypoxanthine + H2O + O2 --xanthine-oxidase-> xanthine + H2O2
+
+    GMP -> guanine + ribose
+    guanine + H2O -> xanthine + NH4
+    xanthine + H2O + O2 --xanthine-oxidase-> uric acid + H2O2
+        in humans and other higher primates, uric acid is the waste product
+        purine catabolism is the only time we excrete uric acid
+    uric acid + 1/2 O2 + H2O --urate-oxidase-> alantoin + CO2 (opened up one ring)
+        done by mammals other than primates; excrete alantoin, not uric acid
+        alantoin is much more water soluble, so why do we make uric acid?
+            result: gout
+        animals that can't make vitamin C also can't make alantoin
+        uric acid is a partial replacement for vitamin C - uric acid is an antioxidant
+    alantoin + H2O -> alantoate - very water-soluble
+        only in bony fishes
+    alantoate + H2O -> 2 urea + glyoxylate
+        amphibians and cartilagenous fishes
+    urea + H2O -> 2 NH4 + CO2
+        marine invertebrates & bacteria
+
+purine scavenging
+    adenine, guanine, or hypoxanthine  + PRPP -> AMP/GMP/IMP + PPi
+    so we can scavenge purines from our diet, and we don't have to synth. them de novo
+
+--
+pyrimidine catabolism
+    thymidine eventually metabolied to succinyl-CoA => citric acid cycle
+    uracil and cytosine: excrete intermediates or turn into antioxidants
+
+      dTMP -> thymidine + ribose
+    (d)UMP -> uracil + ribose
+    (d)CMP -> cytosine + ribose
+    cytosine + H2O -> uracil + NH4
+        uracil is actually the only one we scavenge
+    uracil + ribose-1-(P) --uridine-phosphorylase -> uridine nucleoside (no phosphate) + Pi
+    uridine nucleoside + ATP --uridine-kinase-> UMP + ADP
+        recall: 5-fluorouracil from last lecture
+            5-fluorouracil -> 5-f-uridine nucleoside -> 5-fUMP -> 5-fUDP -> 5-f-dUDP ->
+            5-f-dUTP -> 5-f-dUMP => kills thymidilate synthase dead! x_x
+
+    thymine is never scavenged
+
+
+---
+biochemistry of transcription
+    1. identify promoters
+    2. melt dsDNA -> ssDNA
+    3. catalysis
+    4. translocation along DNA
+
+    dsDNA w/ promoter -  we need to start transcription at one base out of millions!
+
+    dsDNA -> disassociate dsDNA; reveal ssDNA template (takes energy)
+        affects coiling on either side
+
+
