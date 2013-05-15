@@ -83,7 +83,7 @@ in liver:
     happen in cytoplasm
 
     urea cycle:
-        [read book!]
+        [read book! pg. 683 in Lehninger]
         mitochondria:
         ### -(consume-ATP)-> carbamoyl phosphate
         carbamoyl phosphate + ornithine -> citrulline + Pi  (ornithine comes from cytoplasm)
