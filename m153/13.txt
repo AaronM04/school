@@ -1,0 +1,192 @@
+2013-05-16 Thur
+------------------
+Lecture 13
+
+Review:
+    <go back to the protein purification assay w/ some modifications to adapt
+    to the new question...>
+        (same type of halo assay, but w/ a non-NGF-responsive ganglion)
+
+    <are there more members of the Neurotrophin family?>
+        yes, NT-3,4
+
+    also CTNF and GDNF
+
+    how does NGF work?
+        <sig. transd. is key to all of devel. - recurring slide!>
+
+    paracrine signaling
+        receptor tyrosine kinases
+
+    Pamela Maher's tyrosine phosphorylation expts
+
+    <the hunt for the NGF receptors: cross linking strategies>
+
+    turns out there was no such thing as a 60kD protein (there is an 85kD protein though)
+        (Dr. Feinstein was working on this)
+
+    so, what is the 135 kDa band?
+        TrkA - known in a cancer context
+
+        ***he'd really like us to understand <expts supporting the concl. that TrkA...>
+            Ab against TrkA, attach bead to the Ab, precipitate, detach bead,
+            immunoblot (Western blot)
+
+    PC12 mutants that don't respond to NGF - don't have TrkA!
+        can rescue w/ TrkA
+
+    how does NGF prevent cell death?
+        <how is the survival sig. relayed back to the cell body?>
+            phosphorylation of TrkA -> form vesicle -> retrograde transport -> assoc. w/ CREB
+            CREB phosphorylated -> go to nuc. -> alter gene expr.
+
+---
+2 kinds of cell death
+    necrosis vs. apoptosis
+
+neuronal cell death can be delayed by blocking protein synth.
+
+<C. elegans cell lineage>
+    adults have exactly 1090 cells in adult; 131 cells always die
+
+genetic screens for mutations in C. elegans...
+    look for animals w/ more or fewer cells
+
+    ced-3,4 - mutant animals w/ no cell death
+        normal function of this gene must be to promote cell death
+
+    ced-9 - mutant animals w/ extra cell death
+        normal function of this gene must be to prevent cell death
+
+    are there mammalian homologs? clone genes (isolate cDNAs)
+
+Ced-3 protein is a cysteine protease
+    related to mammalian protein known as ICE (30% homology)
+    
+    ICE = interleukin converting enzyme
+        converts IL-1beta precursor (a zymogen) to active IL-1beta
+
+    "nobody would've guessed that this was involved - good thing about genetics compared
+    to biochemistry"
+
+Ced-3/ICE mediate cell death in worms and mammalian cells
+    mammalian fibroblasts in culture (NOT neurons)
+    results:
+        ced-3/ICE can mediate cell death via protease function in mammalian cells
+            not via some non-protease property of ICE
+        cell death machinery is in place and just need a trigger switch to be activated
+
+how about ICE in neurons?
+
+what next? how about ced-9?
+    homologous to bcl-2 in mammals (23% homology)
+    originally identified as cancer-causing oncogene
+    normally, increased bcl-2 levels prevent lymphocytes from undergoing apoptosis
+    
+    Ced-9 worms => introduce mouse bcl-2 cDNA => normal levels of cell death
+        therefore, mouse can substitute for worm!
+
+will bcl-2 rescue mammalian cells?
+    yes
+
+how does it all work?
+    in mice: Caspase-3 (homologous to worm Ced-3)
+    Ced-9/bcl-2 is upstream of Ced-3/Caspase-3
+
+it is all about the bcl-2:bax ratio - they dimerize!
+    to repress cell death, cells need lots of bcl-2:bcl-2 dimers
+    therefore, [bcl-2] must be greater than [bax]
+
+paper title: intrinsically-determined cell death of developing cortical interneurons
+    "seems to go against everything I've been saying - all extrinsic"
+
+cortical interneurons
+    normally, ~40% die in a bax-dependent manner
+    if put into culture, ~40% die at same time as they would die in vivo
+    40% die regardless of how many cells are transplanted (unlike PNS expts)
+
+    concl.: cortical interneuron cell death is determined intrinsically, either
+    cell autonomously or by some survival factor released by the interneurons
+    themselves (autocrine)
+
+    clinical trials to see if BDNF administration will help ppl w/ Parkinsons
+
+
+-------------
+next PDF: 7 - synaptogenesis
+
+synapse: the specialized site at which comm. takes place btwn a neuron and its target cell
+    very small: ~1 square micron
+
+synaptogenesis: synapse formation
+
+early 1900s:
+    reticular theory vs neuron theory
+    reticular theory: all neurons were fused into a syncytium
+        explained speed of signal transmission, but not specificity
+    we know neuron theory to be true
+        synapses allow fast transmission, also unidirectional
+
+an avg neuron receives 1000-10000 synapses on its dendrites and soma
+neurotransmitters released by pre-synaptic cell
+
+devel. of synaptic morphology
+    more branching from 1 day to 9 weeks (during animal devel.)
+
+    also, synaptic vesicles accumulate at pre-synaptic side of synapse
+
+<rainbow-colored slide>
+    from left to right is early synaptic devel to maturity
+        first, a filopodium extends
+        next, tight junction
+        then, accumulate vesicles on both sides
+        now, start to dump stuff into this space (basal lamina)
+
+<the synapse>
+    photoreceptor - bipolar cells
+
+how a synapse is formed:
+    inject Ca2+-sensitive dye
+        gets redder when Ca2+ conc. increases - can observe in microscope
+
+    if you touch the tip of growth cone w/ a muscle cell, you see bright red in the axon
+    if you touch the tip w/ an inappropriate target, no change
+
+    where does Ca2+ come from?
+        must be from media (see bottom diagram)
+        must be Ca2+ channels that open up
+
+rapid adhesion btwn growth cone and post-synaptic muscle cell
+    touch w/ target => very quick engagement of cell adhesion molecules
+    hold together for a minute and a half (not much time) - see some stickiness
+    for 15 min. => very tight assoc.
+
+cell adhesion molecules and synapse formation
+    "molecular view"
+    Cadherins in both - transmemb. CAMs
+    when they engage w/ each other, get binding via catenins to actin cytoskel.
+
+    also, Nectins
+
+<signals that promote growth cone diff...>
+
+how are receptors all clustered near the basal lamina?
+    <AChReceptor clustering on muscle fibers...>
+
+    clustering is induced by contact w/ incoming neuron
+
+the mature neuromuscular junction
+
+"in the remaining time, I'm going to tell you a cool story"
+can cut axons and kill muscle cells
+must be something in the ECM that is sending instructions
+"what did Jack McMahan's lab do?"
+Agrin - protein present in the ECM of the basal lamina directing axons and motor cells to it
+at Stanford, they isolated Agrin cDNA
+    turns out there was alternative splicing of Agrin gene: Agrin0 and Agrin19
+    Agrin0 causes incoming growth cone to stop moving and differentiate
+    then, growth cone releases Agrin19 at same location - bind to MuSK receptor on muscle cell
+    => AChR phosphorylation => ragrin(sic)
+MuSK gene knockout has very screwed up nervous system
+<Fig. 1 - Scaffold proteins organize cellular information flow>
+    much faster than diffusion :)
