@@ -40,7 +40,7 @@ purine scavenging
 
 --
 pyrimidine catabolism
-    thymidine eventually metabolied to succinyl-CoA => citric acid cycle
+    thymidine eventually metabolized to succinyl-CoA => citric acid cycle
     uracil and cytosine: excrete intermediates or turn into antioxidants
 
       dTMP -> thymidine + ribose
@@ -51,10 +51,11 @@ pyrimidine catabolism
     uracil + ribose-1-(P) --uridine-phosphorylase -> uridine nucleoside (no phosphate) + Pi
     uridine nucleoside + ATP --uridine-kinase-> UMP + ADP
         recall: 5-fluorouracil from last lecture
-            5-fluorouracil -> 5-f-uridine nucleoside -> 5-fUMP -> 5-fUDP -> 5-f-dUDP ->
+            5-fluorouracil -> 5-f-uridine nucleoside -> 5-f-UMP -> 5-f-UDP -> 5-f-dUDP ->
             5-f-dUTP -> 5-f-dUMP => kills thymidilate synthase dead! x_x
 
     thymine is never scavenged
+    [see paper]
 
 
 ---
