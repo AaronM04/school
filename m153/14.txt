@@ -1,0 +1,185 @@
+2013-05-23 Thur
+-----------------
+Lecture 14
+
+[10 min late!]
+
+<visual system organization>
+
+Each eye gets slightly different info => depth perception
+
+the left halves of both eyes go to same place (left LGN), and likewise with the right halves
+    LGN = lateral geniculate nucleus
+    LGN => visual cortex (next neurons in circuit)
+
+    in LGN: we "interdigitate" left and right
+
+ocular dominance columns can be visualized using radioactivity
+    follow radioactivity from eye to visual cortex
+    see stripes!
+
+    "this is in adult; what happens early in development?"
+    monocular input deprivation - one eye closed during development:
+            bigger stripes for the open eye
+
+formation of ocular dominance columns
+    at birth, there is a lot of overlap => separate out
+
+
+---------------------------------------
+Next PDF: lecture set 8 - stem cells
+
+outline
+    1. relevance to neurobiology
+    2. what is a stem cell?
+    ...
+
+1. relevance to neurobio
+    tools to understand neural devel
+    ...
+
+2. what is a stem cell?
+    a cell that is capable of dividing many times to give rise to at least two different
+    cell types (as well as maintain itself)
+
+3. types of stem cells
+    pluripotent - can give rise to most cell types in the body (embryonic stem cells)
+    multipotent - can give rise to a few cell types (adult stem cells)
+
+4. therapeutic aspects of stem cell tech.
+    drug devel & toxicity tests
+    expts to study devel & gene control
+    tissues/cells for therapy (THE BIG ONE)
+
+    basic therapy idea:
+        use the stem cells to repair or replace damaged organs or body parts
+            - isolate stem cells
+            - "instruct" them to go to a particular phenotype
+            - deliver to patient
+
+    the "promise"/hope of stem cell research
+        treatments for:
+            cancer
+            parkinson's disease
+            alzheimer's disease
+            heart disease
+            diabetes
+            spinal cord injury
+            macular degeneration
+            ...
+
+    a few initial success stories w/ stem cells
+        bone marrow transport
+
+        many additional examples using animal models
+            oligodendrocytes (2005)
+            converted human embryonic stem cells to oligodendrocytes and helped rats w/
+            spinal injuries
+
+        how to mend a broken heart... w/ adult stem cells
+
+    issues to address:
+        embryonic -> lineage-specific -> organ precursors -> transplantation therapy
+        
+        problem:
+            isolating human ES cells
+            directing the lineage
+            isolating and directing adult human stem cells
+            controlling cell division (else you get tumors!)
+            immunological incompatibility
+
+5. where do we get the stem cells from?
+    embryonic stem cells - from 5 day old blastocysts (pluripotent)
+    adult stem cells - multipotent
+
+    embryonic stem cells:
+        advantages:
+            pluripotent
+            infinite lifespan
+        disadvantages:
+            potential for tumor formation
+            ethical concerns, legal status
+
+    sources of non-embryonic stem cells:
+        brain, skin, blood, intestine, testes, muscle (maybe liver too)
+
+starting w/ stem cells isolated from adult sources or umbilical cord blood
+
+where do embryonic stem cells come from?
+    embryo is destroyed in process of collecting the cells
+
+history of embryonic stem cells
+
+in vitro fertilization
+
+but there's still a big problem:
+    recognized as "foreign"
+    how to make stem cells look like self?
+        use your own stem cells from another source in your body
+
+        create a blastocyst that is genetically identical to you:
+            therapeutic cloning:
+                somatic cell nuclear transfer
+
+        "just this week!"
+            1. remove nucleus from a human oocyte
+            2. insert nuc from patient's skin cell
+            3. induce devel. w/o sperm
+            4. resulting stem cells are genetically identical to parent
+                - well, except for the mitochondria
+
+        how to create a "cloned blastocyst
+
+    but what about humans?
+        ES cell tech has been accomplished
+
+    Tachibana et al., Cell 153: 1-11; June 6, 2013
+        human embryonic stem cells derived by somatic cell nuclear transfer
+            - gave the cells some caffeine! lolz
+
+        the process of removing the old nucleus from the oocyte removed some necessary
+        molecules
+        
+        hopefully this will be reproduced in other laboratories
+
+7. induced pluripotent stem cells (iPSCs)
+    de-differentiation only occurs naturally during cancer
+
+    can we force de-differentiation?
+
+    Shinya Yamanaka:
+        1. identified two dozen "embryonic-only" genes that are active in normal
+        pluripotent stem cells but not in adult cells
+
+        2. introduce all of these genes into adult skin cells using retroviruses as delivery
+        vectors
+
+        3. adult skin cells re-programmed into pluripotent stem cells!
+
+        4. trial and error reduced the number of genes needed to 4 (Oct4, Sox2, ###)
+
+        ###
+
+    cured Parkinson's w/ iPSCs prompted to differentiate into neurons
+        (put in substantia nigra => produce dopamine)
+
+    alternatives to avoid cancer risk:
+        use non-retrovirus viruses that do not integrate DNA into chromosome
+
+        or, don't even introduce genes! just inject the proteins
+
+    <many possible applications>
+        cured sickle cell anemia in a mouse
+
+    <so... lots of potential but lots of very serious technical and scientific issues>
+
+8. politics, morality, bio-medical research...
+    2001 - George W Bush limited NIH-funded research to 64 preexisting ES cell lines
+        (really only 16 could work)
+
+    2004 - CA prop 71 - $3billion over 10 years - CIRN
+
+    2009 - Obama removes Bush era restrictions on NIH funding
+
+ethical standards for stem cell research - recommended by the National Academy of Sciences
+    paperwork!!!!
