@@ -1,0 +1,97 @@
+2013-05-22 Wed
+----------------
+Lecture 20 - prokaryotic transcription
+
+identify start site
+unmask DNA template
+polymerization (template-dependent)
+translocation (along DNA)
+
+*** final - nitrogen waste to end of course
+
+RNA Polymerase (RNAP)
+    beta & beta prime subunits - contains active site
+    beta - channels for DNA / nascent RNA
+    alpha * 2 - stabilize RNAP complex
+        non-specific DNA affinity
+    omega - chaperone/stabilizes complex
+
+    only prokaryotes:
+        sigma factor - identify promoters
+            help form open complex
+
+alpha subunits are "dangling domains" off the beta/beta'
+    affinity for DNA - associate non-specifically w/ DNA
+
+sigma2 at head
+sigma3 in the middle
+sigma4 toward the end, near alpha*2
+
+sigma2 and sigma3 help identify the "minus ten" elements (10bp behind where we start)
+    the first base to be copied is called +1 - promoter elements just upstream (negative)
+
+    ~10.5bp per turn in DNA helix
+        therefore, the "minus 10" is on same face of DNA helix as +1
+
+    TATAAT promoter - for genes we need on all the time (ribosomal promoters, etc.)
+
+sigma4 recognizes "minus 35" element - also on same face of DNA helix
+    TTGACA
+
+can't have too high affinity for these DNA sequences, or else RNAP will just be stuck there
+    therefore, two low affinity sites:
+        alpha (non-specific)
+        sigma (specific)
+
+need to rip H-bonds apart
+    "prokaryotes have a cool way of doing this, not accessible to eukaryotes"
+
+    sigma2 helps melt the DNA; get unpaired bases
+        called the "open complex"
+
+    surprisingly, the delta G for this melting is close to 0! wtf?
+        in prokaryotes, there are ATP-dependent gyrases that force negative supercoiling
+        extreme unwinding of the DNA - dramatically lowers energy necessary to melt DNA
+
+somehow, DNA is "shoved inside" the polymerase
+
+regions near start site are usually AT-rich - easier to break open
+
+need NTPs in (there's a channel to allow this)
+    base-pairing with the +1 residue stabilizes this until polymerization
+
+polymerization:
+    RNA polymerase doesn't need a primer for polymerization, unlike DNA polymerases
+
+    get a PPi leaving group
+
+    deltaG is "-40ish" (PPi + H2O -> 2 Pi is -18kJ/mol)
+
+    ~3600 bp/min = ~60 bp/sec!
+
+when we only have between 1 and 4 nt's in active site, we get "aborted initiation"
+    the NTs can just fall off and diffuse out, and we have to start over
+    at first, there is no translocation
+    once we get 10 nt's, we're really stable; elongation phase starts!
+
+elongation phase:
+    "people don't know how this starts either"
+    whole thing lurches ahead about 10 bases, and sigma factors are ejected
+    NusA - prevents backtracking
+    all of the energy for translocation comes from the polymerization reaction
+        ~10 piconewtons - "like a bulldozer"
+
+translation ~1200 AA/min (one third of 3600! mRNA used at same rate it is synthesized)
+
+how do you stop this thing?
+    mimick the "aborted initiation" - get mRNA out of the active site:
+        rho-dependent termination
+            rho is a multimeric helicase, but doesn't unwind things
+            burns ATP to translocate 5'-3'
+            goes 2-3x as fast as RNAP - catches up and pulls the mRNA out
+            Rho hops on at RUT (rho-utilization) sites on RNA
+
+        rho-independent termination
+            secondary structure of RNA - GC-rich stem of stem-loop ~16bp
+            following the stem-loop is 8-10 U's
+            acts like a pry bar
