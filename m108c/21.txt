@@ -1,0 +1,109 @@
+2013-05-24 Fri
+-------------------
+Lecture 21 - transcription
+
+identify promoter
+form "open complex"
+polymerize
+translocate
+terminate
+
+Review:
+    Rho goes up the mRNA to the butt of the polymerase => RNAP forms closed complex
+    (Rho finds a "RUT" site on the mRNA)
+
+Rho-independent termination "is a 25 year old model"
+    nobody's been able to get it to crystallize
+
+    what they think is that the stem-loop acts like a lever to pry off the transcript
+    from the DNA strand (easier because of many U=A base pairs)
+    they speculate that the stem-loop forms inside the RNAP cavity, jamming it up
+
+identify promoter
+    regulation
+
+    transcriptional activator proteins bind just upstream of the -35 promoter element
+        increases affinity of RNAP for this stretch of DNA => increase transcription
+
+    repressor proteins
+        prevent RNAP from binding
+
+        repressors can also change shape of DNA => make a loop to hide the promoters in
+
+Lac repressor
+    controls genes that digest lactose
+
+    can't be all-on or all-off; otherwise, we wouldn't get any lactose metabolized (????)
+
+Trp biosynthesis
+    "we want reg. to be opposite"
+
+    we don't want to make any tryptophan if we have plenty
+
+    when we run out of it, repressor falls off
+
+regulation specific to prokaryotes: sigma factors
+    useful for things where the environment rapidly changes
+    E coli can live from 16 C to 48 C
+        protein expr profile is entirely different! cold shock and heat shock sigma factors
+
+    sigma factors are good for when you have a lot of genes to be regulated
+
+sigma_H (heat-shock sigma factor) => Hsp70 chaperone
+
+"normal" (37C) => sigma_H bound to DnaK
+"heat shock" >=42C:
+    competition at DnaK active site between sigma_H and unfolded proteins
+    sigma_H turns on heat-shock genes
+
+---
+sigma_E - "a tale of two research groups"
+group 1: studying sigma factor itself: clone & over-expr to see what genes come on:
+    periplasmic proteases and chaperones
+    factors necessary to assemble outer membrane
+
+    RseA - regulator of sigma_E A; transmemb. protein of inner membrane
+        "binds sigma_E (on cytoplasmic side) and doesn't let it go"
+
+        RseA gene gone => sigma_E activated
+    
+
+group 2: DegS - no activity in vitro, wtf!
+    "well, maybe it's a site-specific protease"
+    take random peptide library, and a column w/ DegS affixed
+    find what peptides stick to DegS (comes off w/ acid wash)
+        XXYXF-(C term)
+        the peptide was not degraded, though
+
+    temperature-sensitive plasmid => raise temp => plasmid goes away
+    do any cells live if we get rid of DegS? only if you also have a loss of RseA
+
+    combine DegS and RseA in test tube and nothing happens
+        then, add to these an XXYXF peptide => RseA gets cut
+        proteins ending in XXYXF: Omp{X,C,A,F}; outer memb. proteins
+
+"we get transcription of all these genes involved in outer memb. assembly"
+
+stress response(outer memb. proteins screwed up) => protease activity => sigma_E activated
+
+---
+Eukaryotic transcription
+
+-30: TATA box (TA-rich seq)
+
+histones also involved in transcriptional regulation
+
+TATA box is bound by either TPB or TF(II)A => recruit TF(II)B
+    "grossly oversimplified" lol
+    recruits RNAP-TFIIF
+
+need to open up DNA
+TF(II)E and TF(II)H - "checkpoint protein"
+    TF(II)H is a helicase
+
+"open complex"
+    slow initiation
+    the stability is sensed by the helicase:
+        mRNA exiting => helicase phosphorylates C-term tail of RNA Pol => elongation phase!
+
+elongation ~3600 bp/min
