@@ -1,0 +1,203 @@
+2013-05-28 Tues
+-------------------
+Lecture 15 - Alzheimer's Disease (start)
+
+extra-cellular?:
+    beta-secretase, not alpha-secretase, cleaves APP => abnormal fragment: beta-amyloid
+
+intracellular:
+    tau protein
+
+a few key facts about Alzheimer's disease
+    progressive memory loss, behavioral changes, cognitive skills
+
+    most common form of dementia
+        1.8% of US pop (5.4million patents)
+
+    avg length btwn diagnosis & death: 8 years
+
+    largest unmet medical need in the US
+
+<the huge number of people requiring constant care...>
+    ~50% prevalence in ppl over 85 years
+
+    $200 billion in costs in 2012 for US alone
+
+<Dennis Selkoe quote, again>
+
+History
+    1906 - Dr. Alois Alzheimer
+
+clinical features of Alzheimer's disease
+    onset typically 60-70 years of age
+
+key cellular diff's btwn normal & Alzheimer's:
+    i) extensive neuronal cell death
+    ii) two abnormal ...
+
+plaques surround the tangles! maybe related?
+
+<neurofibrillary tangles & amyloid plaques>
+    starts in entorhinal cortex (near the hippocampus)
+
+spatio-temporal appearance of plaques & tangles in AD brains
+
+---
+what is the biochemistry of the plaques & tangles?
+    plaques:
+        A[beta] - small fragment of APP (amyloid precursor protein)
+            (on radial glia)
+
+    tangles:
+        abnormal form of tau protein
+
+    but these are just correlations... what about the causes?
+
+what CAUSES neuronal cell death in Alzheimer's?
+    integrate genetics & biochem
+
+    use genetic strategies to determine causation
+        Alzheimer's is usually not from being inherited (only ~1-2%)
+
+    ###
+
+two general classes of Alzheimer's disease
+    sporadic
+        >98% of cases
+        usually >60 years of age
+        3% of pop btwn 65 and 74
+
+    familial
+        ~2% of all cases
+        early onset
+        not a "single gene disorder"
+
+genetic analysis of an Alzheimer's family
+    autosomal dominant trait!
+
+genetic analysis[...]
+    mutations in the action of any of following cause Alzheimer's:
+        APP
+        Presenilin-1 ("PS-1")
+        Presenilin-2 ("PS-2")
+
+    mutations in the Tau gene _cause_ closely related dementias (FTDP-17, PSP, CBD)
+        these dementias have neurofibrillary tangles but not amyloid plaques
+
+        all 4 are autosomal dominant
+
+    risk factors
+        age
+        ApoE allele (ApoE2, ApoE3, ApoE4)
+            - involved in lipid metabolism
+
+_how_ do errors in APP, PS-1, PS-2, and tau cause neuronal cell death & dementia?
+
+APP is a transmemb protein - resides in the plasma membrane of neurons (especially
+at synapses)
+    single transmemb alpha helix
+    big extracellular domain
+
+enzymes clip in two places on the outside (beta-secretase) and inside the
+membrane (gamma-secretase)
+    release a big chunk and a small chunk (A[beta])
+
+neuronal APP processing and amyloid fibril formation
+    A[beta] peptide can form a beta-pleated sheet
+
+    turns out that the plaques are neutral - it's the oligomers that are toxic!
+        under normal circumstances, A[beta] is generated all the time and cleared/turned
+        over at nearly equal rates; A[beta] clearance is mediated primarily by 2 proteases:
+            neprolysin &
+            insulin-degrading enzyme (IDE)
+
+        small perturbations of A[beta] clearance will result in accumulation of A[beta]
+        in the brain
+
+        A[beta] clearance from the CNS is reduced by approx. 30% in individuals w/ AD
+
+mechanisms of A[beta] clearance
+
+how do A[beta] oligomers cause neuronal cell death? don't know :(
+    might A[beta] cause toxicity by forming ion (Ca2+) channels?
+
+    artificial lipid bilayer => add A[beta] => oligomers of 4-6 that look like pores!
+        in fact they are pores - act like Ca2+ ion channels
+
+what else might contribute to Alzheimer's? AICD
+    amyloid intracellular domain - the part left over from APP
+    "not a whole lot of work going on w/ this"
+    transgenic mouse that overexpr. AICD
+        get tau aggregation & hyporphosphorylation => neurodegeneration => memory deficits
+
+how might AICD work?
+    AICD (maybe with fe65) => change transcription
+
+presinilin 1 & 2:
+    the other two genes that cause Alzheimer's
+    part of gamma-secretase complex
+
+<the neuronal cytoskel.>
+
+major roles of MTs in neurons
+    establishment & maintenance of cell morphology
+
+    intracellular transport ("axonal transport") <- important for AD!
+
+<but... tubulin purified from brain assembles...>
+    super unstable
+    
+    in vitro, tau:
+        co-purifies & binds directly to MTs
+        promotes MT assembly
+        suppresses MT dynamics
+
+    in vivo, tau:
+        necessary for initiating axon outgrowth
+        promotes rate of axon outgrowth
+        is necessary for axonal transport
+        maintains axonal morphology
+
+many neurodegenerative diseases exhibit abundant tau-positive filamentous legions
+
+genetic linkage of Tau to FTDP-7, PSP, and CBD
+    major difference: no amyloid plaques (also, starts fronto-temporally, not in hippocamp.)
+
+two classes of tau mutations that map w/ the FTDP-17 phenotype
+    first class - point mutations:
+        most point mutations near carboxy terminus
+        this is region that binds to MTs
+
+    second class - alternative splicing mutations
+        pre-mRNA has 4 repeats; you can get one repeat spliced out: called "3-repeat"
+
+        fetal: all 3-repeat tau; adult: half and half 3- & 4-repeat tau
+
+        FTDP-17: you have too much 4-repeat tau in adult
+
+a single pathway to neuronal cell death in Alzheimer's and FTDP-17
+                                            (hyperphosph?)
+    APP dysfunction -> -> -> Tau dysfunction -> -> cell death
+       (also->amyloid plaques?)           (-> NFTs -> ^)
+
+    key observation: in cell culture, a[beta]-induced neuronal cell death is tau dependent
+        therefore, tau is downstream of APP problems
+
+    Alzheimer's is a problem further upstream of the FTDP-17 problem
+
+    tau in neurofibrilary tangles is hyperphosphorylated, and this is widely believed (but
+    Dr. Feinstein is skeptical) to be a key to Tau dysfunction in Alzheimer's and related
+    dementias
+
+how might tau dysfunction cause neurodegeneration?
+    could either be loss of MT function or gain of NFT toxicity
+    Dr. Feinstein leans toward the former
+
+    or maybe it's both: Tau sequestered in the tangles => not enough tau for MT stabilization
+
+prion - misfolded protein acts as template for protein misfolding
+    maybe tau acts like this
+
+    sometimes the NFTs are extracellular
+        what if tau is released at one terminal and taken up into next cell?
+        paper: trans-synaptic speed of tau pathology in vivo (Liu et al)
