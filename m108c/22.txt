@@ -1,0 +1,69 @@
+2013-05-29 Wed
+----------------
+Lecture 22 - Eukaryotic transcription (cont.)
+
+TF(II)H burns ATP to open up the DNA; also regulates entry into elongation phase:
+    if it detects RNA coming out, phosphorylates C-term tail of RNA Pol
+
+because eukaryotes have a nucleus, there is no translation going on around RNA Pol
+    allows making sure that the mRNA is okay before translation starts
+    (in prokaryotes, however, translation happens concurrently w/ transcription)
+
+"cytoplasm of any cell is chock full of RNAses" (both eukaryotes & prokaryotes)
+    "chew up unstructured RNA"
+    reasons: many RNA-dependent viruses, also want rapid mRNA turnover
+    how to protect mRNA from degradation?
+        5' capping (happens as soon as 5' end pops out)
+        
+        mediated by CBC (which sits at C-term end of RNA Pol)
+
+capping:
+    happens at either A or G base
+    guanylyl transferase links GTP to the head A/G of the RNA in a "really unique linkage":
+        has 3 phosphates in a row and is 5' to 5'
+    also methylation of the guanidine base:
+        methyl transfer from SAM (S-adenosyl methionine) (product is homocysteine adenylate)
+
+---
+splicing
+
+mostly (80% of the time) co-transcriptional
+
+start with exon-intron and intron-exon junctions
+    you have sequences at both these places for recognition
+    AGGUAGGU and AG-GU, respectively
+
+also UACUAAC sequence inside intron
+    the last A is skipped by the snRNP recognizer (see below)
+
+snRNPs used to recognize these patterns by base-pairing interactions
+    U1 - exon-intron junction (5' splice site)
+    U2 - internal intron sequence (nucleophile; 2' OH of internal A)
+
+psi = pseudo-uridine
+    base-pairs with either A or G
+    common in tRNA
+
+after U1 and U2 assemble, mRNA shape changes
+    U1 and U2 are closer together with RNA looping out
+    
+    U4 and U6 come together as a complex inside the loop, causing it to form (and U5)
+        U4 prevents catalysis ("checkpoint protein")
+        U6 does the actual catalysis
+    "at some point we gotta ditch U4"
+        goes away after everything checks out
+
+form a lariat structure:
+    exon-intron junction: G-G (5' cut site in between these bases)
+    AAC at end of U2-binding site inside intron: un-base-paired A (the middle one):
+        flips around to form a bulge
+        the 2' OH of this A attacks the phosphate linking G and G of exon-intron junction
+        we end up with a 2' to 5' phosphate linkage
+
+finally, the two exons are stitched together:
+    the 3' OH of the first exon G attacks the second G of AG-GU at start of second exon
+
+    lariat structure gets degraded
+
+alternative splicing
+    can skip over exons
