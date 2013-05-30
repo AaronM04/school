@@ -1,0 +1,221 @@
+2013-05-30 Thur
+----------------
+Lecture 16
+
+Review:
+    start in entorhinal cortex; spread to amygdala and beyond
+
+    if mutation in APP => autosomal dominant early onset Alzheimer's
+
+    agents of toxicity are not the A[beta] plaques, but the oligomers
+
+    the problem is not A[beta] generation, but A[beta] clearance:
+        mediated by neprolysin and insulin-degrading enzyme (IDE)
+
+        when anyone ages, the conc of these two enzymes go down
+        it seems that in Alzheimer's patients, they go down faster
+
+    Microtubules are dynamic polymers
+        tau tends to slow down the shortening rates of MTs
+
+    two classes of tau mutations that map w/ the FTDP-17 phenotype
+
+How about risk factors for AD?
+    age
+    apolipoprotein E
+        cholesterol/TG mechanism
+    ...
+
+ApoE3 is most common ###
+
+how about oxidative damage?
+    ROS: reactive oxygen species
+    increase with age
+    ROS can cross-link lots of cell's molecules
+        disrupt their function
+        make them more resistance to turnover
+
+    in cell culture, anti-oxidants such as VitE can reduce A[beta]-mediated toxicity
+
+currently avail. drugs for Alzheimer's disease
+    most current drugs are acetylcholinesterase inhibitors
+    makes signals last longer by preventing neurotransmitter breakdown
+    they don't help much...
+
+Memantine: a diff. class of drug
+    manufactured as Namenda
+
+    recently approved in US
+
+    acts on glutaminergic NMDA receptors
+        excess Glu can cause neuronal cell death
+
+    doesn't do much either...
+
+How about prevention of Alzheimer's disease?
+    NSAIDs
+        neuro-inflammation is likely to be part of the Alzheimer's disease process
+
+    June 2003
+        2 NSAIDs (rofecoxib and naproxen) fail to show the rate of cognitive decline in mild
+        to moderate Alzheimer's disease
+
+    "statins" are drugs that reduce cholesterol levels
+        UK study - 70% lower chance of getting Alzheimer's disease
+        confirmed by a second study in the US; 60-73% reduced risk
+
+        a possible rationale: lipid rafts
+
+"in progress" strategies to combat Alzheimer's
+
+update on AD "vaccine" ...it's not all bad news...
+    background on vaccines
+
+    but AD doesn't really have a pathogen
+
+trying to develop a vaccine
+    generate a mouse model that gets amyloid plaques
+    focus on getting rid of plaques
+    expt:
+        inject mice w/ A[beta] to cause immune response
+
+    data:
+        mice get fewer and smaller amyloid plaques; impreved performance in memory tests
+
+    early human testing of A[beta] injections led to a low but still unacceptable level
+    of neuro-inflammation (can be life-threatening)
+        halted trial
+
+        but those who had the Ab's had slower cognitive decline
+
+alternatives to consider to avoid neuro-inflammation
+    1. don't inject entire A[beta]
+    2. make A[beta] in cell culture (problem: need to do every 1-2 weeks for rest of life)
+    3. lots of other possibilities
+
+short A[beta] immunogens reduce cerebral...
+
+several drugs that inhibit [beta]- or [gamma]-secretase are in testing right now; concerns
+about side-effects
+
+so where are we now?
+    all 38 phase III clinical trials have failed
+
+    question we should have asked earlier:
+        when does Alzheimer's begin?
+
+        we need non-invasive imaging tech:
+            A[beta]-detecting brain scans (yellow is amyloid; red is lots of amyloid)
+            (green is some amyloid)
+            even 20 years before, you see some A[beta]
+
+        so maybe problem is that it is too late when they are showing symptoms
+
+pathological changes occur years before symptoms appear
+
+perhaps our candidate drugs are all failing because they are being administered far
+too late
+
+need to think about prevention differently
+    how to proceed?
+
+    family in rural Columbia w/ mutant presenilin gene (dominant inheritance)
+
+the plan:
+    100 mutation carriers get crenezumab (anti-A[beta] Ab's) every two weeks
+    100 mutation carriers will receive placebo injections every two weeks
+    100 non-mutation carriers will receive placebo injections every two weeks:
+        because ppl don't want to know if they have gene
+    double-blind format
+    5 yr, $100M study funded by NIH and Genentech
+    starts summer 2013!
+    
+    problem:
+        only 0.1% of Ab's cross BBB
+
+epothilone D
+    small molecule that can cross BBB and stabilize MTs
+
+    transgenic PS19 mice that express P301S tau mutant at high levels
+
+    phenotype:
+        hyper(P) of tau
+        neurodegeneration
+        ...
+
+can epothilone D compensate for tau loss of function in young PS19 mice?
+    MT density and axonal integrity improved
+    reduced cognitive losses
+
+can epothilone D help older mice that already have tau aggregates?
+    improved axonal transport and cognitive performance
+
+---
+Apolipoprotein E (ApoE) is a very strong risk factor for AD
+    cholesterol/triglyceride regulation
+    ApoE2/3/4 - 4 is the bad one
+
+    ApoE normally promotes A[beta] degradation
+
+    Gary Landreth's lab at CWRU
+        "my pal" -Dr. Feinstein
+
+    in they could increase ApoE levels in cells, that should degrade A[beta] faster
+
+What does Gary and his lab###
+
+Cramer et al., 2012 Science
+
+What does Gary need to test his hypothesis?
+
+how does bexarotene induce ApoE expr.?
+    binds to RXR => promote ApoE transcription
+
+so... what happened?
+    1. start w/ 2 month old "AD mice" (no symptoms yet)
+    2. treat w/ bexarotene and measure ApoE levels in brain
+
+    actin is a loading control to know we loaded same amounts of protein
+
+    increased signals for APCA1, APCG1, and ApoE
+
+what about measuring A[beta] levels?
+    A[beta] levels decline within 6 hours; down 25% in 24 hours
+    A[beta] levels stay reduced for 72 hours from single treatment
+    reduction in A[beta] levels was the result of increased degradation
+
+what about A[beta] plaque levels?
+    start w/ older mice - lots of plaques
+
+    plaque levels decline, but not in all mouse models
+
+how about behavior?
+    1. start w/ "AD mice" who had forgotten to build a nest
+
+    bexarotene - animals recover ability to build a nest!
+        similar observations in Morris water maze test and fear conditioning test
+
+how about treatment of old mice?
+    soluble A[beta] levels decline and behavior/cognition improves
+        but no significant reduction in A[beta] plaque levels
+
+        conclusion: Plaques don't matter!
+
+summary
+    bexarotene induces a normal cellular mechanism that not only arrested the progression
+    of "AD" in mice, it actually _reversed_ the biochemical and behavioral losses.
+
+    at least 3 stages for neurons:
+        alive
+        sick (w/ AD symptoms)
+        dead
+
+    the sick ones are contributing to symptoms, but they can be healed
+
+    bexarotene is already FDA approved as an anti-skin cancer agent, so it has already been
+    shown to have an "acceptable" safety profile
+
+translation into clinical trials (for bexarotene)
+
+Alzheimer's drug was too good to be true, studies find (article online)
+    factual inaccuracies
