@@ -1,0 +1,64 @@
+2013-05-31 Fri
+-----------
+Lecture 23 - eukaryotic transcription termination
+
+mRNA has AAUAAA - poly-Adenylation complex
+
+hundreds of adenylates added by adenyl(?) transferase enzyme
+    no template, but otherwise a normal polymerization reaction
+
+CBP bound to 5' cap and PABP2 bound to poly(A) tail
+    protect mRNA from degradation
+
+when does poly(A) stop?
+    no one knows, but some evidence for:
+        ribosomal RNA operon involved - "La"
+
+---
+needs to be exported from nucleus to cytoplasm
+
+nuclear pore complex (NPC)
+    active transport driven by Ran-GTP gradient (high in nucleus, low in cytoplasm)
+    in cytoplasm, hydrolized to Ran-GDP => export protein released
+    (Ran-GTP is part of a cycle)
+
+CBP recruits ALY factor; ALY in turn recruits other proteins
+
+mRNA bound "up and down" by proteins (junction binding complexes (JBCs)?)
+    the JBCs can also recruit ALY
+
+nuclear export factors (Nxt1/NFT1 heterodimer) displace ALY
+    this heterodimer docks to the NPC (nuclear pore complex)
+
+on the cytoplasmic side of the NPC, there are ATP-consuming "helicase-like things" which
+rip off Nxt1/Nft1 heterodimer
+    the unbound Nxt1 and Nft1 get imported back into nucleus
+    "also PABP2 comes along for the ride"
+
+in the cytoplasm, mRNA has PABP2 (still) and CBP20/80
+then, eIF displaces CBP20/80, which results in mRNA "curled up into a circle; really stable"
+    can persist in this packaged form for hours/days
+    then, ribosomes get recruited
+
+in contrast, prokaryotes don't do any of this shit
+    mRNA half-life is about 3 minutes; only translated 5-10 times per mRNA molecule
+
+energy for export from nucleus is ATP; needed to rip off these transport factors, driving
+the rxn forward
+
+----
+***MT2
+avg: 70
+median: 72
+high: 90
+low: 22
+
+A+  86-90 (7 students)
+A   81-85 (11)
+A-  76-80 (22)
+B+  73-75 (27)
+B   68-72 (28)
+B-  64-67 (19)
+C+  58-63 (15)
+C   51-57 (9)
+C-  41-50 (6)
