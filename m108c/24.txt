@@ -1,0 +1,93 @@
+2013-06-03
+------------
+Lecture 24 - prokaryotic translation
+
+Overview
+    ribosomes
+    tRNAs
+    translation factors
+
+    initiation
+    decode mRNA
+    tRNAs base pair with the mRNA
+    catalysis
+    translocation
+    termination
+
+tRNA has cloverleaf secondary structure
+    anticodon loop - base-pairs with mRNA
+    3' end is conserved - always a CCA sequence, but not necessarily in gene
+    (added on by enzyme)
+        AAs added on to the 3' OH
+
+correct AA must be added; done by amino-acyl tRNA synthetase
+    must recognize unique elements in each tRNA:
+        anti-codon loop (some synthetases use it; problem: far away from CCA end)
+        dsRNA region near CCA sequence, and nearer stem-loop (most common)
+    "easy to recognize the AA - has R group"
+
+COO- of AA attacks a phosphate in ATP => activated AA
+
+the A's OH (really O- after proton abstracted) at the 3' end of the tRNA attacks the carbonyl
+in the activated AA => AMP leaves
+
+Proofreading activity
+    happens in separate active site of amino-acyl tRNA synthetase
+    makes sure we have the right AA
+    if incorrect, the AA is hydrolyzed off
+    but if correct, the enzyme disassociates
+    with this proofreading, the error rate is 1 in 10000 (mostly isoleucine/leucine)
+
+once the AA is on the tRNA, called aminoacyl tRNA or "charged" tRNA
+    immediately bound by EF-tu (most abundant protein in bacteria)
+    EF-tu has same affinity for every aminoacyl tRNA
+
+---
+how do we know where to start translation? start codon (AUG) can happen randomly
+    upstream is a shine-dalgarno sequence: AGGAGG consensus sequence - 5-10bp upstream
+
+ribosomes:
+
+50S - large subunit
+30S - small subunit
+the two subunits can be disassociated and reassociated
+
+before translation starts, initiation starts w/ just the 30S
+30S is bound by IF1 - binds A site, preventing tRNAs from associating w/ it
+IF3 helps prevent 50S from associating w/ 30S
+associates non-specifically w/ ssRNA - slides along 5' to 3'
+    (recall prokaryotic transcription - also scanning)
+
+rRNA has UCCUCC complementary to Shine-dalgarno sequence
+
+in prokaryotes, first AA is N-formyl Met
+
+IF2 makes sure that everything is assembled correctly, then recruits 50S subunit
+and hydrolizes the GTP attached to itself (IF2)
+    => all IF's fall off
+    "happens _so fast_; nobody has identified any sub-steps"
+
+---
+now the A site is free - tRNAs come into it (still bound to EF-tu-GTP)
+they must base-pair with the mRNA sequence next to the A site
+proofreading:
+    if incorrect, boot off tRNA (and EF-tu)
+    if correct, GTP hydrolized and EF-tu disassociates
+    this allows peptidyl transfer to happen
+
+N lone pair on AA of A site tRNA attacks the C=O of the P site tRNA
+    the tRNA is the leaving group
+
+as the AA chain grows, it protrudes out of a tunnel in the 50S subunit
+
+--
+translocation:
+
+the uncharged tRNA gets booted out the back
+ribosome must go exactly 3 bases forward - the 3 paired bases at the P site tRNA is 
+very important for this
+
+can have a wobble base pair (G=U) at the 3 position (but not 1 or 2 positions)
+
+wobble bases are prevented at 1 and 2 positions because the tRNA will pop out if "hugged"
+    one tRNA can decode multiple mRNA codons
