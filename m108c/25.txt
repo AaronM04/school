@@ -1,0 +1,91 @@
+2013-06-05 Wed
+------------------
+Lecture 24 - prokaryotic translation
+
+overview:
+    initiation - 30S + IF1/3 scanning
+    decoding - charging tRNAs (delivered by EF-tu)
+             - mRNA decoding
+    catalysis
+    translocation
+    termination
+
+tRNA is given a squeeze; if base-paired incorrectly, pops out
+
+rRNA A1492 and A1493 "talk to" the EF-tu - they flip from out to in => EF-tu's GTP hydrolized
+    acts as a switch: "is there tRNA?"
+
+catalysis:
+    amide is very stable, making rxn irreversible
+    tRNA is actually the leaving group for the amide formation
+
+translocation:
+    EF-G burns GTP (???)
+
+---
+termination:
+
+a lot more is known about translational termination than transcriptional termination
+
+there are no tRNAs that decode stop codons; instead, decoded by a protein factor:
+    release factor (RF)
+    in E coli, 2 RF's to decode 3 stop codons
+
+    release factor binds at the A site - catalyzes hydrolysis of tRNA-polypeptide bond
+
+    hydrolizes GTP of EF-G
+
+    now, ribosome recycling factor (RRF) comes in
+        "ppl don't really know what's going on here"
+        disassociates ribosome into its two subunits
+
+what happens when we start translating a message that has no stop codon?
+    ribosome just goes to the 3' end of the mRNA
+    release factors can't come in since there's no stop codon
+    solution: tmRNA
+        has both tRNA and mRNA properties!
+        no anticodon loop, just a very long loop that acts like mRNA
+        charged w/ Ala
+        does peptidyl transfer, then moves to P site, then kicks off mRNA
+            ???recruits RNAse???
+            switches ribosome to its own reading frame, which has a stop codon
+
+---
+things that happen co-translationally to the nascent protein
+
+peptide comes out an exit tunnel out of the large subunit (50S)
+
+folding happens from N-terminal to C-terminal end; if it didn't, wouldn't fold correctly
+
+factors influencing folding:
+    ionic
+    hydrogen bonds
+    hydrophobic effect
+        problem: when we first make a hydrophobic region, it is not happy sticking out into
+        cytoplasm (could aggregate with things)
+
+        solution: in prokaryotes, there's a trigger factor - assoc. w/ hydrophobic patches
+        trigger factor released when its partner comes out (???)
+        "there's a nice Nature paper about this"
+
+secretory protein - destined either for membrane or periplasm
+    transmemb. helices are very, very hydrophobic - too hydrophobic for trigger factor
+    all secreted proteins have a signal peptide
+        in prokaryotes, recognized by SecB
+        SecB brings the whole translation complex to secretion machinery
+            SecA (in the "machinery") recognizes signal peptide and burns ATP to get
+            polypeptide chain into SecY (in the membrane)
+
+            "the speed of translation matters"
+                we want the translation to be slow
+
+                if you put the signal peptide on a cytoplasmic protein, machinery gets stuck
+                because the protein translated too fast
+
+                ***in all secreted proteins, codon usage is different
+
+                some tRNAs ("rare codons") are only present in a couple hundred copies
+
+        in eukaryotes, something similar happens
+            SRP is equivalent to prokaryotic SecB
+            SRP does a "reach around" to stop translation :P
