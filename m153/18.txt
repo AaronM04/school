@@ -1,0 +1,29 @@
+2013-06-06 Thur
+-----------------
+Lecture 18
+
+Antibodies
+
+spleen responds to a new antigen - B cells that happen to have their surface Ab's binding to
+        the antigen will receive signals to a) proliferate, and b) pump out lots of Ab's
+
+you get a polyclonal antiserum, because there are multiple such B cells
+
+development of mAb's:
+    fuse B cells with cells from a cancerous cell line
+    will they become immortal and also still make these Ab's?
+
+---
+Are there more members of the Neurotrophin family?
+
+two regions of high homology; we make primers that bind to these
+###
+we have to get BDNF and NGF or else something is wrong with the experiment
+
+---
+Barn owls
+
+there is a critical period where the brain is still plastic and can adapt to filters that
+delay audio sounds
+
+
