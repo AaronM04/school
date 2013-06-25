@@ -1,0 +1,141 @@
+2013-06-25 Tues
+-----------------
+Lecture 2
+
+phonetics - study of all sounds and their minute differences
+phonemics - study of meaningful groups of sounds within a language
+
+the four fields
+    physical or biological anthropology
+    archaeology
+    linguistics
+    cultural anthropology
+
+    it is important to remember that the discipline is holistic
+    there are strong interconnections between the fields
+
+physical/biological anthropology
+    the study of human beings as biological organisms
+    there are four main divisions:
+        1. paleoanthropology [human paleontology]:
+            the study of ancient humans and human evolution
+
+            through fossil remains
+            through paleontology
+
+        2. primatology: the study of non-human primates
+        3. human variation: the study of biological variation in contemporary populations
+        and individuals
+
+            forensics: variation in individuals
+            race: variation in human populations
+
+        4. biocultural/biosocial anthropology: the study of the relationship btwn human
+        biology and culture
+            focus on human evolution in the context of culture: how culture impacts evolution
+            & how biology impacts culture
+
+            a bridge or a divide?
+
+            rigorous science or ethnocentric analysis?
+
+archaeology
+    archaeologists study cultures of the past through the excavation and analysis of the
+    material culture they have left behind
+
+    to reconstruct the cultures of the past, archaeologists rely on three kinds of material
+    remains:
+        1. artifacts: objects that have been made or modified by humans
+        2. features: non-portable elements that have been made or modified by humans
+        3. ecofacts: objects that were used but not modified by humans
+
+linguistics
+    anthropological linguists study spoken and written languages around the world and
+    throughout time
+
+    historical linguistics: the study of the emergence of language and how languages have
+    changed through time
+
+        glottochronology: the technique of determining the approximate date that two related
+        languages began to diverge
+
+    cultural linguistics (ethnolinguistics): the study of the relationship between culture
+    and language
+        
+        how vocabularies respond to what is important in a culture
+
+        how the categories of language can affect or reflect the way people categorize the
+        world
+
+        how grammatical structures can impact the way people perceive and think about the
+        world
+
+    sociolinguistics: the study of the relationship between language and social relations
+        
+        you speak in different ways to different people; what does this say about society?
+
+        we use the way people speak to evaluate them (e.g., Southern accents)
+
+    descriptive linguistics: the study of sounds, structures, and meanings within languages
+
+phonemics & phonetics
+    phonetics: the branch of linguistics that systematically studies all the sounds in
+    a spoken language
+
+    phonemics: the branch of linguistics that studies the meaningful groups of sounds in a
+    language
+
+    for ex: in American English, the phoneme /t/ includes many phonetic variations!
+        the "t" sound in "Matt" (four possibilities)
+            [?] Glottal stop
+            [?t] unreleased, preglottalized
+            [t] released, unaspirated
+            [t^th] released, aspirated
+        the "t" sound in "Bitter"
+            is the same sound as the "r" sound in the Spanish word "pero"
+
+    different languages group sounds differently
+        the /t/ sound in "mate"     in Spanish is a /t/ sound
+        the /t/ sound in "kitten"   in Spanish is not a sound
+        the /t/ sound in "bitter"   in Spanish is an /r/ sound
+
+    phonetically, they are three different sounds
+    phonemically, they are all /t/ sounds in English
+
+    the difference btwn phonetics and phonemics is perspective:
+        the phonetic perspective tries to evaluate sound rigorously and scientifically, but
+        ignores local categories and meanings
+
+        the phonemic perspective ###
+
+emics and etics
+    the _etic_ approach: a rigorous and systematic attempt which uses cultural theories to
+    analyze and describe culture
+
+        phonetics: the branch of linguistics that rigorously and systematically studies
+        all the sounds in a spoken language
+
+    the _emic_ approach: an attempt to understand and describe the meanings that ideas and
+    practices have to members of a culture.
+        phonemics: the branch of linguistics that studies the meaningful groups of sounds in
+        a language
+
+        e           e
+        theory      meanings
+        i           i
+        c           c
+
+cultural anthropology
+    ethnography: the anthropological description of a particular contemporary culture usually
+    by means of direct fieldwork
+        ethnography can be emic, etic, or both
+
+    cultural anthropologists use both ethnography and ethnology to study culture
+
+    ethnology: the comparative study of cultural differences and similarities
+
+        ethnography                     ethnology
+        ------------                    -----------
+        descriptive                     comparative
+        based on direct fieldwork       uses data collected by others
+        focuses on a single culture     generalizes across cultures
