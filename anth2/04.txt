@@ -1,0 +1,114 @@
+2013-06-27 Thur
+----------------
+Lecture 4
+
+[15 min late :(]
+
+if a tree falls in the forest, and nobody is there to hear it, does it make a sound?
+    NO!
+
+the riddle is solved!
+    when a tree falls it makes a wave (objectively)
+    if somebody hears the wave, they will interpret it as a sound (Subjectively)
+
+the critical distinction is btwn:
+    the objective nature of the wave
+    the subjective experience of the sound
+
+the science of culture:
+    aspects of culture exist objectively
+    but much of culture is subjective
+
+ontology: the study of what actually exists
+    ontology = existence
+    some things exist objectively (e.g., the tree, the wave, you)
+    some things exist subjectively (e.g., sounds, colors, _meanings_)
+
+science is the process of building knowledge about what exists
+    "hard" science: the object of study exists objectively
+    social science: the object of study often exists subjectively
+
+epistemology: the study of nature and scope of knowledge
+    epistemology = knowledge
+    knowledge is always subjective to some degree
+
+"hard" science: the objects of study exist objectively
+    scientists try to build objective knowledge
+    validity: the degree to which our understanding of something is objectively true
+    reliability: the ability of others to independently construct the same knowledge
+
+social science: the object of study is often subjective
+    we are interested in _more_ than subjective existence
+    we are interested in subjective meanings
+        for example, a different kind of wave
+            objectively, my hand moved
+            subjectively, my hand moving has a meaning
+    _credibility_: worthy of belief or confidence
+
+    "the only way we can study the wave is to embrace (not eliminate) subjectivity"
+
+intersubjectivity
+    there is no objective perspective on culture!
+        there is no One Truth
+
+    cultural anthropology tries to build credible knowledge by combining different
+    subjective perspectives = _Intersubjective_
+        build an emic perspective
+            grasp native points of view
+        include etic perspectives
+
+--
+venn diagram:
+    ethnocentrism vs. cultural relativism
+    etic and emic partially overlap with each other and with both of the above
+
+early anthropology
+    Edward Tylor: the first "Anthropologist"
+        1871: "Primitive Culture"
+        Psychic Unity: All human minds operate on the same "natural logic"
+            a way to combat racism (prevalent at the time), although Tyler was somewhat
+            racist...
+        Comparative Method: "primitive" cultures represent earlier stages of "advanced"
+        societies
+        Armchair Anthropology: Used "data" from travelers, missionaries, and colonial
+        administrators
+            Book: "Notes and Queries on Anthropology for the use of Travelers and Residents
+            in Uncivilized Lands"
+    Lewis Henry Morgan
+        Out of the Armchair and onto the Veranda
+        1877 "Ancient Society"
+        Unilineal social evolution: all societies pass through the same stages of evolution
+        as they progress
+
+            savagery -> barbarism -> civilization
+
+        problems:
+            ethnocentrism: everybody was evolving towards being Europeans
+            unilinear (typologies and trajectories) - the whole continuum doesn't exist!
+
+    Franz Boas
+        historical particularism: each society is a collective representation of its
+        unique historical past
+
+        the first anthropologist to practice _Cultural Relativism_!
+
+        fieldwork with the Kwakiutl around the turn of the 20th century
+            Participant-Observation?
+
+    Bronislaw Malinowski
+        Fieldwork on the Trobriand Islands from 1915-18
+        Participant-Observation: long-term, living with the "natives" as is done today
+        Functionalism: the theory that all cultural practices and institutions serve a
+        function
+
+        unlike Boas, he looked at the emic perspective
+
+    venn diagram again:
+        ***this slide might come up on the midterm
+
+video, pay attention to:
+    his theory of functionalism
+    his research method of Participant-Observation
+    beliefs in and uses of magic
+    the Kula exchange
+    [back to video on Monday]
