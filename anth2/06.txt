@@ -1,0 +1,163 @@
+2013-07-02 Tues
+--------------
+Lecture 6
+
+[5 min late]
+
+Participant-Observation
+    instead of farther away, get closer
+    not as disconcerting
+    Heisenburg effect
+
+    Rashomon effect: our interp of culture is subjective (subject to our
+    biases, ethnocentrism, expectations, etc.)
+        name comes from a rape&murder where all the witnesses had different stories
+
+    5. to be reflexive: consider your own role and impact
+
+        2 anth'ists go to a wedding, diff. perspectives:
+            if your idea is love:
+                symbolism of ring, etc.
+            if your idea is economic exchg:
+                focus on diff. things
+                    gifts, who paid, etc.
+    reflexive ethnography: the inclusion in the ethnography of a careful reflection on:
+        1. how you did your fieldwork
+        2. how you may have influenced the culture you observed
+        3. how you may be biased in your interpretation
+
+    armchair -> onto verandah -> into their own ethnographies
+
+    don't write ethnographies as if they weren't there; they _were_ there
+
+    6. to survive
+        culture shock
+        diseases
+            very often, anth'ists get sick when they first get there
+        violence
+
+ethical obligations
+    primum non nocere - "first, do no harm"
+        first 3 words of Hippocratic oath
+        we recognize that as anth'ists we can do harm
+        we collectively agree that doing harm is wrong
+
+    we have responsibilities to a lot of diff. groups
+        _priority to the researched group_
+            informed consent and confidentiality
+        responsibility to the Discipline
+            protect anth'y's reputation (e.g., Project Camelot)
+                caused anth'ists to be perceived as spies
+        responsibility to the Public
+            share the truth
+        responsibility to Sponsors and Gov'ts
+            we need to be honest and cautious
+
+the ethics of getting involved
+    should we stand up for human rights?
+        ethnic cleansing, sex trafficking, slavery, systematic violence against women
+        oppressive political regimes
+
+        are human rights universal? (48% of you said "yes")
+            where do we draw the line?
+
+        do we have the right to get involved? (51% said "yes")
+
+    should we become advocates or activists on behalf of less powerful groups with
+    whom we work?
+
+    should we try to change the practices of other cultures which we feel harm the
+    environment or animals?
+
+    *** deal with ethics in my paper
+
+    should anth'ists work w/ the military?
+        "anth'y is the handmaiden of colonialism"
+
+Human Terrain Systems
+    anth'y and the military
+        starting in 2004, US military made deliberate effort to incl. an anth'ical perspective
+            incl. anth'y in the curriculum
+            incl. anth'ists in the war
+    Human Terrain Systems
+        $300M miltary program
+        embedded anth'ists w/ combat units in Iraq and Afghanistan
+        it's obvious that the military could benefit from an anth'ical perspective
+        BUT... we are concerned about the military's goals vs the anth'ists' goals
+        suspended due to controversy in 2010
+
+Kinship Systems
+    kinship system: a system for organizing relationships that is rooted in biology, but
+    defined by culture
+        the ways we organize & categorize relatives are cultural & arbitrary
+            ex: gender matters for aunts/uncles, but not for cousins
+    kinship relationships are exceptionally important!
+        in most societies, kinship determines:
+            social position
+            the rights, responsibilities, & obligations of individuals
+            who you can marry, where you should live, what children you'll be responsible for
+            economic production and the control of assets
+
+            less important in the US than in most other societies
+
+    kinship terminology: the words used to identify diff. categories of kin
+        diff. cultures use diff. combinations of factors to establish kinship categories
+
+        kinship terminology studies suggest that a culture recognizes a kinship category
+        if there's a specific kinship term for that category
+
+        ethnolinguistic theory: the terms _reflect and affect_ the social relationships
+        with kin
+
+        most Americans use the "Eskimo System"
+
+        seven factors used to classify Kin:
+            1. Generation
+            2. Relative Age
+            3. Gender
+            4. Gender of linking relative
+            5. Lineal or Collateral (vertical or horizontal)
+            6. Bifurcation (Mother's side/Father's side)
+            7. Consanguine or Affine (by blood or by law)
+
+            2,4,6 are not important for Eskimo system
+
+        diff btwn mother & aunt in Eskimo system: lineal vs. collateral
+        
+        Eskimo system
+            mother: +1 generation, women, lineal
+            aunt: +1 generation, woman, collateral
+
+        Iriquois system
+            "mom": +1 generation, woman, mother's side
+            "aunt":+1 generation, woman, father's side
+
+            "father":+1 generation, man, father's side
+            "uncle": +1 generation, man, mother's side
+
+            used much more commonly than our system
+
+            father's brother's children are considered to be siblings
+
+            this shit's weird
+    
+    Descent
+        descent: a culturally established affiliation w/ one or both parents
+
+        bilateral descent: kinship affiliation is inherited by children of both sexes
+        _from both parents_
+
+        unilineal descent: kinship affiliation is inherited by children of both sexes
+        only _from one parent_
+
+            more common than bilateral descent
+
+        descent groups: a multi-generation group of consanguinal kin who are lineal
+        descendents of a common ancestor
+            lineage: a descent group that is linked by a known relative
+            clan: two or more lineages linked by an unknown or mythological relative
+
+        patrilineal descent: kinship affiliation is inherited by children of both sexes
+        ONLY from the father
+            similar to American last names except that women don't change them after marriage
+
