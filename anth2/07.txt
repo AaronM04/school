@@ -40,7 +40,7 @@ Household
         extended family household: consists of two or more lineally related kinfolk of the
         same sex, their spouses, and children
 
-    residence patterns: married couples set up new independent household
+    residence patterns:
         neolocal: married couples set up new independent household
             family of orientation: the family into which one is born or adopted and raised
 
