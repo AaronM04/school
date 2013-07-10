@@ -1,4 +1,4 @@
-2013-07-08 Tues
+2013-07-09 Tues
 -------------------
 Lecture 9
 
@@ -160,7 +160,7 @@ political typology:
     society
 
     however, these variables that the typologies use are really important
-        size & complexity of siciety, degree of social differentiation, degree of authority,
+        size & complexity of society, degree of social differentiation, degree of authority,
         economic production, wealth, and distribution system
 
         Boas - "cultures are products of their unique history"
