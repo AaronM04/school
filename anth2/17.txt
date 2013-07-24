@@ -1,0 +1,161 @@
+2013-07-24 Wed
+----------------
+Lecture 17
+means and modes of production
+    means of production: the factors or inputs that are required for any production process.
+        land, labor, and capital
+
+    land: includes land (space to do things) and natural resources
+
+    labor: the human work that is invested in production
+
+    capital: includes all human-made or owned resources (money, technology, knowledge,
+        tractors, animals, factories, relationships, etc.)
+
+    mode of production: the cultural system that organizes and allocates the means of
+        production.
+
+        a mode of production includes:
+            land: the cultural rules concerning the ownership and control of land and
+            resources
+
+            _relations of production_: the social systems that organize labor (e.g.,
+            wage, household, communal, cooperative)
+
+            capital: the kinds of available capital and the rules about capital (e.g.,
+            who controls the capital, how capital is allocated)
+
+Capitalist mode of production
+    private ownership of land, resources, and capital
+        private ownership creates incentives
+            to increase efficiency
+            to externalize some of the costs of doing business
+            _externality_: a cost that is not paid by the producer
+                the more costs you can externalize, the more profit you can make
+        
+        wealth can be accumulated, stored, and inherited
+
+        the means of production are controlled by relatively few individuals or firms
+
+    relations of production are determined by the wage labor system
+        the majority sell their labor to others
+
+        the most valuable factor that individuals control is knowledge
+
+Mode of production in San Pablo
+    communal ownership of land
+        every community member has access to land
+
+    relations of production (labor)
+        wage labor (100 pesos/day = $7.50/day) - very strong preference against this
+        household labor (including children) - most common form
+        cooperative labor: unpaid labor by non-household members
+            a few days in advance, you personally invite ppl to do the work
+            provide them with food and drink
+            hard work!
+
+            commonly used for burning a swidden or building a roof on a house
+    
+    _social capital_: the ability to secure benefits through membership in social groups
+        In San Pablo, the most valuable factor that individuals control is social capital
+
+        why do workers participate if they aren't getting paid?
+            reciprocity, prestige, value, introjection, solidarity
+
+Economic rationality
+    in every system, people have economic decisions to make
+
+    anthropologists analyze economic decisions differently than economists!
+        1. self-interest
+            economists assume that people are self-interested
+
+            anthropologists argues that ppl are self-interested, but only within a range that
+            is considered culturally and morally appropriate
+
+        2. profit motive
+            economists assume that the only rational economic decision is to maximize your
+            income or profits
+
+                there is only one rational strategy, and lots of irrational people!
+
+            anthropologists assume that people make rational economic decisions
+                people make decisions based on their knowledge of costs, benefits, and risks
+
+    Alexander Cayanov explored important differences btwn Capitalist rationality and
+    Peasant rationality
+
+    the cost of labor
+        in capitalism, the cost of labor is quantifiable in terms of wages
+
+        peasants perform the labor themselves (they "self-exploit"); the cost of their
+        labor is "drudgery"
+
+    the goal of economic production
+        the goal of Capitalist enterprise is maximizing profit
+
+        the goal of Peasants is satisfying the consumption needs of their family
+
+    Capitalist "rationality"
+        calculates profitability as a function of quantifiable revenues less quantifiable
+        expenses incl. wages
+
+        rational to invest at the point that maximizes profitability
+
+    Peasant "rationality"
+        not determined by quantifiable costs, revenues, and profits
+
+        "[Peasants'] degree of self-exploitation is determined by a peculiar equilibrium btwn
+        family demand satisfaction and the drudgery of labor itself" (Chayanov)
+
+    Different rationalities
+        Capitalists balance marginal revenue w/ marginal cost
+
+        Peasants balance drudgery of labor w/ family needs/wants
+
+        _Peasant production decisions are rational even though they may be considerably
+        different than capitalist decisions_
+
+Corn in NAFTA
+    under NAFTA, the price of corn in Mexico went down
+        economists assumed that when prices dropped, the farmers would grow less corn on
+        marginal lands
+
+        but peasant farmers in San Pablo and throughout Mexico started growing more corn
+        on marginal land!
+
+    why are they growing more corn?
+        _Peasant rationality_: balance the needs of the family against the drudgery of labor
+
+        growing corn is still their best economic option
+
+        since they are getting less money for their corn, they need to grow and sell more
+        of it!
+
+        given this context, their decision is perfectly rational
+
+    misunderstanding their rationality has had significant social, economic, and
+    environmental consequences
+
+    rational economic actors may seek:
+        to maximize profit, prestige, security, pleasure, or harmony
+
+        to minimize work, drudgery, boredom, or risk
+
+        to strike a balance btwn any of the above
+
+        to ensure some minimum level of income
+
+    these are all very rational goals given a particular cultural context
+
+    but they result in dramatically different decisions
+
+---
+Cornelio and selling his beans
+    price is normally 15 pesos/kg
+    price went up to 18 pesos/kg - he just sold the normal amount
+    price skyrocketed up to 30 pesos/kg - he didn't sell any!
+    maximizing profit is not the only rational decision
+    he wanted to maximize his family's security
+    to us, wealth is money - to Cornelio, wealth is Beans
+    to us, the value of beans is going up - to Cornelio, the value of pesos is going down
+        (peso value _was_ going down: 10 pesos/$ -> 15 pesos/$)
